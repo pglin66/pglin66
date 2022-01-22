@@ -1,6 +1,6 @@
 ### <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> Hi, I'm [pglin66](https://bsie.gitee.io)
 
-- 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
+- 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
 - ✨ <%= one %>
 
@@ -24,8 +24,10 @@
 
 #### 其他
 
-![](https://img.shields.io/badge/bsie404-07C160?style=flat-square&logo=WeChat&logoColor=ffffff)
-![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
+![](https://img.shields.io/badge/QQ506112190?style=flat-square&logo=WeChat&logoColor=ffffff)
+![](https://img.shields.io/badge/506112190-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=pglin66)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notbucai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <code  align="right">update: <%= time %></code>
