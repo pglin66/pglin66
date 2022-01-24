@@ -24,7 +24,7 @@
 
 #### 其他
 
-![](https://img.shields.io/badge/QQ506112190?style=flat-square&logo=WeChat&logoColor=ffffff)
+![](https://img.shields.io/badge/qq506112190?style=flat-square&logo=WeChat&logoColor=ffffff)
 ![](https://img.shields.io/badge/506112190-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=pglin66)
 
