@@ -24,10 +24,10 @@
 
 #### 其他
 
-![](https://img.shields.io/badge/QQ506112190?style=flat-square&logo=WeChat&logoColor=ffffff)
+![](https://img.shields.io/badge/qq506112190?style=flat-square&logo=WeChat&logoColor=ffffff)
 ![](https://img.shields.io/badge/506112190-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=pglin66)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/24/2022, 9:33:49 AM</code>
+<code  align="right">update: 1/24/2022, 9:35:17 AM</code>
