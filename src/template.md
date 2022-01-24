@@ -28,6 +28,6 @@
 ![](https://img.shields.io/badge/506112190-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=pglin66)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notbucai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notbucai&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
 <code  align="right">update: <%= time %></code>
