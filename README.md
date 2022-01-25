@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 有时候，只要把心胸敞开，快乐也会逼人而来。这个世界，这个人生，有其丑恶的一面，也有其光明的一面。良辰美景，赏心乐事，随处皆是。智者乐水，仁者乐山。雨有雨的趣，晴有晴的妙，小鸟跳跃啄食，猫狗饱食酣睡，哪一样不令人看了觉得快乐？
+- ✨ 我们唯一不会改正的缺点是软弱。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/25/2022, 2:11:23 AM</code>
+<code  align="right">update: 1/25/2022, 8:45:58 AM</code>
