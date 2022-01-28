@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 真正悲伤过的人都是心存善念的。
+- ✨ 你有点喜欢我，我也有点喜欢你，这是真的。我们就好好的把这点‘喜欢’留在心头，将来也有个好见面的日子。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/28/2022, 2:14:05 AM</code>
+<code  align="right">update: 1/28/2022, 8:41:07 AM</code>
