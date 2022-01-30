@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 如果再把眼光放得更远，让思虑钻得更深，则眼前到处是看不见的陷阱。
+- ✨ 我拿本书，在长椅上晒太阳，心变得软软的，容易流泪，像个多愁善感的老头。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/30/2022, 2:16:50 AM</code>
+<code  align="right">update: 1/30/2022, 8:41:45 AM</code>
