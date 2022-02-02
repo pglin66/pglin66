@@ -2,10 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你和我一样走在每个世界；别对我说
-你不存在，你是存在的，我们必须相遇；
-我们不会认出对方，面戴伪装笨拙踉跄，
-我们出发走在每条路上。
+- ✨ “妨碍幸福本身的，正是回忆曾经的幸福。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -33,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/2/2022, 2:14:00 AM</code>
+<code  align="right">update: 2/2/2022, 8:43:13 AM</code>
