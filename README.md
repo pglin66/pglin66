@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 透过美丽的大自然、幻想和音乐，我们知道了生活美好的一面；可是透过现实，我们知道的却是生活残酷的一面。
+- ✨ 很多人迷失在手段里了，忘了不论多大的事业，真正的目的是为了生活。所以，歌德告诫我们：不要忘了生活。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/4/2022, 2:13:40 AM</code>
+<code  align="right">update: 2/4/2022, 8:42:06 AM</code>
