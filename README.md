@@ -2,7 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生活，人人都有生活，它几乎是一个广阔无垠的概念。在家中，天天开门七件事：柴、米、油、盐、酱、醋、茶，人人都必须有的。这且不表。要处理好家庭成员的关系，不在话下。
+- ✨ 绿蚁新醅酒，
+红泥小火炉。
+晚来天欲雪，
+能饮一杯无？
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/6/2022, 2:10:39 AM</code>
+<code  align="right">update: 2/6/2022, 8:51:48 AM</code>
