@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 古之成大事者，不惟有超世之才，亦有坚忍不拔之志。
+- ✨ 书上说最好的爱情，不是互相嫌弃，而是发现彼此的缺点，然后一起克服，一同进步。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/8/2022, 2:13:09 AM</code>
+<code  align="right">update: 2/8/2022, 8:43:39 AM</code>
