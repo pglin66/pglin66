@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人生就像一面山坡，当您往上走的时候，看到的是顶峰，内心就会充满希望；可是一旦到达顶峰，展现在你眼前的，就是可怕的下坡，终点通向死亡。上坡的时候，我们步履艰辛缓慢，可是下坡的时候，速度却很快。在您这种年龄，人人都对未来充满美好的幻想，尽管最后都是一无所获。可是到了我这种年龄，人们已不再有任何希望，只有等待……死亡的降临。
+- ✨ 霓虹闪烁，人生多幻；世间的一切都会老去，唯有文心青春永在。它可以清词丽句，婉转流连；它可以凄绝淡远，起伏万千。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/11/2022, 2:12:59 AM</code>
+<code  align="right">update: 2/11/2022, 8:48:26 AM</code>
