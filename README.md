@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 学校像复杂森林，最难的是面对你不知道的树木，有的是海滩来的，有的是沼泽来的，有的高山来的又不能适应平地。我们怎么教他们面对海风、潮湿或大雪？于是我们用了最简单的教育，砍光后种同一种树，好教又好骗，现在山上是这样种树，很容易出现疾病就一起死光光，所以我说学校是坟场。
+- ✨ 外面是大世界的纷扰，心中却自有一番小天地的谦薄自守。往来的也都是些相像的人，没什么野心，青梅煮酒流年去，菊黄蟹肥正当时。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/14/2022, 2:12:39 AM</code>
+<code  align="right">update: 2/14/2022, 8:41:56 AM</code>
