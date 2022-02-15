@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 外面是大世界的纷扰，心中却自有一番小天地的谦薄自守。往来的也都是些相像的人，没什么野心，青梅煮酒流年去，菊黄蟹肥正当时。
+- ✨ 你不必让自己那么痛苦，感到痛不是出于你的选择，但你选择了让自己痛苦。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/15/2022, 2:13:15 AM</code>
+<code  align="right">update: 2/15/2022, 8:50:30 AM</code>
