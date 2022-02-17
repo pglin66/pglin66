@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 他的出现是为了带你到某个地方，那里有不一样的风景，你会看见命运，看见你自己。
+- ✨ 我也不能不去上班，走到灰色的人群里去，一路走一路想入非非：活着成为一只猪和死掉，也不知哪个更可怕。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/17/2022, 2:13:57 AM</code>
+<code  align="right">update: 2/17/2022, 8:40:25 AM</code>
