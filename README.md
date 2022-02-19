@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生活中的痛苦，我们彼此给予又彼此治愈，感谢我们自己，千辛万苦，春短秋长，那么认真地，生活着。
+- ✨ 规矩虽然很重要，但当大家都默契地无视规矩的时候，你太较真，反而会受排挤。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/19/2022, 2:14:02 AM</code>
+<code  align="right">update: 2/19/2022, 8:48:38 AM</code>
