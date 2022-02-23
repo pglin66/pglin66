@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 善意是我活下去，并且争取好好活下去的动力。比起恶意地看世界，善意地看世界其实要困难得多。
+- ✨ 幸福感这种东西，会沉在悲哀的河底，隐隐发光，仿佛砂金一般。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/23/2022, 2:14:49 AM</code>
+<code  align="right">update: 2/23/2022, 8:53:08 AM</code>
