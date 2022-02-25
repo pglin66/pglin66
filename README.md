@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 能用吵架解决的问题，千万别藏在心里；
-能发泄出来的情绪，千万别把它当真。
+- ✨ 你总是关心别人几岁。人重要的不是年龄，而是经历，有的人活到一百岁也没经历过什么事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/25/2022, 2:14:47 AM</code>
+<code  align="right">update: 2/25/2022, 8:50:39 AM</code>
