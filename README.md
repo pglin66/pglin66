@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你总是关心别人几岁。人重要的不是年龄，而是经历，有的人活到一百岁也没经历过什么事。
+- ✨ 除了空气、睡眠、做梦以及大海、天空这些基本的东西以外，什么都不属于你。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/26/2022, 2:14:47 AM</code>
+<code  align="right">update: 2/26/2022, 8:45:20 AM</code>
