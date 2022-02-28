@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “这个世界最难的事莫过于在多变的世界里维持不变的关系。”成年人的世界里没有永恒。
+- ✨ “与其苦苦追寻失去的东西，还不如好好珍惜自己眼前拥有的东西。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/28/2022, 2:13:54 AM</code>
+<code  align="right">update: 2/28/2022, 8:49:55 AM</code>
