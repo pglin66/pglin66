@@ -2,7 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 很多人，能忍受生活的各种苦，唯独受不了读书的苦。但他们不知道的是：生活的苦，是一种消耗；而读书的苦，是收获，是重塑。
+- ✨ 醉过才知酒浓
+爱过才知情重 
+你不能做我的诗
+正如我不能做你的梦
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/4/2022, 2:14:27 AM</code>
+<code  align="right">update: 3/4/2022, 8:56:02 AM</code>
