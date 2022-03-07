@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 为了我这短促的不久的生，我越求生得厉害；不是我怕死，是我总觉得我还没享有我生的一切。我要，我要使我快乐。
+- ✨ 诗人有时塑造悲剧，而人生则是千百次地塑造悲剧，上面这出悲剧在一切悲剧中最为气势磅礴，宏伟绝伦。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/7/2022, 2:13:33 AM</code>
+<code  align="right">update: 3/7/2022, 8:50:47 AM</code>
