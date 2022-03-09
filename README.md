@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 爱是浓烈，爱是淡然，爱是巨浪，爱是暗涌，爱是奋不顾身，爱是瞻前顾后，爱是每天说爱你，爱是从不说爱你，爱是你满世界疯狂找那个人的消息，爱是你不愿看那个人的任何消息，爱可能是任何样子，不要让死板的句子成为你人生的标尺。
+- ✨ 世界是处在干净与肮脏之间的永恒的现实，人心也可以这样大致去加以分析。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/9/2022, 2:14:32 AM</code>
+<code  align="right">update: 3/9/2022, 8:50:59 AM</code>
