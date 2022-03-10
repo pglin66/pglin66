@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 世界是处在干净与肮脏之间的永恒的现实，人心也可以这样大致去加以分析。
+- ✨ 人只能一直朝前走，不能回头看，否则就会像我一样，在某个长大成人的清晨，坐在电脑前写下这些文字并默默地想：再见啦，少年。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/10/2022, 2:14:36 AM</code>
+<code  align="right">update: 3/10/2022, 8:53:26 AM</code>
