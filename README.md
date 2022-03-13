@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我的秘诀就是：千万不要让脑筋懒惰，脑筋要永远不停地思考问题。
+- ✨ 生活注定无法摆脱愁绪、没完没了的困境和烦闷不堪的夜晚。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/13/2022, 2:13:52 AM</code>
+<code  align="right">update: 3/13/2022, 8:49:37 AM</code>
