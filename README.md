@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们太迷恋结尾了。这个世界有那么多伟大的生命和美好的爱可以见证和体验，但是只要结局不尽如人意，我们立刻觉得这是悲剧。或者正好相反，只要结局有一刻的救赎，一生的不公和痛苦都可以忽略不计。只看结果，其他都不重要吗？
+- ✨ 当我们喜欢一个人，仿佛不彻底地贬低自己，就无从证明这份情感的高贵：把自己反复折叠，终至渺小，只求能嵌进对方生活的可怜兮兮的模样。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/18/2022, 2:14:43 AM</code>
+<code  align="right">update: 3/18/2022, 8:51:38 AM</code>
