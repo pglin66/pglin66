@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 当我们喜欢一个人，仿佛不彻底地贬低自己，就无从证明这份情感的高贵：把自己反复折叠，终至渺小，只求能嵌进对方生活的可怜兮兮的模样。
+- ✨ 世界也许是丑恶的，但人不必如此。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/19/2022, 2:14:48 AM</code>
+<code  align="right">update: 3/19/2022, 8:49:18 AM</code>
