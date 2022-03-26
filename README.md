@@ -2,7 +2,12 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 只有当你不把努力当作努力时，你才能沉迷于一件事，才能埋头苦干，这是才能的证明。
+- ✨ 明天，明天起来后我要重新做人
+我要成为宇宙的孩子 世纪的孩子
+挥霍我自己的青春
+然后放弃爱情的王位
+去做铁石心肠的船长
+走遍一座座喧闹的都市
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +35,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/26/2022, 2:15:49 AM</code>
+<code  align="right">update: 3/26/2022, 8:52:53 AM</code>
