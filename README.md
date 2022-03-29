@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “如果你允许的话，我想在你老的时候仍然爱你。”
+- ✨ 生活它不是深渊，它是你走过的平原和你想登上的高山，它就像我们睡过的每一张床，你从来不会陷下去，也许它不属于我们，但它一定属于你，你觉得它往下，是因为引力，它绝不会把你拖下深渊，它只想让你伏在地上，听听它的声音，当你休息好了，听够了，你随时可以站起来。你懂么？
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/29/2022, 2:15:37 AM</code>
+<code  align="right">update: 3/29/2022, 8:58:20 AM</code>
