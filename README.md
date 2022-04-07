@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 过往的生活教会我的东西最重要的一件便是对于事情变坏的敏锐嗅觉，每当一件事情变好，我会怀疑是不是有什么坏东西正在悄无声息地靠近，好像有句话叫：上帝关上了一扇门，一定会为你打开一扇窗。这句话在我的脑海中变成：上帝为你打开一扇窗，一定会为你关上一扇门。
+- ✨ 人这一世，无非就是一个人一个人地认识，又一个人一个人地离开。做人真是空空一场，丝毫没有意思。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/7/2022, 2:16:58 AM</code>
+<code  align="right">update: 4/7/2022, 8:57:49 AM</code>
