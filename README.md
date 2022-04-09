@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，也便成了路。
+- ✨ 人世间最痛苦的事莫过于上班，比上班更痛苦的莫过于天天上班，比天天上班痛苦的莫过于加班，比加班痛苦的莫过于天天加班，比天天加班痛苦的莫过于免费加班。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/9/2022, 2:16:18 AM</code>
+<code  align="right">update: 4/9/2022, 8:56:24 AM</code>
