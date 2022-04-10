@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人世间最痛苦的事莫过于上班，比上班更痛苦的莫过于天天上班，比天天上班痛苦的莫过于加班，比加班痛苦的莫过于天天加班，比天天加班痛苦的莫过于免费加班。
+- ✨ 我们不去读世界，世界也在读我们
+我们早被世界借走了，它不会放回原处
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/10/2022, 2:14:34 AM</code>
+<code  align="right">update: 4/10/2022, 8:59:34 AM</code>
