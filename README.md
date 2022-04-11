@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们不去读世界，世界也在读我们
-我们早被世界借走了，它不会放回原处
+- ✨ 伟大的生命，不论以何种形式，将会在宇宙间永存。我们这个小小星球上的人类，也将继续繁衍和发展，直至遥远的未来。可是，生命对于我们来说又多么短暂，不论是谁，总有一天，都将会走向自己的终点。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/11/2022, 2:15:04 AM</code>
+<code  align="right">update: 4/11/2022, 8:58:03 AM</code>
