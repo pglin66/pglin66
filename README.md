@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 没有人可以去爱的时候，我们会变得古怪；而新感情到来时，旧感情总是在一段时间内挥之不去。人就是这样。
+- ✨ 从此我不再希求幸福，我自己便是幸福。凡是我遇见的我都喜欢，一切都被接受，一切对我都是可爱的。从这时候起我使我自己自由而不受限制，我走到我所愿去的地方，我完全而绝对地主持着我自己。温和地，怀着不可抗拒的意志，从束缚着我的桎梏下解放我自己。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/17/2022, 2:14:57 AM</code>
+<code  align="right">update: 4/17/2022, 9:01:03 AM</code>
