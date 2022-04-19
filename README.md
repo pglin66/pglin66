@@ -2,7 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 早知如此绊人心，何如当初莫相识。
+- ✨ 判断该做什么事情，我给你两个标准：
+第一，做的时候喜欢、快乐，做了以后一定不会后悔的事情。
+第二，做的时候未必喜欢、快乐，但不做一定会后悔的事情。
+有这两个标准基本就够了，而且它们很好掌握。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/19/2022, 2:17:02 AM</code>
+<code  align="right">update: 4/19/2022, 9:09:57 AM</code>
