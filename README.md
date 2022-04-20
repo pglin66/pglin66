@@ -2,10 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 判断该做什么事情，我给你两个标准：
-第一，做的时候喜欢、快乐，做了以后一定不会后悔的事情。
-第二，做的时候未必喜欢、快乐，但不做一定会后悔的事情。
-有这两个标准基本就够了，而且它们很好掌握。
+- ✨ 感觉青春就这样过去了，这让我感到慌张。这些年我发生了哪些变化？好像只是变得大手大脚，对人不再信任，眼光变高，成了俗人。这让我颇为不安。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -33,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/20/2022, 2:16:03 AM</code>
+<code  align="right">update: 4/20/2022, 9:12:51 AM</code>
