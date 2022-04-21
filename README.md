@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 感觉青春就这样过去了，这让我感到慌张。这些年我发生了哪些变化？好像只是变得大手大脚，对人不再信任，眼光变高，成了俗人。这让我颇为不安。
+- ✨ 在孤单与等待的漫长日子，学会过自己的生活吧。为了那个将会遇到的人，你要把自己养得更可爱。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/21/2022, 2:15:23 AM</code>
+<code  align="right">update: 4/21/2022, 9:05:36 AM</code>
