@@ -2,7 +2,11 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 后来，我才明白，不是长大了就会变得强大，有时候甚至会变得更懦弱胆小，可惜，小时候总盼着快点长大，大了却再也回不到小时候。
+- ✨ 我们沿着铁轨奔跑
+进入一个个名叫城市的地方
+出卖青春，出卖劳动力
+卖来卖去，最后发现身上仅剩一声咳嗽
+一根没人要的骨头
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/24/2022, 2:14:52 AM</code>
+<code  align="right">update: 4/24/2022, 8:58:39 AM</code>
