@@ -2,11 +2,13 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们沿着铁轨奔跑
-进入一个个名叫城市的地方
-出卖青春，出卖劳动力
-卖来卖去，最后发现身上仅剩一声咳嗽
-一根没人要的骨头
+- ✨ 这是一个最好的时代，这是一个最坏的时代；
+这是一个智慧的年代，这是一个愚蠢的年代；
+这是一个信仰的时期，这是一个怀疑的时期；
+这是一个光明的季节，这是一个黑暗的季节；
+这是希望之春，这是失望之冬；
+人们面前应有尽有，人们面前一无所有；
+人们正踏上天堂之路，人们正走向地狱之门。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -34,4 +36,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/25/2022, 2:15:00 AM</code>
+<code  align="right">update: 4/25/2022, 8:58:10 AM</code>
