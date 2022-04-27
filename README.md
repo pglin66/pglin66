@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 狐狸说：“对我来说，你只是一个小男孩，就像其他成千上万个小男孩一样没有什么两样。我不需要你。你也不需要我。对你来说，我也只是一只狐狸，和其他成千上万的狐狸没有什么不同。但是，如果你驯养了我，我们就会彼此需要。对我来说，你就是我的世界里独一无二的了；我对你来说，也是你的世界里的唯一了。”
+- ✨ 你有信仰就年轻，疑惑就年老；有自信就年轻，畏惧就年老；有希望就年轻，绝望就年老；岁月使你皮肤起皱，但是失去了热忱，就损伤了灵魂。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/27/2022, 2:16:19 AM</code>
+<code  align="right">update: 4/27/2022, 9:15:03 AM</code>
