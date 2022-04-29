@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 命运给你很多难堪，不一定是真心跟你过不去，有可能是要提醒你不断去提高生存技能。毕竟，普通玩家只有标准配置可以选，高端玩家一切全凭自定义。
+- ✨ 懂事会让一个人固化，会让一个人在遇到问题的时候第一个亏欠的就是自己。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/29/2022, 2:17:14 AM</code>
+<code  align="right">update: 4/29/2022, 9:04:38 AM</code>
