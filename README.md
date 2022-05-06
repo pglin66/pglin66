@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 但不管怎么样，有许多人把夏天吃到第一口西瓜的日子当成普通的日子一样对待，叫人黯然神伤。那可是夏天正式开启的重要日子，否则它和其他的季节比起来有什么特别的呢。
+- ✨ 要做这样的女子：面若桃花、心深似海、冷暖自知、真诚善良、触觉敏锐、情感丰富、坚忍独立、缱绻决绝。坚持读书、写字、听歌、旅行、上网、摄影，有时唱歌、跳舞、打扫、烹饪、约会、狂欢。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/6/2022, 2:15:56 AM</code>
+<code  align="right">update: 5/6/2022, 8:59:39 AM</code>
