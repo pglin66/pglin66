@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 要做这样的女子：面若桃花、心深似海、冷暖自知、真诚善良、触觉敏锐、情感丰富、坚忍独立、缱绻决绝。坚持读书、写字、听歌、旅行、上网、摄影，有时唱歌、跳舞、打扫、烹饪、约会、狂欢。
+- ✨ 保持身体健康的唯一办法，就是吃点你不想吃的，喝点你不想喝的，以及做点你不愿做的事情。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/7/2022, 2:16:34 AM</code>
+<code  align="right">update: 5/7/2022, 9:00:52 AM</code>
