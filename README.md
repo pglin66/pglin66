@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 重要的不是我们将自己变成了什么，而是我们在改变自己时做了什么。
+- ✨ 接纳，然后采取行动。不管当下时刻的情况怎样，心甘情愿地接受它，就像它是你选择的一样。总是与它共事，而不是抗拒它，使它成为你的朋友和盟友而不是敌人。这将会不可思议地改变你的整个生活。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/10/2022, 2:16:23 AM</code>
+<code  align="right">update: 5/10/2022, 8:59:56 AM</code>
