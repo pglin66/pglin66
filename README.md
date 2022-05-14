@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生命这个好家伙，让他猛回头比让他一直走其实更需要勇气。
+- ✨ 我们可以，几乎可以做任何事情，然而要做到任何事情都需要稳重、豁达和谦逊，当然还有耐心。艺术是这样，其他任何事情也是如此。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/14/2022, 2:17:45 AM</code>
+<code  align="right">update: 5/14/2022, 9:19:39 AM</code>
