@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 世界和生活从不慌张，慌张的是被世界和生活押解着的每一个人。
+- ✨ 我们所要做的事，应当一想到就做。
+因为人的想法是会变化的，有多少舌头、多少手、多少意外，就会有多少犹豫、多少延迟。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/25/2022, 2:17:58 AM</code>
+<code  align="right">update: 5/25/2022, 9:07:31 AM</code>
