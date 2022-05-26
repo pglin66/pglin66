@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们所要做的事，应当一想到就做。
-因为人的想法是会变化的，有多少舌头、多少手、多少意外，就会有多少犹豫、多少延迟。
+- ✨ 这个世界上虽有许多人可以告诉我们远处美丽的风景，却没有一个人能代替我们走茫茫的夜路。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/26/2022, 2:16:50 AM</code>
+<code  align="right">update: 5/26/2022, 9:11:30 AM</code>
