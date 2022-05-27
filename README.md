@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 这个世界上虽有许多人可以告诉我们远处美丽的风景，却没有一个人能代替我们走茫茫的夜路。
+- ✨ “如果可以挑选，还是愿意去冒险，一辈子都能保持点儿天真烂漫。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/27/2022, 2:17:38 AM</code>
+<code  align="right">update: 5/27/2022, 9:04:25 AM</code>
