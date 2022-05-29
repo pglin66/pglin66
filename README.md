@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “活着的理由，就是为了过那种不死不活的漫长日子做准备。”
+- ✨ 逝去的岁月，就像一条被浓雾遮住的通往草原深处的小路，只能模糊地看回去三五米，再往里就是那弥漫的雾气了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/29/2022, 2:15:43 AM</code>
+<code  align="right">update: 5/29/2022, 9:09:49 AM</code>
