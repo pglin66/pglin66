@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 逝去的岁月，就像一条被浓雾遮住的通往草原深处的小路，只能模糊地看回去三五米，再往里就是那弥漫的雾气了。
+- ✨ 人心真是一种很奇怪的东西，不是吗？明明没有蜘蛛，你心里却结满了虚幻的蜘蛛网。明明阳光普照，你的心却笼罩在一个想象的黑暗世界里。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/30/2022, 2:15:48 AM</code>
+<code  align="right">update: 5/30/2022, 9:12:45 AM</code>
