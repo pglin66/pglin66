@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人心真是一种很奇怪的东西，不是吗？明明没有蜘蛛，你心里却结满了虚幻的蜘蛛网。明明阳光普照，你的心却笼罩在一个想象的黑暗世界里。
+- ✨ 生命就是一场瘾。上瘾。过瘾。戒瘾。小至一根香烟，一款网络游戏，大至一段爱恋，一生事业：生命由无数的瘾构成的，只不过深浅不一。我们逃出一个瘾，又落入另外一个，枉然了挣扎的意义。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/31/2022, 2:16:44 AM</code>
+<code  align="right">update: 5/31/2022, 9:07:59 AM</code>
