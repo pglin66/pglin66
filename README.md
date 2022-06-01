@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生命就是一场瘾。上瘾。过瘾。戒瘾。小至一根香烟，一款网络游戏，大至一段爱恋，一生事业：生命由无数的瘾构成的，只不过深浅不一。我们逃出一个瘾，又落入另外一个，枉然了挣扎的意义。
+- ✨ 所有的大人起先都是孩子，但愿我们都能记住这⼀点。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/1/2022, 2:16:51 AM</code>
+<code  align="right">update: 6/1/2022, 9:17:36 AM</code>
