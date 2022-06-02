@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 所有的大人起先都是孩子，但愿我们都能记住这⼀点。
+- ✨ 一个人的成长大体受到三种力量的左右：他父母的意愿，他的际遇，他本人的意愿。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/2/2022, 2:17:15 AM</code>
+<code  align="right">update: 6/2/2022, 9:11:58 AM</code>
