@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 一个人的成长大体受到三种力量的左右：他父母的意愿，他的际遇，他本人的意愿。
+- ✨ “喜欢我喜欢到什么程度？”
+“整个世界森林里的老虎全都融化成黄油。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/3/2022, 2:16:52 AM</code>
+<code  align="right">update: 6/3/2022, 8:59:27 AM</code>
