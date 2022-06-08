@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 还记得年少时的梦吗？像朵永远不凋零的花。
+- ✨ 我们从附近的自动售货机里买了六听罐装啤酒，走到海边，歪倒在沙滩上一喝而光，随即眼望大海。天气好得无可挑剔。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/8/2022, 2:15:11 AM</code>
+<code  align="right">update: 6/8/2022, 9:03:05 AM</code>
