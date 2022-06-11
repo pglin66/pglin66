@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 想人想得厉害时，也是淡淡的。像饿了许多日的人闻到炊烟，但知道不是自家的。
+- ✨ 少年心，最珍贵。从某种意义上说，这世界上其实没有大人，只有长皱了的小孩。
+后有追兵，前程隔海，我们远未抵达。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/11/2022, 2:16:16 AM</code>
+<code  align="right">update: 6/11/2022, 9:00:46 AM</code>
