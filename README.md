@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “如果你一直这么脆弱敏感，会非常辛苦。现实不会搞垮你，但你自己会，你知道吗？”
+- ✨ 生活是什么？是在通向死亡的前厅短暂的停留。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/14/2022, 2:17:06 AM</code>
+<code  align="right">update: 6/14/2022, 9:17:12 AM</code>
