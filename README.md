@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 搅扰你生活的人们总说是为你好，我最后发现，他们所要的就是你完全符合、绝不背离某些既定的表面标准，然后就像个旅行推销员那样愚蠢又无趣地泯然众人。他们对我们的乐趣一无所知，也不知道我们自得其乐的美妙。
+- ✨ 我的自我感觉不差，体重没有减轻，对未来我充望希望。天气好极了。钱几乎没有。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/16/2022, 2:15:11 AM</code>
+<code  align="right">update: 6/16/2022, 9:08:08 AM</code>
