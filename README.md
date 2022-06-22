@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你说你也喜欢夏日，喜欢狂欢的夏日，喜欢直接的夏日，喜欢人声光影浮动的夏日，喜欢夜晚醉意朦胧地走在路上的夏日。
+- ✨ 人类尽管破坏、毁灭，尽管根除、杀戮，夏天依然是夏天，百合花依然是百合花，星辰依然是星辰。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/22/2022, 2:15:54 AM</code>
+<code  align="right">update: 6/22/2022, 9:15:27 AM</code>
