@@ -2,7 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人生至福，就是确信有人爱你，有人为你的现状而爱你，说得更准确些，有人不问你如何就爱你。
+- ✨ 白日的时光静寂缓慢，
+我们注视着前方，努力不使之偏向，
+就像夏日的红玫瑰逐日盛开，
+时光寂静流逝，永不复返。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/25/2022, 2:16:52 AM</code>
+<code  align="right">update: 6/25/2022, 9:07:40 AM</code>
