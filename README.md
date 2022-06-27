@@ -2,7 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 一个人快乐或悲伤，只要不是装出来的，就必有其道理。你可以去分享他的快乐，同情他的悲伤，却不可以命令他怎样怎样，因为这是违背人类的天性的。
+- ✨ 想饮一些酒，让灵魂失重，好被风吹走。
+可一想到终将是你的路人，
+便觉得，沦为整个世界的路人。
+风虽大，都绕过我灵魂。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/27/2022, 2:14:30 AM</code>
+<code  align="right">update: 6/27/2022, 9:13:57 AM</code>
