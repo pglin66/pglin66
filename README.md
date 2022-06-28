@@ -2,10 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 想饮一些酒，让灵魂失重，好被风吹走。
-可一想到终将是你的路人，
-便觉得，沦为整个世界的路人。
-风虽大，都绕过我灵魂。
+- ✨ 知道你在牧羊
+不知你在哪座山上
+知道你在世上
+不知你在哪条路上
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -33,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/28/2022, 2:18:26 AM</code>
+<code  align="right">update: 6/28/2022, 9:14:02 AM</code>
