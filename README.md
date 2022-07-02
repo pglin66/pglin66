@@ -2,7 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 如果你把体内所有的DNA搓成一根细细的线，它能延伸100亿英里，比从地球到冥王星的距离还远。想一想这件事吧，光靠你自己就足够离开太阳系了。从字面意义来看，你就是宇宙。
+- ✨ “告诉我爱是什么？” 
+“就是骨头里满是泡泡。”
+“你这个傻瓜，是泡泡都会消散。”
+“它们不断冒出来。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/2/2022, 2:16:43 AM</code>
+<code  align="right">update: 7/2/2022, 9:10:41 AM</code>
