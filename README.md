@@ -2,10 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “告诉我爱是什么？” 
-“就是骨头里满是泡泡。”
-“你这个傻瓜，是泡泡都会消散。”
-“它们不断冒出来。”
+- ✨ 青年人似乎成了一场阴谋的受害者：他们读的书都是经过筛选而留存的，描绘的尽是理想和完美；他们的长辈早已健忘，如今总是透过一层玫瑰色的雾霭回望，之间的对话也深刻影响了他们的思想。所有这一切都使他们怀抱浪漫的心理进入了一片现实残酷的世界。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -33,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/3/2022, 2:14:36 AM</code>
+<code  align="right">update: 7/3/2022, 9:13:01 AM</code>
