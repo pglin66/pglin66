@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 散伙是人生常态，我们又不是什么例外。
-只是我偶尔会想，假如那天真能重来一次，应该过得再庄严一点，正式地吃一顿饭，拍一张照片，好好看着对方的眼睛说声永别。
+- ✨ 所谓幸福，或许指的便是明明置身幸福却对幸福恍若不觉，就这样在琐碎无害的牢骚中度过平凡的每一天。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/5/2022, 2:16:39 AM</code>
+<code  align="right">update: 7/5/2022, 9:08:20 AM</code>
