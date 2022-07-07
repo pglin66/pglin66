@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 把你的人生想成一幅画。世界上什么都有，但你想画什么就是自己决定的了。你要选美好漂亮的事物入画，丑陋的就别费笔墨了。
+- ✨ 在此郑重邀请你，把握有限的今生，先一起耸耸肩，挺这个既优秀又普通的自己一把吧，那些需要努力的事，反正放一阵也不会有人偷做了去。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/7/2022, 2:15:51 AM</code>
+<code  align="right">update: 7/7/2022, 9:15:50 AM</code>
