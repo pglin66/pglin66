@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 希望你对我是偏爱的，而爱着你时，我不会羡慕任何人。 爱情就是一起在庸碌的生活夹缝里找糖，让琐事日常也能闪闪发光。
+- ✨ 因为我们总是不够好，所以总是会错过自己自爱的作家和书，就像我们总是配不上我们号称自己深爱的东西。但还是要尽量相信自己是配得上的，因为生活好像也没有别的什么盼头了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/9/2022, 2:15:45 AM</code>
+<code  align="right">update: 7/9/2022, 9:02:34 AM</code>
