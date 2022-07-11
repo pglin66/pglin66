@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 智慧往往在已无用武之地时才来到我们身边。
+- ✨ 爱和在乎，结果可能是想靠近，但也可能是想逃避。眷恋上一个人，你也许会努力地想制造一切机会接近她。但也有另一种可能，你会不自觉地躲避她。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/11/2022, 2:15:02 AM</code>
+<code  align="right">update: 7/11/2022, 9:14:14 AM</code>
