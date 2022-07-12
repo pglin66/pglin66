@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 爱和在乎，结果可能是想靠近，但也可能是想逃避。眷恋上一个人，你也许会努力地想制造一切机会接近她。但也有另一种可能，你会不自觉地躲避她。
+- ✨ 我只知道这是一个急躁而喧嚣的时代，我们就像住在一个闹腾腾的房子里，每一个人都放大了喉咙喊叫。为了让他们听到我说的话，我只好比他们还大声。于是没有任何一个人知道别人到底在讲什么。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/12/2022, 2:16:34 AM</code>
+<code  align="right">update: 7/12/2022, 9:18:44 AM</code>
