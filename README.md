@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我只知道这是一个急躁而喧嚣的时代，我们就像住在一个闹腾腾的房子里，每一个人都放大了喉咙喊叫。为了让他们听到我说的话，我只好比他们还大声。于是没有任何一个人知道别人到底在讲什么。
+- ✨ 两个人彼此靠近总需要超越某种相异性，而拥抱的一瞬之所以醉人就因为它只能是一瞬的时间。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/13/2022, 2:16:24 AM</code>
+<code  align="right">update: 7/13/2022, 9:08:58 AM</code>
