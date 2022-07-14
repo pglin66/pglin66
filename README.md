@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 两个人彼此靠近总需要超越某种相异性，而拥抱的一瞬之所以醉人就因为它只能是一瞬的时间。
+- ✨ 人跟人，太近了固然不好，太远了，也不好。
+就像你看一幅画，太近了变形，太远了模糊，不远不近，才能看出明暗虚实来。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/14/2022, 2:15:31 AM</code>
+<code  align="right">update: 7/14/2022, 9:17:43 AM</code>
