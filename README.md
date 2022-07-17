@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 如果不断地耳濡目染于浮华、空洞和虚假的故事，人群必定会走向堕落。我们需要真诚的讽刺和悲剧、正剧、喜剧，用明丽素洁的光来照亮人性和群体的阴暗角落。
+- ✨ 挨了骂，
+哇的一声就哭出来的儿童的心情；
+我也想要有那种心情。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/17/2022, 2:15:19 AM</code>
+<code  align="right">update: 7/17/2022, 9:21:06 AM</code>
