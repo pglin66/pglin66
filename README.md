@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 挨了骂，
-哇的一声就哭出来的儿童的心情；
-我也想要有那种心情。
+- ✨ 谁终将声震人间，必长久深自缄默。谁终将点燃闪电，必长久如云漂泊。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/18/2022, 2:14:52 AM</code>
+<code  align="right">update: 7/18/2022, 9:14:24 AM</code>
