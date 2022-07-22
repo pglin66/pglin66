@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 童年回忆像春日里的小雨，淅淅沥沥，落地会生根，印迹也许不深，却是另一种意味。偶尔触到某个点，一连串地忆起，犹如雨水在地上掀起一圈圈涟漪。
+- ✨ 你就是你的好恶，为偏心而奋斗终生。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/22/2022, 2:16:50 AM</code>
+<code  align="right">update: 7/22/2022, 9:16:55 AM</code>
