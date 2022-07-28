@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 男女能像说相声一样对话，最棒了。
+- ✨ 我一直在想，自己能做的事和实际想做的事，两者似乎往往无法一致。我是因为能做而做，还是因为真的想做才做，我自己也不清楚这之间的界限。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/28/2022, 2:15:57 AM</code>
+<code  align="right">update: 7/28/2022, 9:11:36 AM</code>
