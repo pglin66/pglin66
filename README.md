@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我一直在想，自己能做的事和实际想做的事，两者似乎往往无法一致。我是因为能做而做，还是因为真的想做才做，我自己也不清楚这之间的界限。
+- ✨ 所以你追求的是什么？人的外表是否能反映他的内涵？人的灵魂里都有一团火，却没有人去那儿取暖，路过的人只能看到烟囱上的淡淡青烟，然后继续赶他们的路。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/29/2022, 2:18:10 AM</code>
+<code  align="right">update: 7/29/2022, 9:15:32 AM</code>
