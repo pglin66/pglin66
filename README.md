@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 自我实现并不一定要出类拔萃之辈才能获得，每个人都有一个自我，他的自我能够实现就是他最大的快乐。
+- ✨ 喜欢但是不爱，爱却又并不喜欢，可见喜欢与爱并不是一码事。喜欢，是看某物好甚至极好，随之而来的念头是：欲占有。爱，则多是看某物不好或还不够好，其实是盼望它好以至非常好，随之而得的激励是：愿付出。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/2/2022, 2:19:23 AM</code>
+<code  align="right">update: 8/2/2022, 9:22:43 AM</code>
