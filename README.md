@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 喜欢但是不爱，爱却又并不喜欢，可见喜欢与爱并不是一码事。喜欢，是看某物好甚至极好，随之而来的念头是：欲占有。爱，则多是看某物不好或还不够好，其实是盼望它好以至非常好，随之而得的激励是：愿付出。
+- ✨ 爱情就像交通工具那样没有问题，问题出在驾驶员、乘客与道路。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/3/2022, 2:16:40 AM</code>
+<code  align="right">update: 8/3/2022, 9:20:02 AM</code>
