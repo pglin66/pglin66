@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 再好的地方,你仍须离开,其方法,只是走。然只要继续走,随时随处总会有更好更好的地方。
+- ✨ 事实证明，你只要假装很努力，你就会真的很努力，因为这个时代你装一下就会超过好多好多人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/7/2022, 2:15:34 AM</code>
+<code  align="right">update: 8/7/2022, 9:16:45 AM</code>
