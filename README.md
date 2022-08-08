@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 事实证明，你只要假装很努力，你就会真的很努力，因为这个时代你装一下就会超过好多好多人。
+- ✨ 没有秘密的恋人将会失去魅力，因为这会剥夺我们的想象力。所以相爱的双方总在做一些矛盾的事情——总是从对方的话中求证对方是否真的爱自己，然而一旦爱情得到证实，心动的感觉瞬间便消失了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/8/2022, 2:15:44 AM</code>
+<code  align="right">update: 8/8/2022, 9:11:34 AM</code>
