@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 没有秘密的恋人将会失去魅力，因为这会剥夺我们的想象力。所以相爱的双方总在做一些矛盾的事情——总是从对方的话中求证对方是否真的爱自己，然而一旦爱情得到证实，心动的感觉瞬间便消失了。
+- ✨ 世界上任何一个悲剧都不是突然发生的，命运早已暗中给了一些微小的提示，只是那时候的他们还浑然不觉。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/9/2022, 2:17:29 AM</code>
+<code  align="right">update: 8/9/2022, 9:19:48 AM</code>
