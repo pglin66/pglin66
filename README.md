@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 世界上任何一个悲剧都不是突然发生的，命运早已暗中给了一些微小的提示，只是那时候的他们还浑然不觉。
+- ✨ 面对挫折、打击的时候，不要伤心、不要难过、不要沮丧，甚至不要控诉、不要愤怒、不要抗议，只管埋头默默擦亮你的武器，准备下一次的战斗。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/10/2022, 2:16:03 AM</code>
+<code  align="right">update: 8/10/2022, 9:12:26 AM</code>
