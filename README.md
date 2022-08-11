@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 面对挫折、打击的时候，不要伤心、不要难过、不要沮丧，甚至不要控诉、不要愤怒、不要抗议，只管埋头默默擦亮你的武器，准备下一次的战斗。
+- ✨ 一个喜欢做总结下结论的“聪明人”往往不如一个喜欢涂涂改改自我否定的“笨蛋”。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/11/2022, 2:16:24 AM</code>
+<code  align="right">update: 8/11/2022, 9:07:10 AM</code>
