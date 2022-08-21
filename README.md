@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 只有当一个人被社会这个转轮甩出来的时候，他才会成为真正意义上的个人。只有当一个人经历失败，只能以痛苦和孤绝感为食料的时候，才会理解这个世界向我们呈现的荒谬感。
+- ✨ 世界上到处都是不敢迈出第一步的孤独之人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/21/2022, 2:15:19 AM</code>
+<code  align="right">update: 8/21/2022, 9:11:32 AM</code>
