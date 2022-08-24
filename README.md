@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们永远会面对 “平平淡淡才是真” 与 “轰轰烈烈才是真” 这两个至理名言。
+- ✨ 我本无野心对抗什么黑暗，只是不想让这些人和事继续腐蚀你的余生，我希望为你做一些事，让你可以像小时候一样无忧无虑。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/24/2022, 2:16:37 AM</code>
+<code  align="right">update: 8/24/2022, 9:20:00 AM</code>
