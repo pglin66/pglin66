@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我本无野心对抗什么黑暗，只是不想让这些人和事继续腐蚀你的余生，我希望为你做一些事，让你可以像小时候一样无忧无虑。
+- ✨ 在我们的世界里，全部都是误解和词不达意，却又偏偏想要费尽力气去说话。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/25/2022, 2:25:58 AM</code>
+<code  align="right">update: 8/25/2022, 9:24:01 AM</code>
