@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 未来像盛夏的大雨，在我们还不及撑开伞时就扑面而来。
+- ✨ 对细小的声音，侧耳倾听；
+对巨大的声音，保持质疑。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/29/2022, 2:16:10 AM</code>
+<code  align="right">update: 8/29/2022, 9:26:20 AM</code>
