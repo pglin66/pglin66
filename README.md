@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 痛苦不是因为不幸，而是因为等待幸福的过程太乏味。
+- ✨ 我会在没有人的黑夜，深深检讨自己的缺憾。但我不愿在众目睽睽之下，把自己像次品一样展览。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/4/2022, 2:16:12 AM</code>
+<code  align="right">update: 9/4/2022, 9:18:46 AM</code>
