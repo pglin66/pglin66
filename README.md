@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 当你在背单词时，阿拉斯加的鳕鱼正跃出水面。当你算数学时，南太平洋的海鸥正掠过海岸。当你晚自习时，地球的极圈正五彩斑斓。但少年，梦要你亲自实现，世界你要亲自去看。
+- ✨ 我晓得我不讨人喜欢，脾气太过孤怪。没有什么人肯跟我好，只要有人肯对我有一点好，我就恨不得想把心掏出来给他才好。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/8/2022, 2:17:34 AM</code>
+<code  align="right">update: 9/8/2022, 9:20:11 AM</code>
