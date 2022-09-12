@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 风吹起你的头发，一张棕色的小网，撒满我的面颊，我一生也不想挣脱。
+- ✨ 没有释怀这回事，时间会洗淡了一切，就像水瓢里的一匙盐巴不会因为加入更多水而消失。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/12/2022, 2:17:12 AM</code>
+<code  align="right">update: 9/12/2022, 9:26:12 AM</code>
