@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 每个人的心里，有多么长的一个清单，这些清单里写着多少美好的事，可是，它们总是被推迟，被搁置，在时间的阁楼上腐烂。为什么勇气的问题总是被误以为是时间的问题，而那些沉重、抑郁的、不得已的，总是被叫做生活本身。
+- ✨ 每一句话都有后果，每一次沉默也是如此。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/18/2022, 2:17:23 AM</code>
+<code  align="right">update: 9/18/2022, 9:45:34 AM</code>
