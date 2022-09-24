@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 那些平日里突然冒出的想要改变的念头，也许都是未来的你向现在发出的求救。
+- ✨ 我曾经以为日子是过不完的，未来是另外的样子。如今我就呆在自己的未来里，发现一切没有任何变化。我现在的梦想还和小时候一样，唯一的区别是，我已经不打算去实现它了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/24/2022, 2:19:03 AM</code>
+<code  align="right">update: 9/24/2022, 9:25:48 AM</code>
