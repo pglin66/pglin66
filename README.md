@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你要如何原谅彼时此时的愚蠢？如何原谅奋力过但无声？在苦心之后，看潮汐的永恒。
+- ✨ 无论在何种困顿中，唯有内心的自由馈赠我们真正的未来。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/26/2022, 2:18:31 AM</code>
+<code  align="right">update: 9/26/2022, 9:26:05 AM</code>
