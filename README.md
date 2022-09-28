@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人群和爱情都有催眠作用，让人不清醒。唯有孤独，清澈如新生。
+- ✨ 我不知道怎么面对老人的哭，我总觉得，一旦老人开口哭，就是他们身上堆积的那些人生同时开口在哭。阿太的人生到如今已经漫长又和缓了，像山间宁静的河流，我怎么去安慰一条河流的哭泣？
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/28/2022, 2:24:17 AM</code>
+<code  align="right">update: 9/28/2022, 9:24:55 AM</code>
