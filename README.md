@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生命中的每一件事都是画线问题，遵守别人定下的规矩可不等于尊重生命，如果你想尊重生命，你就得自己画那条线。
+- ✨ 答非所问，其实已经是答了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/30/2022, 2:22:13 AM</code>
+<code  align="right">update: 9/30/2022, 9:57:55 AM</code>
