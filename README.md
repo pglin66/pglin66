@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/1/2022, 9:47:18 AM</code>
+<code  align="right">update: 10/1/2022, 2:32:56 PM</code>
