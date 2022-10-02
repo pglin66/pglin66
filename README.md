@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 打造好自己的内心，不再追求短暂的高兴的“快”，不再追求短暂的虚荣的“乐”，我们的行为、情感就能通达天地和灵魂。
+- ✨ 不讨猫狗喜欢的家伙，可比不讨人类喜欢的家伙可怜多了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/2/2022, 2:18:18 AM</code>
+<code  align="right">update: 10/2/2022, 9:41:03 AM</code>
