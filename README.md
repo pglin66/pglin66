@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 一想到或许我也能像幼芽一样，淋场雨就能长大，心情马上就变好了。
+- ✨ 只要你仍然担忧别人对你的看法，你就会受制于他们。唯有当你无须外界的认可时，你才能拥有你自己。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/6/2022, 2:29:46 AM</code>
+<code  align="right">update: 10/6/2022, 9:20:18 AM</code>
