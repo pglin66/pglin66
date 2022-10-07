@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 只要你仍然担忧别人对你的看法，你就会受制于他们。唯有当你无须外界的认可时，你才能拥有你自己。
+- ✨ 一个人内心有裂痕的时候，都是静悄悄的，这个世界没人能察觉。只有当他“砰”的一声碎开，大家才会听到。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/7/2022, 2:21:35 AM</code>
+<code  align="right">update: 10/7/2022, 9:40:09 AM</code>
