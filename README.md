@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 一个人内心有裂痕的时候，都是静悄悄的，这个世界没人能察觉。只有当他“砰”的一声碎开，大家才会听到。
+- ✨ 任何一句话，你不说出来，便是那句话的主人。你说了出来，便是那句话的奴隶。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/8/2022, 2:23:44 AM</code>
+<code  align="right">update: 10/8/2022, 9:16:32 AM</code>
