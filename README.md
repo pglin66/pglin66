@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 有时候我觉得，记忆就像把盐撒进大海，确实存在，却没有迹象。
+- ✨ 都是穷人，我干吗不去做一个自由自在的穷人，还做一个那么辛苦的穷人？
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/13/2022, 2:24:19 AM</code>
+<code  align="right">update: 10/13/2022, 9:26:57 AM</code>
