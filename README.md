@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 短暂的关系需要燃料，点亮，烧干净就行。长久的关系需要理性与克制，是一种运行，一种完成。
+- ✨ 人，归根结底，是一个物质存在，很容易受损伤，却不容易修复。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/17/2022, 2:18:45 AM</code>
+<code  align="right">update: 10/17/2022, 9:47:24 AM</code>
