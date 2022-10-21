@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 讲话是一件很重要的事情，那些细细碎碎的句子可以填满人与人之间的空隙，拥挤总比空旷要好，毕竟不荒凉。
+- ✨ 当你此刻想要做出任何一个决定，当你此刻犹豫不前，去反省，从反省当中获得一些坚固的东西，帮助你通往下一步。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/21/2022, 2:32:13 AM</code>
+<code  align="right">update: 10/21/2022, 9:19:47 AM</code>
