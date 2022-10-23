@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人不该惧怕孤独，因为出生前，造物主就用孤独考验过每个人，哪里还能比在胚胎中更孤独呢？
+- ✨ 有时候，我想去茫茫大海中的一个孤岛。在那里我可以住在无人知晓的山谷中，四周是不知名的树木环绕，寂静无声。在那儿，我想我可以找到我想要的东西。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/23/2022, 2:19:06 AM</code>
+<code  align="right">update: 10/23/2022, 9:28:49 AM</code>
