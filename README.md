@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 有时候，我想去茫茫大海中的一个孤岛。在那里我可以住在无人知晓的山谷中，四周是不知名的树木环绕，寂静无声。在那儿，我想我可以找到我想要的东西。
+- ✨ 父母的话语就是一种，小时候你根本不知道发生什么事，有一天忽然发生了你就知道的事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/24/2022, 2:19:34 AM</code>
+<code  align="right">update: 10/24/2022, 9:48:03 AM</code>
