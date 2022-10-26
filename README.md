@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 除了知情权以外，人也应该拥有不知情权。它意味着高尚的灵魂不必被那些废话和空谈充斥。过度的信息对一个过着充实生活的人来说，是一种不必要的负担。
+- ✨ 当你把谎言撕碎，碎片便是真理。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/26/2022, 2:41:08 AM</code>
+<code  align="right">update: 10/26/2022, 9:19:22 AM</code>
