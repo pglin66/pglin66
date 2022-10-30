@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 全家的希望都在我身上，我却不知道自己的希望在哪里。像我这样的人，没有希望，也得抱着希望，没有野心，也得野心勃勃。
+- ✨ 你的体验由你说了算，任何外在的人、事、物都不能替你下定义。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/30/2022, 2:16:47 AM</code>
+<code  align="right">update: 10/30/2022, 9:25:22 AM</code>
