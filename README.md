@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 想不清楚一件事，往往因为这件事里有你想逃避的东西。
+- ✨ 小的时候，你渴望长大，自己决定一切。可是一旦长大，你就会意识到，“做决定”是成年人所要面对的最可怕的任务。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/18/2022, 2:16:07 AM</code>
+<code  align="right">update: 11/18/2022, 9:16:21 AM</code>
