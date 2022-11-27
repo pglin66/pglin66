@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 在所谓的人世间摸爬滚打至今，我唯一愿意视为真理的就只有这一句话：一切都会过去的。
+- ✨ 这个世界如此美好，值得人们为它奋斗。我只同意后半句。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/27/2022, 2:14:11 AM</code>
+<code  align="right">update: 11/27/2022, 9:07:57 AM</code>
