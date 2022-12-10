@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 没有什么好遗憾的，我在能走的时候，去过远方；不能走的时候，安于当下。
+- ✨ 我不太喜欢听别人的恋爱故事，因为恋爱故事里，一定有所粉饰。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/10/2022, 2:14:20 AM</code>
+<code  align="right">update: 12/10/2022, 8:56:21 AM</code>
