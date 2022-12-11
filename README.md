@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我不太喜欢听别人的恋爱故事，因为恋爱故事里，一定有所粉饰。
+- ✨ 在一秒钟看到本质的人，和花半辈子也看不清一件事本质的人，自然是不一样的命运。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/11/2022, 2:13:40 AM</code>
+<code  align="right">update: 12/11/2022, 9:05:32 AM</code>
