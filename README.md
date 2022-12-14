@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我注意过，即使是那些声称“一切都是命中注定，我们无力改变”的人，在过马路时也会左看右看。
+- ✨ 同时保有全然相反的两种观念，还能正常行事，是第一流智慧的标志。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/14/2022, 2:14:25 AM</code>
+<code  align="right">update: 12/14/2022, 8:59:52 AM</code>
