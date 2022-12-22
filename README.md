@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 不管见识高低，一个人深度整理和收拾自己的内心，这事本身就很迷人。
+- ✨ 这段日子不像是属于自己的，仿佛是某片从别的人生中飘落的片段，像一片羽毛般飞入自己的生活。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/22/2022, 2:13:47 AM</code>
+<code  align="right">update: 12/22/2022, 8:57:39 AM</code>
