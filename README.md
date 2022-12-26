@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 他还太年轻，尚不知道回忆总是会抹去坏的，夸大好的，也正是由于这种玄妙，我们才得以承担过去的重负。
+- ✨ 真希望在电影里过日子，下一个镜头就是一行字幕：多年以后。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/26/2022, 2:12:38 AM</code>
+<code  align="right">update: 12/26/2022, 8:57:28 AM</code>
