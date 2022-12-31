@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你要敏感些，才能生活充实；也要够粗糙，才能不被伤害。
+- ✨ 年轻时他只想打发时间，后来他希望能让时间停驻，如今，他已经老了，只企盼时光能够倒流。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/31/2022, 2:13:22 AM</code>
+<code  align="right">update: 12/31/2022, 8:56:19 AM</code>
