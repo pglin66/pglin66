@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 任何瞬间的心动都不容易，不要怠慢了它。
+- ✨ 其实，不应该有什么必读之书，也不该有什么惩罚之书，健康的阅读方式是读到哪一页觉得受不了便就此打住。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/8/2023, 2:12:55 AM</code>
+<code  align="right">update: 1/8/2023, 9:02:44 AM</code>
