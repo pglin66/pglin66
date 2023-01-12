@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 留在港口的小船最安全，亲爱的，但这不是造船的目的。
+- ✨ 某一天，人们都离去了，树依旧会在，花也依旧会开。当你知道，世间有长久事物，即是安慰。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/12/2023, 2:17:24 AM</code>
+<code  align="right">update: 1/12/2023, 9:00:28 AM</code>
