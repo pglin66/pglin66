@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 某一天，人们都离去了，树依旧会在，花也依旧会开。当你知道，世间有长久事物，即是安慰。
+- ✨ 我的体内有着什么也不想理解的自己，有想要理解一切的自己，有在远处观望的自己，还有无数个自己在反复进行着看不见尽头的争斗。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/13/2023, 2:15:32 AM</code>
+<code  align="right">update: 1/13/2023, 9:00:43 AM</code>
