@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我的体内有着什么也不想理解的自己，有想要理解一切的自己，有在远处观望的自己，还有无数个自己在反复进行着看不见尽头的争斗。
+- ✨ 亲人的离世，不是一场暴雨，而是一生的潮湿。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/14/2023, 2:14:00 AM</code>
+<code  align="right">update: 1/14/2023, 8:56:17 AM</code>
