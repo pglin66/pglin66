@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 亲人的离世，不是一场暴雨，而是一生的潮湿。
+- ✨ 让弱者以弱者的姿态受到尊重，他们无须变成强者或压迫者。只有这样，属于女性、孩子、老年人、残障人士的思想才会慢慢产生。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/15/2023, 2:12:50 AM</code>
+<code  align="right">update: 1/15/2023, 9:02:37 AM</code>
