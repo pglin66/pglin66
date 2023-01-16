@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 让弱者以弱者的姿态受到尊重，他们无须变成强者或压迫者。只有这样，属于女性、孩子、老年人、残障人士的思想才会慢慢产生。
+- ✨ 人际关系的最根本就是需要为他人放弃自己的一些自由。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/16/2023, 2:12:52 AM</code>
+<code  align="right">update: 1/16/2023, 8:58:59 AM</code>
