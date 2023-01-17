@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人际关系的最根本就是需要为他人放弃自己的一些自由。
+- ✨ 我们各自的心中都有某些不愿摒弃的东西，即使这东西使我们痛苦的要死。我们就是我们，就是这样。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/17/2023, 2:14:01 AM</code>
+<code  align="right">update: 1/17/2023, 8:59:05 AM</code>
