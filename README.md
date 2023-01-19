@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 这具身体，你见它醒来、吃饭、生长、行走、说话和微笑，但除了灰烬之外，它什么都没有剩下。
+- ✨ 我们都太专注于自己的伤口，忘了要去握住别人伸出的手。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/19/2023, 2:13:50 AM</code>
+<code  align="right">update: 1/19/2023, 9:01:05 AM</code>
