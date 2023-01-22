@@ -2,7 +2,11 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 孤独是难以卸尽的浓妆。
+- ✨ 世界越大，
+我们的心就要越小，
+这样才能过一个对自己世界知足的生活。
+世界越杂乱，
+我们的心就要越纯粹独一。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/22/2023, 2:12:49 AM</code>
+<code  align="right">update: 1/22/2023, 9:02:37 AM</code>
