@@ -2,11 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 世界越大，
-我们的心就要越小，
-这样才能过一个对自己世界知足的生活。
-世界越杂乱，
-我们的心就要越纯粹独一。
+- ✨ 我们家人间从不说温柔的话。穷人为生计奔波、操劳，大抵如此。他们不明白那么做的意义，也不愿重复本来就知道的事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -34,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/23/2023, 2:13:07 AM</code>
+<code  align="right">update: 1/23/2023, 8:57:56 AM</code>
