@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你被什么保护，就被什么限制。能给你遮风挡雨的，同样能让你不见天日。
+- ✨ 既然无处可逃，不如喜悦。
+既然没有净土，不如静心。
+既然没有如愿，不如释然。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/5/2023, 2:13:03 AM</code>
+<code  align="right">update: 2/5/2023, 9:04:41 AM</code>
