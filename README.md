@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 既然无处可逃，不如喜悦。
-既然没有净土，不如静心。
-既然没有如愿，不如释然。
+- ✨ 一个人爱上别人，总以为别人应当以对等的爱情回报他，却从来没有想过，这是多么明显地不公平。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/6/2023, 2:12:57 AM</code>
+<code  align="right">update: 2/6/2023, 8:57:59 AM</code>
