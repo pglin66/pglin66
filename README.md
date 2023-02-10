@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 智慧应是一种品质，而非一种技术。
+- ✨ 这个星球上的所有生物都是旅行者。是背负着某种使命，承受着亲人逝去的现实，而自己也终将死去的忧伤无助的旅行者。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/10/2023, 2:14:57 AM</code>
+<code  align="right">update: 2/10/2023, 9:03:37 AM</code>
