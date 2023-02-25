@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 没有任何一种悲痛是无法承受的，我们承受不了只是因为害怕还有更大的悲痛会降临。
+- ✨ 倘若我没有体验过自由，倘若我心中不曾生出灼热的渴求，想要见识到墙外的快乐，我会以为大地的一角、一小片天空、一瓶鲜花就足以让我享受到世间全部的欢乐。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/25/2023, 2:15:05 AM</code>
+<code  align="right">update: 2/25/2023, 9:01:58 AM</code>
