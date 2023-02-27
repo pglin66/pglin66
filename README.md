@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 发挥才智，则锋芒毕露；凭借感情，则流于世俗；坚持己见，则多方掣肘。总之，人世难居。
+- ✨ 以前我也觉得，爱最重要的体验是爱本身，是付出，是牺牲，是不计回报，但我现在怀疑，这是个骗局。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/27/2023, 2:13:54 AM</code>
+<code  align="right">update: 2/27/2023, 9:03:04 AM</code>
