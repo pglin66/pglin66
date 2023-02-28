@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 以前我也觉得，爱最重要的体验是爱本身，是付出，是牺牲，是不计回报，但我现在怀疑，这是个骗局。
+- ✨ 我想，笼子是无处不在的。有人就有笼。笼子可以是笼子、屋子船、广场、一座城、一句话。人执著地把东西关进笼子，像是一种癖好，一种强迫症。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/28/2023, 2:15:30 AM</code>
+<code  align="right">update: 2/28/2023, 9:02:17 AM</code>
