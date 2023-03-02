@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我自己没有任何的漂泊感。因为我一向认为我就是这个世界的人，每个地方我都应该可以很自在地活下去。
+- ✨ 我终于明白，比起和别人交往这件事，其实向自己妥协才是最难的。我始终都无法向自己妥协。 我最想绝交的人是自己。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/2/2023, 2:15:24 AM</code>
+<code  align="right">update: 3/2/2023, 9:07:23 AM</code>
