@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我终于明白，比起和别人交往这件事，其实向自己妥协才是最难的。我始终都无法向自己妥协。 我最想绝交的人是自己。
+- ✨ 有时候很难理解，面对现在的问题，为什么要回到过去寻找答案。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/3/2023, 2:17:16 AM</code>
+<code  align="right">update: 3/3/2023, 10:53:08 AM</code>
