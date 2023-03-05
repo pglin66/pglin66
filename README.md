@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 一个人尽管可以选择简单的生活，但终究还是无法挣脱复杂的人生。
+- ✨ 别人是会离开的，但你自己一直都在。所以每天好好吃早餐，房间里常备鲜花，偶尔给自己买礼物。生活的秘密不过如此。那些平静之中留在你生命里的，就是你想要的，也是真正属于你的。不必多，但要好。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/5/2023, 2:13:27 AM</code>
+<code  align="right">update: 3/5/2023, 9:11:03 AM</code>
