@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我肯定有天真，因为我对某一种成熟是拒绝的。
+- ✨ 跳舞就是这样的，舞场就是人生，你可以和垃圾活在同一个世界，但不要和他们一起跳舞。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/9/2023, 2:15:41 AM</code>
+<code  align="right">update: 3/9/2023, 9:05:29 AM</code>
