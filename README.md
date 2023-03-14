@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 每个瞬间，在你周围都有百万个奇迹正在发生：一朵花开、一只鸟叫、一只蜜蜂嗡嗡作响、一滴雨水掉落、一朵雪花在夜晚静谧的空气中飘舞。
+- ✨ 我们永远不会知道圆周率的所有数字。然而，那些数字就在那里，等待着被发现。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/14/2023, 2:14:05 AM</code>
+<code  align="right">update: 3/14/2023, 8:53:10 AM</code>
