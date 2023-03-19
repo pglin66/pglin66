@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 现代人生活在幻觉中，他自以为知道自己想要的东西是什么，而实际上他想要的只不过是别人期望他要的东西。
+- ✨ 我们在爱情中明白了自己想要成为什么样的人，却在战争中发现自己到底是个什么样的人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/19/2023, 2:13:02 AM</code>
+<code  align="right">update: 3/19/2023, 9:05:47 AM</code>
