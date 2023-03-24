@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 如果标准定得太高，可谓是对自己的诅咒。一个诅咒并责备自己的人，是感觉不到幸福的。
+- ✨ 当你发现自己是自由的，没有任何使命时，便是一种极大的解脱。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/24/2023, 2:13:45 AM</code>
+<code  align="right">update: 3/24/2023, 8:56:59 AM</code>
