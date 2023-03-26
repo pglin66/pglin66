@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 实际上，我所遭受的痛苦，是被逐出童年的乐园后，未能在人类中获得一席之地。
+- ✨ 要求人们优化心灵，实际上是迫使人们去适应统治关系，这种要求掩盖了社会的弊端。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/26/2023, 2:12:38 AM</code>
+<code  align="right">update: 3/26/2023, 9:01:52 AM</code>
