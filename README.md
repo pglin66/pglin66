@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 后来刘嘉玲才透露，葬礼回来之后，梁朝伟一句话都不说，成天抿着嘴在屋子里安静地踱步，甚至把酒吧上的红酒杯子都取下来，一个接一个，慢慢地擦了又擦。但你其实可以听得见梁朝伟心里面的风，在呼呼地、呼呼地吹。一直到第三、第四天，当大家都慢慢接受下来张国荣已经不在了的事实，他这才彻彻底底崩溃下来，哭得整张脸都肿了。
+- ✨ 不愿长大的人，总是在一瞬间长大。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/2/2023, 2:12:00 AM</code>
+<code  align="right">update: 4/2/2023, 8:58:57 AM</code>
