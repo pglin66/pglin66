@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生活不是朝向或远离某个事物的运动；不是从过去到未来，不是从青年到老年，也不是从出生到死亡。整个生命并不等于它各部分的总和。它等于任意一个部分，没有总和。
+- ✨ 上一辈的事，就像山谷里的歌声。唱歌的人慢慢走远，歌声就淡了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/5/2023, 2:11:56 AM</code>
+<code  align="right">update: 4/5/2023, 8:46:57 AM</code>
