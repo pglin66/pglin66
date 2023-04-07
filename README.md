@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 无论你成为谁，无论你把自己变成了什么，那就是你本来的样子。
+- ✨ 当你可以跟一个人不说话，分享片刻寂静，且不会觉得尴尬，那一刻你就会明白，你遇到了对的人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/7/2023, 2:12:59 AM</code>
+<code  align="right">update: 4/7/2023, 8:50:58 AM</code>
