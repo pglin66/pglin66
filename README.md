@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 番茄酱这样的东西向来是这样，可以倒上半天也倒不出，一出来就是一大堆。
+- ✨ 想想一生中能同吃晚餐的人数不胜数，能一起吃早餐的人却十分有限，便下定决心要格外珍惜这些能一起吃早餐的朋友。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/16/2023, 2:12:10 AM</code>
+<code  align="right">update: 4/16/2023, 8:57:30 AM</code>
