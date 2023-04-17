@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 想想一生中能同吃晚餐的人数不胜数，能一起吃早餐的人却十分有限，便下定决心要格外珍惜这些能一起吃早餐的朋友。
+- ✨ 每一个人，身上都拖带着一个世界，由他所见过、爱过的一切所组成的世界。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/17/2023, 2:12:09 AM</code>
+<code  align="right">update: 4/17/2023, 8:56:14 AM</code>
