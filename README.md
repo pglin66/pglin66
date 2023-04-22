@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 年轻时，我会向众生需索他们能力范围之外的：友谊长存，热情不减。如今，我明白只能要求对方能力范围之内的：陪伴就好，不用说话。
+- ✨ 上天曾赐予过我们一些美好的东西，然后再将它们一点一点地拿走。伴随着一些人的离开，我们生命的一部分也死去了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/22/2023, 2:13:06 AM</code>
+<code  align="right">update: 4/22/2023, 8:55:52 AM</code>
