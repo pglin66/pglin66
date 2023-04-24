@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 如果一个人长时间不阅读，灵魂的滤网就会越来越稀疏，所有东西都会漏掉，直到最大的颗粒也完全流失走，就像它从未存在过一样。
+- ✨ 赢得一颗没有谈过恋爱的心，就等于进入一个没有设防的城市。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/24/2023, 2:12:30 AM</code>
+<code  align="right">update: 4/24/2023, 8:57:39 AM</code>
