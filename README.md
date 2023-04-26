@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 大城市让人抓狂，它榨干你的灵魂，又像吐口香糖般把它吐出来。
+- ✨ 只有一件事会使人疲劳——摇摆不定和优柔寡断。而每做一件事，都会使人身心解放，即使把事情办坏了，也比什么都不做强。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/26/2023, 2:13:21 AM</code>
+<code  align="right">update: 4/26/2023, 8:55:42 AM</code>
