@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 世界小得像一条街的布景，我们相遇了，你点点头，省略了所有的往事，省略了问候。
+- ✨ 美好的东西就像瓷器一样，对它们来说，最危险的往往不是在房间里乱跑的猫，而是瓷器没有意识到自己易碎。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/30/2023, 2:12:20 AM</code>
+<code  align="right">update: 4/30/2023, 9:01:01 AM</code>
