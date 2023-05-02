@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 初恋那种玩意儿就像出天花一样，出过一次，一辈子再也不会发了。
+- ✨ 任何一种环境或一个人，初次见面就预感到离别的隐痛时，你必定爱上他了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/2/2023, 2:13:05 AM</code>
+<code  align="right">update: 5/2/2023, 8:56:59 AM</code>
