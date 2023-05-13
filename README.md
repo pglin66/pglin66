@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们所看到的漫天星光早在几万年前就死了，我们只是被宇宙的往事所包围。
+- ✨ 结局好坏，得放在长的时间里去看，现在坏的结局，未来要鞠躬感激它也说不定。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/13/2023, 2:12:29 AM</code>
+<code  align="right">update: 5/13/2023, 8:53:45 AM</code>
