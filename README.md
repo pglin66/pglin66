@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 就像很多次一样，我试图在心里为妈妈做辩解，把她尖利的话进行软化处理，只为了不伤害我自己。
+- ✨ 现实人生中，我们往往在音乐响起之后才迟迟进场，却又在胜负为见分晓之前匆匆离席。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/19/2023, 2:12:56 AM</code>
+<code  align="right">update: 5/19/2023, 8:56:58 AM</code>
