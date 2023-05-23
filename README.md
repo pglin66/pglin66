@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 当清楚地认识到自己不过是个弱小的人之后，我觉得比偏要逞强的时候轻松了一些，也反而变强了一些。
+- ✨ 人啊，不是因为快乐才笑，而是因为笑才变得快乐。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/23/2023, 2:12:46 AM</code>
+<code  align="right">update: 5/23/2023, 8:56:32 AM</code>
