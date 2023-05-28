@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我知道在热情燃烧的时候，一个人无论什么盟誓都会说出口来。这些火焰是光多于热的，一下子就会光消焰灭，因为它们本来是虚幻的。你不能把它们当作真火看待。
+- ✨ 当我说“未来”这个词，第一音方出即成过去。当我说“寂静”这个词，我打破了它。当我说“无”这个词， 我在无中生有。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/28/2023, 2:12:02 AM</code>
+<code  align="right">update: 5/28/2023, 9:02:39 AM</code>
