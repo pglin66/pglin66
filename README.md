@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 当我说“未来”这个词，第一音方出即成过去。当我说“寂静”这个词，我打破了它。当我说“无”这个词， 我在无中生有。
+- ✨ 我不那么喜欢自己，无论外壳还是内脏，但我不想成为别人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/29/2023, 2:11:55 AM</code>
+<code  align="right">update: 5/29/2023, 8:59:13 AM</code>
