@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 咫尺桃花事悠悠，风生帐底一片愁。
-新月不知心里事，偏送幽容到床头。
+- ✨ 他没有什么朋友，因为他这个人不合群，这种不合群往往是由过度的容忍和谅解造成的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/3/2023, 2:12:36 AM</code>
+<code  align="right">update: 6/3/2023, 9:02:57 AM</code>
