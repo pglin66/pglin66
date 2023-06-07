@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 对于自己不知道的事物，能坦诚无忌地直言相告：“不知道”。再没有比这更轻松的事情了。仅凭这一点，就足以延长五年寿命。
+- ✨ “高考是一道分水岭。”
+“什么分水岭？”
+“从那一刻起，光凭努力就能做好的事情，就越来越少了。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/7/2023, 2:12:52 AM</code>
+<code  align="right">update: 6/7/2023, 9:07:20 AM</code>
