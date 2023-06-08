@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “高考是一道分水岭。”
-“什么分水岭？”
-“从那一刻起，光凭努力就能做好的事情，就越来越少了。”
+- ✨ 一个情绪稳定、行为成熟的家人，比医术高超的精神科医生更能治愈患者。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/8/2023, 2:13:17 AM</code>
+<code  align="right">update: 6/8/2023, 9:04:38 AM</code>
