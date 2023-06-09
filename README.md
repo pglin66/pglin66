@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 一个情绪稳定、行为成熟的家人，比医术高超的精神科医生更能治愈患者。
+- ✨ 不去要求别人按照自己臆想中的方式生活，是对一个成年人最起码的尊重。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/9/2023, 2:12:48 AM</code>
+<code  align="right">update: 6/9/2023, 9:08:40 AM</code>
