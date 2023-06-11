@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “你说过的最勇敢的话是什么？”
-“帮帮我。”
+- ✨ 吃苦也不能吃得太多，太多了一个人的心会干枯的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/11/2023, 2:12:08 AM</code>
+<code  align="right">update: 6/11/2023, 9:11:17 AM</code>
