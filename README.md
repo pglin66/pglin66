@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我生命中出现了最美好的东西，是因为我做了原本不敢做的事。
+- ✨ 一个个的人在世上好似园里的那些并排着的树，枝枝叶叶也许有些呼应吧，但是它们盘结在地下摄取营养的根却各不相干，又沉静，又孤单。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/13/2023, 2:12:49 AM</code>
+<code  align="right">update: 6/13/2023, 9:07:26 AM</code>
