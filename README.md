@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 终其一生，人倾倒最多谎言的对象，就是他们的伴侣。很多人形容婚姻是一座墙，为了待在墙内，人必须维持某个奇特的外观与生活。谎言是润滑剂，不是绊脚石。
+- ✨ 想想看，一辈子走过多少地方？见过多少人？偏偏梦里头只在几个熟悉的老地方、老角落打转。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/15/2023, 2:12:52 AM</code>
+<code  align="right">update: 6/15/2023, 9:02:11 AM</code>
