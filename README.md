@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 想想看，一辈子走过多少地方？见过多少人？偏偏梦里头只在几个熟悉的老地方、老角落打转。
+- ✨ 这是个即便是“拜托”，其实也近似“交易”的社会。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/16/2023, 2:12:53 AM</code>
+<code  align="right">update: 6/16/2023, 9:03:14 AM</code>
