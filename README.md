@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们的不原谅看起来像在惩罚别人，但其实是不放过自己，因为我们紧紧握住的是那个受伤的自己。
+- ✨ 是的，父爱如山。
+祝福你，愿那座山在你的身后，而不是你的头顶。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/18/2023, 2:11:53 AM</code>
+<code  align="right">update: 6/18/2023, 9:14:06 AM</code>
