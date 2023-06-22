@@ -2,7 +2,11 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 好像人人都觉得只要提高分贝，就能以某种神奇的方式突破语言障碍。
+- ✨ 你向佛也注定成不了舍利
+你有太多可燃的物质
+你的体内有一千亩良田
+你的想念是一万朵棉花
+可你仍然无法将爱种进诗句
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/22/2023, 2:13:04 AM</code>
+<code  align="right">update: 6/22/2023, 9:03:31 AM</code>
