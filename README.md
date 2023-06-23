@@ -2,11 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你向佛也注定成不了舍利
-你有太多可燃的物质
-你的体内有一千亩良田
-你的想念是一万朵棉花
-可你仍然无法将爱种进诗句
+- ✨ 健康人际关系的基本要素就是坦诚——愿意摘下面具。这意味着愿意透露我们的想法、感受和经历，既不自我设限，也不装腔作势；意味着不摆架子，不假装高兴，不夸大成绩，也不试图满足所有人的需求。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -34,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/23/2023, 2:12:56 AM</code>
+<code  align="right">update: 6/23/2023, 9:10:51 AM</code>
