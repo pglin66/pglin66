@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 年轻的时候，我也会为了引人注目而周旋、逞强。上了年纪以后，却开始讨厌被他人期待了。太麻烦了，我希望不要有人对我抱有期待。
+- ✨ 有一种治疗失意的疗法叫“耗尽”，只要我们反复诉说同一件事，就能消耗掉足够多的痛苦与激情。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/26/2023, 2:14:11 AM</code>
+<code  align="right">update: 6/26/2023, 9:12:21 AM</code>
