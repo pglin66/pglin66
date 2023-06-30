@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我想变成太阳，人们赞美我的热烈。不会注意我活了四十五亿年，大龄，孤身。不会催我找个月亮。
+- ✨ 我们都在逃避痛苦。有些人选择吃药，有些人选择窝在沙发里，一边上网冲浪一边刷剧，还有一些人选择阅读爱情小说。我们总会做点儿什么将注意力从自己身上移开。然而，所有这些试图让自己远离痛苦的努力似乎只会让我们变得更加痛苦。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/30/2023, 2:16:24 AM</code>
+<code  align="right">update: 6/30/2023, 9:06:50 AM</code>
