@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 在夏天，我们吃绿豆、桃、樱桃和甜瓜，在各种意义上都漫长而愉快，日子发出声响。
+- ✨ 我们像被吹散的蒲公英，风不停，就永远无法落地。至于吹着我们的风是什么，我说不清。我什么都不敢相信，只要我还飘在空中。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/10/2023, 2:13:40 AM</code>
+<code  align="right">update: 7/10/2023, 9:10:05 AM</code>
