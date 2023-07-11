@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们像被吹散的蒲公英，风不停，就永远无法落地。至于吹着我们的风是什么，我说不清。我什么都不敢相信，只要我还飘在空中。
+- ✨ 拉链取代了纽扣，人们清早更衣的时候，就缺少了那么一点思考的时间，一段哲思的时刻，也是忧郁的时刻。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/11/2023, 2:14:57 AM</code>
+<code  align="right">update: 7/11/2023, 9:03:47 AM</code>
