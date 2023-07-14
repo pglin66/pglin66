@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 令她反感的，远不是世界的丑陋，而是这个世界所戴的漂亮面具。
+- ✨ 世间有许多人站在歧路上只徘徊顾虑，既不肯有所舍，便不能有所取。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/14/2023, 2:14:31 AM</code>
+<code  align="right">update: 7/14/2023, 9:12:36 AM</code>
