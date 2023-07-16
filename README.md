@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我想要一个别人看不到的你，一个离我近到无须使用第三人称的你。
+- ✨ 一部电影就像一副牌，我洗牌并把它分发给观众看，他们每一个都以略微不同的顺序排列它们。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/16/2023, 2:13:35 AM</code>
+<code  align="right">update: 7/16/2023, 9:19:15 AM</code>
