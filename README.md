@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 夏天属于散文和柠檬，属于裸露和慵懒，属于关于回归的想像的永恒闲置，属于稀见的长笛和赤裸的双足。
+- ✨ 那代人把贫穷当成美德，到了我们这一代，却成了秘密和羞耻。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/18/2023, 2:14:54 AM</code>
+<code  align="right">update: 7/18/2023, 9:25:50 AM</code>
