@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 万事万物，你若预测它的未来，你就会说它有无数种可能，可你若回过头去看它的以往，你就会知道其实只有一条命定的路。
+- ✨ “大家都在这里做什么？”
+“不做什么。就是等夏天结束。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/23/2023, 2:12:04 AM</code>
+<code  align="right">update: 7/23/2023, 9:06:11 AM</code>
