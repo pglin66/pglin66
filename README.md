@@ -2,8 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “大家都在这里做什么？”
-“不做什么。就是等夏天结束。”
+- ✨ 无论今天过得如何，
+就当穿了一天的袜子，
+回家就脱了吧。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/24/2023, 2:12:08 AM</code>
+<code  align="right">update: 7/24/2023, 9:01:53 AM</code>
