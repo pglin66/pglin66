@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 无论今天过得如何，
-就当穿了一天的袜子，
-回家就脱了吧。
+- ✨ 零岁到十岁的变化宛如奇迹，十岁到二十岁则可以称之为革命，二十岁到三十岁外表就像是系统补丁一样稍作调整，但内心却依然发生着剧变。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/25/2023, 2:14:53 AM</code>
+<code  align="right">update: 7/25/2023, 9:05:17 AM</code>
