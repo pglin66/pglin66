@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 心碎而死的人确比因原子辐射而猝亡的人要多。然而，并不存在反对心碎的群众运动，大街上也见不到反对心碎的示威游行。
+- ✨ 有时候真正难相处的，正是我们自己。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/29/2023, 2:12:13 AM</code>
+<code  align="right">update: 7/29/2023, 8:55:44 AM</code>
