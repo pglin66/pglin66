@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 这世界上一件件事情，也是一条条生命。一件事情落了地，它自己就会挣扎着长出自己的模样。所以很多时候，我们只需要把这件事生下来，然后看它到底能长成什么样子。
+- ✨ 人是不平等的，不管你多努力，做不到的事情，就是做不到。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/1/2023, 2:12:46 AM</code>
+<code  align="right">update: 8/1/2023, 9:02:17 AM</code>
