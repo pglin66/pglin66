@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我不想成功成仁，只想六月半夜里能没心没肺地听雨，喝点淡酒，抿一口茶，满腹幽怨或小人得志地睡到迷懵。再为些不着际的理想，愁闷一辈子，或半辈子。
+- ✨ 没有人天生就喜欢一种气味而讨厌另一种气味。文明的暗示而已。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/6/2023, 2:11:35 AM</code>
+<code  align="right">update: 8/6/2023, 8:52:40 AM</code>
