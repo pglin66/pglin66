@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我唯一的目标就是，找一份稳定的工作，不麻烦他人，老后衣食无忧。什么家庭，什么孩子，对我来说都是一种奢侈。生活本身已经很艰辛了，没有时间做那种缥缈的美梦。
+- ✨ 人烦躁的时候，做一点任性的事情蛮有镇定效果。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/8/2023, 2:12:20 AM</code>
+<code  align="right">update: 8/8/2023, 8:56:05 AM</code>
