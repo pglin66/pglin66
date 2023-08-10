@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 那些和我走得很近的朋友，在了解到我的愚蠢和奇怪之后，还是忠实地陪伴在我身边，这是我唯一能为自己荒诞生活所作的有利辩护。
+- ✨ 别把自己的一辈子都花在探究自己的弱点上。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/10/2023, 2:13:25 AM</code>
+<code  align="right">update: 8/10/2023, 8:58:31 AM</code>
