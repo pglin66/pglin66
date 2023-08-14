@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 孩子们有时候挺伤人的，他们以为只要你恰好是个大人，你就刀枪不入，怎么也不会受伤。
+- ✨ 年轻人常误会自己与众不同，得天独厚。可是某一天蓦然惊醒，发现自己平庸黯淡，一事无成，往后也不大可能再有起色。所以事实上你别无选择，只得在跑步机上继续奔跑。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/14/2023, 2:11:08 AM</code>
+<code  align="right">update: 8/14/2023, 8:46:56 AM</code>
