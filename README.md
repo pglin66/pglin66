@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 孩子一天天长大的坏处就是，大人会觉得自己越来越笨，藏了头，却露了尾。
+- ✨ 现代人普遍面对着两种现实困境：一种是在生计与“内卷”中眼睁睁看着意义消逝，另一种则是试图在个体生活中找到意义，却充满疲惫、无力与迷茫。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/17/2023, 2:12:05 AM</code>
+<code  align="right">update: 8/17/2023, 8:44:55 AM</code>
