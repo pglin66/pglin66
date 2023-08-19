@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 他听到了一些自己不同意的观点，立即进入了反驳模式，而在反驳模式中，倾听已不复存在。当倾听停止时，思考也就停止了。
+- ✨ 占有就是被占有，然后是失去自己。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/19/2023, 2:12:11 AM</code>
+<code  align="right">update: 8/19/2023, 8:43:32 AM</code>
