@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我是那个我想要成为的人和我不想成为的人之间的无底洞。
+- ✨ 我再次领悟到，在人生的所有阶段，我们都不必遵循生活的常规，尤其是在制定常规的人还不如我们有想象力的情况下。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/26/2023, 2:12:49 AM</code>
+<code  align="right">update: 8/26/2023, 8:44:41 AM</code>
