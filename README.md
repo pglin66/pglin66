@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你可以每天想念一个人，但依然为他们不在你的生命中而感到庆幸。
+- ✨ 好运只是个副产品，只有当你不带任何私心杂念，单纯地去做事情时，它才会降临。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/30/2023, 2:12:53 AM</code>
+<code  align="right">update: 8/30/2023, 8:47:15 AM</code>
