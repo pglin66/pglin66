@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 贫穷限制一个人的想象，但富裕也会。富裕更会。但愿自己眼界开阔，饱满，保持好奇，要做一个见过蚂蚁打架，食过地上的盐，也知道天鹅绒镶满碎钻的人。
+- ✨ “好不甘心哦，整个夏天都快过完了，好像什么事都没做。”
+“对呀，好像就只是跑来跑去，什么事都没有做。”
+“但是总会留下些什么吧，留下什么，我们就变成什么样的大人。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/1/2023, 2:12:52 AM</code>
+<code  align="right">update: 9/1/2023, 8:51:09 AM</code>
