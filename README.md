@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 看不见是一种局限，看得见同样是一种局限。
+- ✨ 要继续调整心性，安静读书，一步一步按计划完成工作，然后就可以更加幸福。这个道理真简单，但是我从没看见谁做到过。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/4/2023, 2:11:29 AM</code>
+<code  align="right">update: 9/4/2023, 8:48:25 AM</code>
