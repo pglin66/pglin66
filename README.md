@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人就是这样的，想来想去，犹豫来犹豫去，觉得自己没有准备好，勇气没攒够。其实只要迈出去了那一步，就会发现所有的一切早就准备好了。
+- ✨ 生命好在无意义，才容得下各自赋以意义。假如生命是有意义的，这个意义却不合我的志趣，那才生死两难。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/8/2023, 2:12:49 AM</code>
+<code  align="right">update: 9/8/2023, 8:47:14 AM</code>
