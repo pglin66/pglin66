@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生命好在无意义，才容得下各自赋以意义。假如生命是有意义的，这个意义却不合我的志趣，那才生死两难。
+- ✨ 瑞秋是个小甜心，她只喜欢被爱，不懂得去爱人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/9/2023, 2:12:50 AM</code>
+<code  align="right">update: 9/9/2023, 8:45:46 AM</code>
