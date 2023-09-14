@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 曾有人问我，你父母身上那么多让人感动的特质，对你影响最大的是什么？我想了想，回答说，是温柔。温柔能带来这世上最美好的东西。
+- ✨ 没有客观公正的记忆这回事，所有的记忆都是偏见，都是为了自己的存活而重组过的经验。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/14/2023, 2:12:55 AM</code>
+<code  align="right">update: 9/14/2023, 8:47:27 AM</code>
