@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 有时候，我感觉自己一辈子都活在两个闹钟之间，早上的第一次闹钟，以及5分钟之后的第二次闹钟。
+- ✨ 不要排除无法理解的事物，只要包容即可。光是如此，斗争就会从世上消失。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/26/2023, 2:13:44 AM</code>
+<code  align="right">update: 9/26/2023, 8:49:03 AM</code>
