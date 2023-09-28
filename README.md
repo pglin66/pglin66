@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “有时我会担心你们发现我其实很普通。”
-“爱并不需要你与众不同。”
+- ✨ 人们偶尔听到一些怨言，抱怨生活愈来愈复杂。事实上，生活在简单化，不过生活愈简单，就愈艰辛、愈苦涩。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/28/2023, 2:13:36 AM</code>
+<code  align="right">update: 9/28/2023, 8:48:21 AM</code>
