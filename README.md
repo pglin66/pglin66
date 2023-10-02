@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 旅行是一段沿着大地的褶皱，进入全然迷离之境的旅程。其中最大的不确定性不是抵达，而是如何抵达。
+- ✨ 他不是不想多明白些，但是每每在该用脑子的时候，他用了感情。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/2/2023, 2:12:10 AM</code>
+<code  align="right">update: 10/2/2023, 8:49:37 AM</code>
