@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 有的人精于计算，有的人勤于劳作，怎么选择都不错。判断得与失的时限大概要拉长一些，或许是一辈子。
+- ✨ 越在意的人，越是绝口不提。我选择你，做内心深处的秘密。来日有人剖开这颗心来，里面除了你，什么都没有。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/6/2023, 2:13:52 AM</code>
+<code  align="right">update: 10/6/2023, 8:48:43 AM</code>
