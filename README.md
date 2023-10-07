@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 越在意的人，越是绝口不提。我选择你，做内心深处的秘密。来日有人剖开这颗心来，里面除了你，什么都没有。
+- ✨ 我有时候在想，我是真的不太需要其他人，还是因为跟他们在一起时没法做自己，所以才保持距离。我们的交谈就像是平行而毫无交集的自言自语。我们所分享的可能不过是相互之间的不理解。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/7/2023, 2:13:34 AM</code>
+<code  align="right">update: 10/7/2023, 8:47:56 AM</code>
