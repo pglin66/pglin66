@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 难过的人伤心的人、在生活里面对困境的人、即将抑郁的人，从外面很难看出异样，人的心里却可能有一些裂痕。只是人不会在表面裂开。
+- ✨ 世间万物原本都只是暂时地借予我们而已。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/11/2023, 2:14:15 AM</code>
+<code  align="right">update: 10/11/2023, 8:48:40 AM</code>
