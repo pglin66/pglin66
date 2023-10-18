@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 承诺，只是大声说出来的愿望。
+- ✨ 人生之中总有空白，但有时，我们称它为人生的副歌。在一些或长或短的时间段里，您听不见它，于是以为已经忘记了这段副歌。然后，有一天，在您独自一人，周边又没有什么可以分散注意力的时候，这段副歌忽然又响起来。就像儿歌的歌词，它依旧充满魔力。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/18/2023, 2:14:16 AM</code>
+<code  align="right">update: 10/18/2023, 8:49:23 AM</code>
