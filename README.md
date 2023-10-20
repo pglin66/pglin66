@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 长途巴士的魅力之一在于，移动期间可以享受到座位大小的孤独感。
+- ✨ 你生命的前半辈子或许属于别人，活在别人的认为里。那把后半辈子还给你自己，去追随你内在的声音。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/20/2023, 2:13:51 AM</code>
+<code  align="right">update: 10/20/2023, 8:48:55 AM</code>
