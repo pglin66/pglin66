@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你生命的前半辈子或许属于别人，活在别人的认为里。那把后半辈子还给你自己，去追随你内在的声音。
+- ✨ 生活里，都是隐喻。我们总在陌生人身上，发现自己的秘密。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/21/2023, 2:12:50 AM</code>
+<code  align="right">update: 10/21/2023, 8:47:11 AM</code>
