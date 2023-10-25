@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 别再问我的规划是什么了：呼吸，难道不算一个吗？
+- ✨ 不论记忆多么痛苦，它属于过去，已经逝去了，我们为什么还是执着于它并让它代表我们？我们就是这样，所以，我们受苦。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/25/2023, 2:13:40 AM</code>
+<code  align="right">update: 10/25/2023, 8:48:48 AM</code>
