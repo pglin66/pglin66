@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你害怕已久的事发生了，有时是一种解脱。
+- ✨ 钟敲十二响的时候，荷西将我抱在手臂里，说：“快许十二个愿望。”心里重复着十二句同样的话：但愿人长久，但愿人长久，但愿人长久……
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/11/2023, 2:13:04 AM</code>
+<code  align="right">update: 11/11/2023, 8:49:10 AM</code>
