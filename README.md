@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 因为每个人都是人生的新手。向别人提点毫无责任的建议，就能获得自己是前辈的快感。
+- ✨ 世间没有什么因果报应。许多人只能默默走着善良而不幸的路，最终用淡淡的自嘲或彻底的沉默将人世间的万种无奈都藏进记忆。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/17/2023, 8:52:04 AM</code>
+<code  align="right">update: 11/17/2023, 2:14:46 PM</code>
