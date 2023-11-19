@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 被花朵击伤的女子，春天不是她真正的敌人。
+- ✨ 我们都需要这样的几个小时，不记得苛刻的母亲叨念，不记得一穷二白的现实，不记得不完美的存在。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/19/2023, 8:55:25 AM</code>
+<code  align="right">update: 11/19/2023, 2:13:17 PM</code>
