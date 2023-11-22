@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 那时的我很想喜欢某个人，并不是特别需要“某个人”，我只是想“随便找个人”，把我的感情和零花钱全部用出去。
+- ✨ 人想要利利索索地活着，怎么就那么难啊？生存的，生活的，外面的，心里的，处处都要熨帖，处处都是风口。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/22/2023, 8:53:53 AM</code>
+<code  align="right">update: 11/22/2023, 2:14:59 PM</code>
