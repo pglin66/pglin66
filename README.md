@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 冬是孤独，夏是离别，春是两者之间的桥梁。惟独秋，渗透所有的季节。
+- ✨ 我是个靠孤独过活的人，孤独之于我就像食物跟水。一天不独处，我就会变得虚弱。我不以孤独为荣，但以此维生。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/4/2023, 2:12:30 AM</code>
+<code  align="right">update: 12/4/2023, 8:52:39 AM</code>
