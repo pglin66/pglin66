@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我是个靠孤独过活的人，孤独之于我就像食物跟水。一天不独处，我就会变得虚弱。我不以孤独为荣，但以此维生。
+- ✨ 我到这街上来来去去，看这些人如何生活，如何快乐又如何忧愁，我也就仿佛同样得到了一点生活意义。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/5/2023, 2:14:12 AM</code>
+<code  align="right">update: 12/5/2023, 8:52:49 AM</code>
