@@ -2,7 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 也许理想的状态是，像写日记一样地写小说。写日记时我们比较少虚荣，日记是给自己看的，不会因某些文辞而得意，也不会因为笨拙而沮丧。
+- ✨ 我只会在雪地上写信
+写下你想知道的一切
+来吧，要不晚了
+信会化的
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/7/2023, 2:14:01 AM</code>
+<code  align="right">update: 12/7/2023, 8:52:06 AM</code>
