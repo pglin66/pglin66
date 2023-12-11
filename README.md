@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 如果爱情是一次自驾，两个人从孤单出发，漫漫长路，可能遭遇超车、迷路、追尾甚至翻车，意外的事故不尽相同，能够抵达目的地是幸运的。在这个周日，ONE和你一起参观那些令人心碎的爱情故事，它们抛锚在孤独和幸福之间的路上。
+- ✨ 大羹必有淡味，至宝必有瑕疵，大简必有不至，良工必有不巧。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/11/2023, 2:12:33 AM</code>
+<code  align="right">update: 12/11/2023, 8:53:06 AM</code>
