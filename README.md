@@ -2,7 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 大羹必有淡味，至宝必有瑕疵，大简必有不至，良工必有不巧。
+- ✨ 我是人
+我需要爱
+我渴望在情人的眼睛里
+度过每个宁静的黄昏
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/12/2023, 2:14:14 AM</code>
+<code  align="right">update: 12/12/2023, 8:52:45 AM</code>
