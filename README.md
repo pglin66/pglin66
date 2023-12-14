@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们似乎是在这星际旅途一般的航行中迷路了。这一片难以走入的星际中，我们寻找着属于我们的那颗星球。只有它，藏着我们所熟悉的风景、朋友们的房子，以及各种温柔。
+- ✨ “我只是在这个不知道今后会发生什么的世上，用心做着此时此刻的自己能做的事。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/14/2023, 2:12:07 AM</code>
+<code  align="right">update: 12/14/2023, 8:51:37 AM</code>
