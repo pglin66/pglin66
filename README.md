@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 家人之间的爱没办法非黑即白，相互依存就是同时损耗又修补着。
+- ✨ 有人说读书是为“进入社会”做准备，其实我们的首个社会职业就是学生，从认识陌生同学开始，我们就在社会之中了。
+
+少年的天空是一片青色，成年后回首学生时代，纯真美好是真的，压抑灰暗也是真的，同一片天底下同龄的我们未必相同。在周六，ONE和你一起重温青色的少年故事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/16/2023, 2:13:53 AM</code>
+<code  align="right">update: 12/16/2023, 8:51:28 AM</code>
