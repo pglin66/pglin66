@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 侦探并不神秘，一切都是个拼图游戏。能抓住细枝末节的线索，拼出事情原貌，解开心中疑惑的，都是侦探。本周日，ONE邀请你走进悬疑的迷雾，和小说主人公一起破解谜团。
-
-今天我们都是江户川柯南，但真相未必只有一个。
+- ✨ 过去是一个幽灵，虚无缥缈，没什么影响力。只有未来才有分量。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/18/2023, 2:12:41 AM</code>
+<code  align="right">update: 12/18/2023, 8:53:05 AM</code>
