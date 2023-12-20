@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人在集体中溶化了，人人都似乎成了一个广场。
+- ✨ 你希望对方好，以为这事很重要，但如果其中产生了焦虑，那就适得其反了。希望总是产生焦虑，但祈祷不会。为你担忧的人祈祷吧，而不要寄希望于他们。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/20/2023, 2:11:13 AM</code>
+<code  align="right">update: 12/20/2023, 8:41:37 AM</code>
