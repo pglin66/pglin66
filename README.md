@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 语言总是存在于具体事物中，因此我们每一次都要凝神聆听，探询言语之下暗藏的深意。在与行为密不可分的关系中，一句话可能容易接受，也可能难以接受，也许是美的也许是丑的，或好或坏。总而言之，在每一句话语中，也就是说，在每一次说的行为中，都坐着别的眼晴。
+- ✨ 早晨是一日的开始，心情上，有一日的负担和算计，迎接未知的白日，总使人紧张而戒备。黄昏便是不同，它是温柔的夜的前奏，是释放、舒畅，教人享受生命最甜美的一段时光。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/22/2023, 2:12:12 AM</code>
+<code  align="right">update: 12/22/2023, 8:50:59 AM</code>
