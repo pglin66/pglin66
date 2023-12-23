@@ -2,7 +2,11 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 早晨是一日的开始，心情上，有一日的负担和算计，迎接未知的白日，总使人紧张而戒备。黄昏便是不同，它是温柔的夜的前奏，是释放、舒畅，教人享受生命最甜美的一段时光。
+- ✨ 排队叫号，是休息日经常遇到的等待时间。圣诞节前夕，你是否也挤在关于排队的段落里？
+
+本周六，ONE呈上简单清爽的阅读菜单。来，一起看作家是怎么回答这些关于爱的迁徙的。
+
+叮咚！阅读无需排队，随时随刻独享。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/23/2023, 2:13:03 AM</code>
+<code  align="right">update: 12/23/2023, 8:49:15 AM</code>
