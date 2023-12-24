@@ -2,11 +2,11 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 排队叫号，是休息日经常遇到的等待时间。圣诞节前夕，你是否也挤在关于排队的段落里？
+- ✨ 节日不是为了庆祝，是庆祝创造了节日。
 
-本周六，ONE呈上简单清爽的阅读菜单。来，一起看作家是怎么回答这些关于爱的迁徙的。
+没有圣诞树也没关系，ONE将这几个温暖的故事，做成一封小信，赶着雪橇投递进你的烟囱，为你送上圣诞礼物。
 
-叮咚！阅读无需排队，随时随刻独享。
+感谢有机会成为你的圣诞老人，愿你平安幸运。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -34,4 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/24/2023, 2:12:18 AM</code>
+<code  align="right">update: 12/24/2023, 8:54:39 AM</code>
