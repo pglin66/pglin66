@@ -2,11 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 节日不是为了庆祝，是庆祝创造了节日。
-
-没有圣诞树也没关系，ONE将这几个温暖的故事，做成一封小信，赶着雪橇投递进你的烟囱，为你送上圣诞礼物。
-
-感谢有机会成为你的圣诞老人，愿你平安幸运。
+- ✨ 柔软的星期日结束了，坚硬粗鲁的工作日又抓住了你，要想抵挡住它强大的意志，那你可得挺胸凸肚站好了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -34,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/25/2023, 2:12:19 AM</code>
+<code  align="right">update: 12/25/2023, 8:52:20 AM</code>
