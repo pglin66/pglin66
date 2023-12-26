@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 柔软的星期日结束了，坚硬粗鲁的工作日又抓住了你，要想抵挡住它强大的意志，那你可得挺胸凸肚站好了。
+- ✨ 我发现当你深爱着一个人而又能感觉到她同样也深爱着你时，内心深处的波浪就会变成最浅显的涟漪，伴随着风的节奏，持续不衰地轻轻荡漾。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/26/2023, 2:12:57 AM</code>
+<code  align="right">update: 12/26/2023, 8:50:07 AM</code>
