@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 许久以前，我喜欢观察人的心意，但现在，人家说什么，我愿意听什么。
+- ✨ 中年人从不会出现在广告牌上倒是意料之内的事情。我们的眼晴里不再有星辰，都是土地。或许我们可以登上“生活是忍耐”或者“我还活着真是奇迹”的广告牌。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/28/2023, 2:13:01 AM</code>
+<code  align="right">update: 12/28/2023, 8:49:54 AM</code>
