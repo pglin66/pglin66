@@ -6,7 +6,7 @@
 
 读过四个季节的故事，我们一起在高山上等过日出，在人生的旋涡里选择是否相信命运的玄学。在元旦前的最后两天，我们从2023年的作品中选出年度精品，一共7篇文章，愿和你一同回味。
 
-今日前三篇，不分排名
+今日前三篇，不分排名。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -34,4 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/30/2023, 8:49:48 AM</code>
+<code  align="right">update: 12/30/2023, 2:13:00 PM</code>
