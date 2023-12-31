@@ -2,11 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 从2023抵达2024，去往未来的车站只售单程票，我们车票上盖着的印戳可能是留恋，遗憾，无奈，憧憬……恭喜您，2023已到站，您的车票上印着ONE的纪念章。
+- ✨ 留恋过往或者憧憬未来，根源可能都是逃避当下。时间如此奇幻，是一种只要开启，便无法终止的魔法。“人生是旷野”，而阅读是宇宙森林里留得住的、不可灭的轨迹。
 
-读过四个季节的故事，我们一起在高山上等过日出，在人生的旋涡里选择是否相信命运的玄学。在元旦前的最后两天，我们从2023年的作品中选出年度精品，一共7篇文章，愿和你一同回味。
-
-今日前三篇，不分排名。
+2023再见啦，2024就在明天。
+一个天天见。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -34,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/31/2023, 2:13:26 AM</code>
+<code  align="right">update: 12/31/2023, 8:55:07 AM</code>
