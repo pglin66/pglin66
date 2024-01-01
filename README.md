@@ -2,10 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 留恋过往或者憧憬未来，根源可能都是逃避当下。时间如此奇幻，是一种只要开启，便无法终止的魔法。“人生是旷野”，而阅读是宇宙森林里留得住的、不可灭的轨迹。
-
-2023再见啦，2024就在明天。
-一个天天见。
+- ✨ “这下可要好好活了。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -33,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/1/2024, 2:12:20 AM</code>
+<code  align="right">update: 1/1/2024, 8:56:39 AM</code>
