@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 如果你是条船，漂泊就是你的命运，可别靠岸。
+- ✨ 要活得善良，说好听的话，不要哭，不要顶嘴，不要生气，不要吵架。这些话听得我耳朵都要起茧子了，以至于我不管生气或难过都会有负罪感。感情没有被消化，像垃圾一样被扔到心里。因为没能及时清理，我的心都变成了垃圾桶，里面装满了又脏又臭、无法收拾的垃圾。我不想再这样生活了……我也是人，我也有感情。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/3/2024, 2:14:03 AM</code>
+<code  align="right">update: 1/3/2024, 8:51:48 AM</code>
