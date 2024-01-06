@@ -2,7 +2,12 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 出发总是美丽的，尤其是在一个阳光普照的清晨上路。
+- ✨ 「禁忌」有时候是迷幻药，越被禁止的越诱人，游走在爱情的禁区似乎可以随时拥有吻火的冲动，焚尽理智方才罢休。
+
+心动可以控制吗？
+人间并非伊甸园，却处处是禁果，现代快节奏的生活里，随手采摘该如何衡量惩罚呢？
+
+本周六，ONE将目光集中于感情里的失控，是非的天秤在何处加码，由读者您来做决定。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +35,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/6/2024, 2:13:23 AM</code>
+<code  align="right">update: 1/6/2024, 8:51:13 AM</code>
