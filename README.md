@@ -35,4 +35,4 @@ ONE编辑部就有两个升级版“纯爱战士”，他们并不是喜欢剧�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/7/2024, 8:19:00 PM</code>
+<code  align="right">update: 1/8/2024, 2:12:37 AM</code>
