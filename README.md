@@ -2,12 +2,12 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 「禁忌」有时候是迷幻药，越被禁止的越诱人，游走在爱情的禁区似乎可以随时拥有吻火的冲动，焚尽理智方才罢休。
+- ✨ “纯爱战士”是年度网络热梗，指只喜欢单纯美好剧情的观众们。
+后来说谁是“纯爱战士”，是一种觉得对方太过单纯的调侃。
 
-心动可以控制吗？
-人间并非伊甸园，却处处是禁果，现代快节奏的生活里，随手采摘该如何衡量惩罚呢？
+ONE编辑部就有两个升级版“纯爱战士”，他们并不是喜欢剧情，而是希望，甚至是发自内心认为：这个世界就是单纯美好的。
 
-本周六，ONE将目光集中于感情里的失控，是非的天秤在何处加码，由读者您来做决定。
+哪怕有再多的“暗黑领域”，也都是可以解释的误会，哪怕有心碎，也都能被治愈。——本周末，这几个故事，献给新型纯爱战士。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -35,4 +35,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/7/2024, 2:12:31 AM</code>
+<code  align="right">update: 1/7/2024, 8:56:52 AM</code>
