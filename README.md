@@ -2,12 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “纯爱战士”是年度网络热梗，指只喜欢单纯美好剧情的观众们。
-后来说谁是“纯爱战士”，是一种觉得对方太过单纯的调侃。
-
-ONE编辑部就有两个升级版“纯爱战士”，他们并不是喜欢剧情，而是希望，甚至是发自内心认为：这个世界就是单纯美好的。
-
-哪怕有再多的“暗黑领域”，也都是可以解释的误会，哪怕有心碎，也都能被治愈。——本周末，这几个故事，献给新型纯爱战士。
+- ✨ 要怎么思考，怎么生活，随个人高兴，反正人生在世就是无法事事如意，不如意的时候就只能死心。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -35,4 +30,4 @@ ONE编辑部就有两个升级版“纯爱战士”，他们并不是喜欢剧�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/8/2024, 2:12:37 AM</code>
+<code  align="right">update: 1/8/2024, 8:53:31 AM</code>
