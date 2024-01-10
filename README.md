@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们对自己的了解是多么少啊，直到什么事情发生了，才会略微多点。
+- ✨ 我们不必再联系了，年纪越长，越觉得孤独，是正常的，独立出生，独立去死。人和人，无法相通，人间的佳恶情态，已经不值一笑，人生是一次荒凉的旅行。我就写到这里，此信不必回了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/10/2024, 2:11:32 AM</code>
+<code  align="right">update: 1/10/2024, 8:53:11 AM</code>
