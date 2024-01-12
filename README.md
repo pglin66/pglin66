@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我发现当一个人表现得无私时，别人回报他的往往不是友善，而是加倍的贪婪。
+- ✨ 年轻是场欢宴，讲承诺，重气氛，没有明天。现如今，也不算老，却先明白了不强迫，适可而止，日子还长。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/12/2024, 2:13:50 AM</code>
+<code  align="right">update: 1/12/2024, 8:53:30 AM</code>
