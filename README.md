@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 年轻是场欢宴，讲承诺，重气氛，没有明天。现如今，也不算老，却先明白了不强迫，适可而止，日子还长。
+- ✨ 朋友不能一见面就是知己，恋人不是刚刚相遇就能相守，而家人，似乎可以不经过摩擦与了解，直接敲定永远。亲戚不是自己能抉择的，却…好像得无条件去爱，无条件去谅解。本周六献给您几个亲情故事，但ONE也难断家务事。
+
+血缘羁绊是一条长长的锁，即便远在天涯，也能互相拴着牵挂，或者道德绑架。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/13/2024, 2:13:52 AM</code>
+<code  align="right">update: 1/13/2024, 8:52:16 AM</code>
