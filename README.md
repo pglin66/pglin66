@@ -2,9 +2,11 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 朋友不能一见面就是知己，恋人不是刚刚相遇就能相守，而家人，似乎可以不经过摩擦与了解，直接敲定永远。亲戚不是自己能抉择的，却…好像得无条件去爱，无条件去谅解。本周六献给您几个亲情故事，但ONE也难断家务事。
+- ✨ 儿时的朋友，抓鱼捕虾，踏过童年；成年的朋友，喝酒唱K，越过青春；老了的朋友，下棋讲古，互相搀扶。
 
-血缘羁绊是一条长长的锁，即便远在天涯，也能互相拴着牵挂，或者道德绑架。
+三种时刻相陪的可能是三拨人，聚散离合本无常，多少昔年旧友渐渐没了音信，但又何妨？
+
+群星都难免在自转与公转中分离，朋友亦无法永远停留在某一阶段。那些共有的岁月化作陈酿，本周末，ONE和您一起回味书写友情的故事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/14/2024, 2:13:04 AM</code>
+<code  align="right">update: 1/14/2024, 8:57:07 AM</code>
