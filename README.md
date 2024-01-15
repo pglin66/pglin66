@@ -2,11 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 儿时的朋友，抓鱼捕虾，踏过童年；成年的朋友，喝酒唱K，越过青春；老了的朋友，下棋讲古，互相搀扶。
-
-三种时刻相陪的可能是三拨人，聚散离合本无常，多少昔年旧友渐渐没了音信，但又何妨？
-
-群星都难免在自转与公转中分离，朋友亦无法永远停留在某一阶段。那些共有的岁月化作陈酿，本周末，ONE和您一起回味书写友情的故事。
+- ✨ 世界和生活从不慌张，慌张的是被世界和生活押解着的每一个人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -34,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/15/2024, 2:12:44 AM</code>
+<code  align="right">update: 1/15/2024, 8:55:04 AM</code>
