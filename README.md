@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 真实的生活即是，认真做好每一天分内的事情。不索取无关的远景。不纠缠于多余情绪和评断。不妄想，不在其中自我沉醉。不伤害，不与自己和他人为敌。不表演，也不相信他人的表演。
+- ✨ 我冒雨到图书馆去看报，我的稿子还没登出，妈的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/18/2024, 2:13:59 AM</code>
+<code  align="right">update: 1/18/2024, 8:52:33 AM</code>
