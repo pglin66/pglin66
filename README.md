@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 经验是生活的肥料，有什么样的经验便变成什么样的人，在沙漠里养不出牡丹来。
+- ✨ “前任”这个热门议题在快餐爱情的当下，或许已经不再那么重要，但怎么看，每个前任都像是一个坐标，将感情里的心动时刻和后续发展慢慢割裂，细细缝补。本周六ONE带您参观「前任」带来的故事，他们有时候是爱情里的坑，有时候是爱情里的船。
+
+你呢，关于前任，是遗憾还是解脱？是旧债或者冤家？
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/20/2024, 2:14:07 AM</code>
+<code  align="right">update: 1/20/2024, 8:52:16 AM</code>
