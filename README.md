@@ -2,9 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “前任”这个热门议题在快餐爱情的当下，或许已经不再那么重要，但怎么看，每个前任都像是一个坐标，将感情里的心动时刻和后续发展慢慢割裂，细细缝补。本周六ONE带您参观「前任」带来的故事，他们有时候是爱情里的坑，有时候是爱情里的船。
+- ✨ 每个打工人都如时钟里的指针，向着发薪日跑，一圈又一圈，循环过后总觉得人生滞留原地，想停下来也不被电池允许。在这个“内卷”的时代，打工人还被允许有理想吗？
 
-你呢，关于前任，是遗憾还是解脱？是旧债或者冤家？
+这个世界没有绝对的甲方，每个人都有可能是打工人。
+本周ONE和您一起回顾，打工人打工事，打工生活的苦乐参半。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/21/2024, 2:13:01 AM</code>
+<code  align="right">update: 1/21/2024, 8:57:16 AM</code>
