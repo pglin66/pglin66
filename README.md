@@ -2,10 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 每个打工人都如时钟里的指针，向着发薪日跑，一圈又一圈，循环过后总觉得人生滞留原地，想停下来也不被电池允许。在这个“内卷”的时代，打工人还被允许有理想吗？
-
-这个世界没有绝对的甲方，每个人都有可能是打工人。
-本周ONE和您一起回顾，打工人打工事，打工生活的苦乐参半。
+- ✨ 说话的自信是一个十分鬼魅的东西，有时候，你在谁的面前说话自信，你的内心就会酝酿出自信以外的东西，使自信变得绵软，拥有缠绕的能力。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -33,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/22/2024, 2:13:19 AM</code>
+<code  align="right">update: 1/22/2024, 8:55:30 AM</code>
