@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 说话的自信是一个十分鬼魅的东西，有时候，你在谁的面前说话自信，你的内心就会酝酿出自信以外的东西，使自信变得绵软，拥有缠绕的能力。
+- ✨ 失败是一张被拒付的支票，一张糟糕的成绩单，或是一封分手信，以及所有人读起来会伤心的文字。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/23/2024, 2:14:08 AM</code>
+<code  align="right">update: 1/23/2024, 8:54:13 AM</code>
