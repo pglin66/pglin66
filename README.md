@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 落在一个人一生中的雪，我们不能全部看见。每个人都在自己的生命中，孤独地过冬。
+- ✨ 年轻人有的是花不尽的爱与恨，很可惜的是恨比爱多。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/25/2024, 2:14:00 AM</code>
+<code  align="right">update: 1/25/2024, 8:54:11 AM</code>
