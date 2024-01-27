@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 车和人一样，总要有些瑕疵，才能轻松上路，才能放心托付。人生不全然是在红灯变成绿灯的同时就要向前冲。
+- ✨ 一阵风带过，蒲公英飘散，落到沃土或盐碱地是命。每个人都像这样飘散在这世上，很多女孩儿的故事越来越有力量，越来越有魄力，她们未必认命，在自己的角落扎根生长，绽放一朵自我。无论是怎样的暗处，多生长一尺，便离光近了一尺。
+
+觉醒的故事值得所有人喝彩，本周六ONE与你见证那些关于女孩儿力量的成长故事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/27/2024, 2:13:04 AM</code>
+<code  align="right">update: 1/27/2024, 8:48:59 AM</code>
