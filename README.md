@@ -2,9 +2,12 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 一阵风带过，蒲公英飘散，落到沃土或盐碱地是命。每个人都像这样飘散在这世上，很多女孩儿的故事越来越有力量，越来越有魄力，她们未必认命，在自己的角落扎根生长，绽放一朵自我。无论是怎样的暗处，多生长一尺，便离光近了一尺。
+- ✨ 昨日和十年前哪个更遥远？答案是一样的，那都是再也回不去的地方。
 
-觉醒的故事值得所有人喝彩，本周六ONE与你见证那些关于女孩儿力量的成长故事。
+往事虽然不会说话，但也不曾消散。我们总会在遇到一些人、一些事时触发回忆的机关。
+曾经的伤痛与美好都会存进时间银行，形成一笔难算的账。
+
+我们可以挥霍往昔，也得偿还旧债，本周日，ONE起个头，一起旧事重提吧。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +35,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/28/2024, 2:11:45 AM</code>
+<code  align="right">update: 1/28/2024, 8:52:15 AM</code>
