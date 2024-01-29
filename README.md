@@ -2,12 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 昨日和十年前哪个更遥远？答案是一样的，那都是再也回不去的地方。
-
-往事虽然不会说话，但也不曾消散。我们总会在遇到一些人、一些事时触发回忆的机关。
-曾经的伤痛与美好都会存进时间银行，形成一笔难算的账。
-
-我们可以挥霍往昔，也得偿还旧债，本周日，ONE起个头，一起旧事重提吧。
+- ✨ 光有美好愿望是不够的，自由要有牙齿才能不被吞噬。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -35,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/29/2024, 2:11:42 AM</code>
+<code  align="right">update: 1/29/2024, 8:50:06 AM</code>
