@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 光有美好愿望是不够的，自由要有牙齿才能不被吞噬。
+- ✨ 人不需要注脚，人应该就是自己本身，是行走在大地上、沐浴着阳光的最本质的存在。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/30/2024, 2:12:43 AM</code>
+<code  align="right">update: 1/30/2024, 8:49:07 AM</code>
