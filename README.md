@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 很多人感到害怕，因为他们不知道如何放弃。在得到所有答案之前，他们害怕把自己交给自己。
+- ✨ 人的路，要亲自去走，这是千真万确的。顺其自然地过日子是非常安宁的，不应背上懒惰的骂名。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/1/2024, 2:10:41 AM</code>
+<code  align="right">update: 2/1/2024, 8:51:37 AM</code>
