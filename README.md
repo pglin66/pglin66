@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人的路，要亲自去走，这是千真万确的。顺其自然地过日子是非常安宁的，不应背上懒惰的骂名。
+- ✨ 魔鬼只存在于人类自己的创造里。魔鬼、恐惧、担心和所有可以吓唬人的东西，以及那些藏在衣柜里的怪物，都不过是人类自己的创造，和其他任何人都没有关系。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/2/2024, 2:12:50 AM</code>
+<code  align="right">update: 2/2/2024, 8:49:34 AM</code>
