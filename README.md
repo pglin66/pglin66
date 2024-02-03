@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 魔鬼只存在于人类自己的创造里。魔鬼、恐惧、担心和所有可以吓唬人的东西，以及那些藏在衣柜里的怪物，都不过是人类自己的创造，和其他任何人都没有关系。
+- ✨ 现实的引力太沉，连想象都有了条条框框，年少时天马行空的美梦都被锁进遗忘的房间。而小说是一扇任意门，上一秒在北极破冰，下一秒在异次元解冻，幻想是最简单的自由，让心飞向一切皆有可能的国度。
+
+本周六，短暂休息，ONE打穿思维定式的墙，邀你一起逃出现实。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/3/2024, 2:14:05 AM</code>
+<code  align="right">update: 2/3/2024, 8:48:33 AM</code>
