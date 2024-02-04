@@ -2,9 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 现实的引力太沉，连想象都有了条条框框，年少时天马行空的美梦都被锁进遗忘的房间。而小说是一扇任意门，上一秒在北极破冰，下一秒在异次元解冻，幻想是最简单的自由，让心飞向一切皆有可能的国度。
-
-本周六，短暂休息，ONE打穿思维定式的墙，邀你一起逃出现实。
+- ✨ 律回岁晚冰霜少，
+春到人间草木知。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/4/2024, 2:12:05 AM</code>
+<code  align="right">update: 2/4/2024, 8:53:00 AM</code>
