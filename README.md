@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人比人气死人，我不跟人比，只跟自已比。报纸上说，幸福是养自己心的，不是养人家眼的。
+- ✨ 在没有人与人交接的场合，我充满了生命的欢悦。可是我一天不能克服这种咬啮性的小烦恼，生命是一袭华美的袍，爬满了蚤子。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/8/2024, 2:13:04 AM</code>
+<code  align="right">update: 2/8/2024, 8:48:28 AM</code>
