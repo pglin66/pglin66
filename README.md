@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 如果文学里真的存在某些神秘的力量，那就是让读者在属于不同时代、不同民族和不同文化的作品里，读到属于他们自己的感受，就像在属于别人的镜子里也能看清楚自己的形象一样。
+- ✨ 明天的渺茫全仗昨天的实在撑持着，新梦是旧事的拆洗缝补。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/10/2024, 2:12:58 AM</code>
+<code  align="right">update: 2/10/2024, 8:46:58 AM</code>
