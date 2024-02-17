@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 归根结底，人们只想阅读他们自己。
+- ✨ 无论种子散落何处，都会长出一棵树，向着天空，挣扎着生长。这种树长在木板围拢的废墟里，长在人迹罕至的垃圾场，它是唯一能在水泥地里生长的树。它枝繁叶茂，偏偏钟情于居民住宅区。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/17/2024, 2:13:19 AM</code>
+<code  align="right">update: 2/17/2024, 8:48:15 AM</code>
