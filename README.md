@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我这辈子都照这么一条规则行事：任何时候都要尽情享受快乐，哪怕是不太可能高兴的时候。
+- ✨ 成年人又不是小孩子，不需要哄，他们要靠哭来变得坚强。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/19/2024, 2:12:07 AM</code>
+<code  align="right">update: 2/19/2024, 8:50:24 AM</code>
