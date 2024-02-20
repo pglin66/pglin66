@@ -2,7 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 成年人又不是小孩子，不需要哄，他们要靠哭来变得坚强。
+- ✨ 想你的时候
+大雨敲窗、夏虫晕唱
+汽车驶过凌晨两点半
+全世界都在故作声响
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/20/2024, 2:14:04 AM</code>
+<code  align="right">update: 2/20/2024, 8:48:10 AM</code>
