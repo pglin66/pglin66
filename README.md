@@ -2,10 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 想你的时候
-大雨敲窗、夏虫晕唱
-汽车驶过凌晨两点半
-全世界都在故作声响
+- ✨ 在这个世界上，我只确定一件事，那就是谁也没有权利打扰别人的生活。人人都得靠自己过日子。别人也许可以帮忙，但不能告诉他该怎么做。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -33,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/21/2024, 2:14:52 AM</code>
+<code  align="right">update: 2/21/2024, 8:49:36 AM</code>
