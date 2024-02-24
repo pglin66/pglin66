@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 每个人都会去撞南墙，知道最后会头破血流也没用。只要有那道墙在，人就会撞上去。不过或许这就是乏味生活仅有的激情了，每个人都活该像个搏命英雄。
+- ✨ 人不管走到哪一步，总得找点乐子，想一点办法，老是愁眉苦脸的，干吗呢。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/24/2024, 2:14:06 AM</code>
+<code  align="right">update: 2/24/2024, 8:46:21 AM</code>
