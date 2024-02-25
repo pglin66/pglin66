@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人不管走到哪一步，总得找点乐子，想一点办法，老是愁眉苦脸的，干吗呢。
+- ✨ “哪里有人喜欢孤独，不过是不喜欢失望罢了。”或许是受过伤，或许还在等待真爱，在当下，独居生活似乎已经成为一种时尚。社交媒体上“独居”是一项特色，“不婚不育”也成了基本标签。
+
+本周日，ONE和你一起走进独居或者单身的悲喜生活，丈量孤独这片国土的边界。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/25/2024, 2:12:37 AM</code>
+<code  align="right">update: 2/25/2024, 8:52:30 AM</code>
