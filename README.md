@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你主动给爱放假了吗？
-给爱放假的这个假期里的爱，就像冰箱里的苹果，仍会保鲜的。
+- ✨ 即便是心爱的东西，也不能跟它贴得太近了，彼此得留条缝隙，这样大家才会自在。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/29/2024, 2:13:17 AM</code>
+<code  align="right">update: 2/29/2024, 8:48:26 AM</code>
