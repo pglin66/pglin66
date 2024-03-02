@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 三月是远行者上路的日子，他们从三月出发，就像语言从表达出发，歌从欢乐出发。
-三月连羔羊也会大胆，世界温和，大道光明，石头善良。
+- ✨ 记住，你永远没办法拯救全世界，但只要你在以自己的方式不断努力，就足够了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/2/2024, 2:14:20 AM</code>
+<code  align="right">update: 3/2/2024, 8:47:15 AM</code>
