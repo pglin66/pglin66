@@ -2,11 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生活充满变数，谁也不知道随机的骰子停在哪一面。水逆突如其来，人生随地救火。
-
-本周日，ONE陪你一起看看别人的倒霉故事。每个“不走运”都是为了“走运”让路，倒霉鬼也有再扔一把骰子的勇气！
-
-摔倒了也可以原地休息，无所畏惧就是无所谓的。一起阅读，休息，休息。
+- ✨ 假如时间是一匹布。我就把所有不好的部分都裁掉。裁掉吓人的黑夜，然后把幸福的部分缝起来，这样日子更好挨一些。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -34,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/4/2024, 2:12:18 AM</code>
+<code  align="right">update: 3/4/2024, 8:49:54 AM</code>
