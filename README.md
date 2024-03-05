@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 假如时间是一匹布。我就把所有不好的部分都裁掉。裁掉吓人的黑夜，然后把幸福的部分缝起来，这样日子更好挨一些。
+- ✨ Error: read ECONNRESET
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/5/2024, 2:13:28 AM</code>
+<code  align="right">update: 3/5/2024, 8:48:44 AM</code>
