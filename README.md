@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 如果你能够在某个人面前直言不讳，那么一定要珍惜他，因为在他面前，你是你自己。
+- ✨ 时代的龙卷风袭来，抵抗是无效的，最好是在风暴中心起舞。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/8/2024, 2:13:20 AM</code>
+<code  align="right">update: 3/8/2024, 8:48:50 AM</code>
