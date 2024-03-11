@@ -2,11 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “有钱就行”是现代年轻人的流行语录，求知不如求钱。啊哈，钱是万能的吗？钱不万能还有什么万能？
-
-钞票，通用货币。婚丧嫁娶，衣食住行，生老病死，活在人类社会，哪一样离得开它呢？
-
-可说到底，钱乃心镜，倒映人的欲求。有时并非钱少，而是欲求太多。本周日，ONE和你一起穿梭在金钱的魔魅里。
+- ✨ 人生灿若星辰，未必做成最亮的那一颗，但尽力就好，总得发些微光，否则人生真就瞎了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -34,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/11/2024, 2:11:40 AM</code>
+<code  align="right">update: 3/11/2024, 8:50:09 AM</code>
