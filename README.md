@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 无论如何，只能埋头往前走啊，人活着，没有退路。
+- ✨ 成为好朋友的意思就是，你喜欢什么，我就想送给你。还有，一些原本不好意思说的事情，现在也敢说了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/16/2024, 2:14:23 AM</code>
+<code  align="right">update: 3/16/2024, 8:47:58 AM</code>
