@@ -2,7 +2,13 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 成为好朋友的意思就是，你喜欢什么，我就想送给你。还有，一些原本不好意思说的事情，现在也敢说了。
+- ✨ 生活逼仄，总想抛下纷扰，有的人说走就走，浪迹天涯；有的人坐在办公室，心思散落全宇宙。
+
+同样在路上的人，总有着不同的心情。有人潇洒，有人无奈，有人失恋修复，有人等待艳遇，有人为了旅行而旅行。
+
+如果人生也是旅途，那么重要的似乎不是抵达，而是如何抵达。
+
+本周日，ONE跟随那些漂泊的足迹，和你一起踏上旅程。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +36,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/17/2024, 2:12:53 AM</code>
+<code  align="right">update: 3/17/2024, 8:52:31 AM</code>
