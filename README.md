@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我已经厌倦了不断回顾的人生，现在只想向前看。
+- ✨ 有人在等待着我。这样的生活有持续性，也有自由度。我们可以像风筝一样飞翔，握着彼此的引线，无须担心风太猛烈。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/19/2024, 2:13:14 AM</code>
+<code  align="right">update: 3/19/2024, 8:49:14 AM</code>
