@@ -2,8 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 恐怕人生中注定有这么一段时期，要狠狠使用平时很少用到的肌肉，哪怕这种努力并没有结果。
-不爱说话的人啊，请努力生活。我也在背后无言地声援你。
+- ✨ 任凭清晨的忧伤席卷而来
+拥有什么就拥有，让我享有当下
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/22/2024, 2:13:29 AM</code>
+<code  align="right">update: 3/22/2024, 8:49:22 AM</code>
