@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 任凭清晨的忧伤席卷而来
-拥有什么就拥有，让我享有当下
+- ✨ 但是，“永远” 也会有结束的一天。时间不喜欢被无限延长。时间喜欢小碎步、小雨滴、滴答的钟声和细枝末节。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/23/2024, 2:13:33 AM</code>
+<code  align="right">update: 3/23/2024, 8:47:57 AM</code>
