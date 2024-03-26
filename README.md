@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你不能同时拥有上和下！让我们为自己保留一些心愿吧！这样平日里想起来会觉得有活头。
+- ✨ 人往往需要某种醉意，才能使自己浮在生活的浪潮之上。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/26/2024, 2:14:18 AM</code>
+<code  align="right">update: 3/26/2024, 8:49:35 AM</code>
