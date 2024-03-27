@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人往往需要某种醉意，才能使自己浮在生活的浪潮之上。
+- ✨ 生活会让人变得愚蠢、做作，越来越模棱两可，越来越失去形状。而每一个小孩都有着玲珑的形状，有一份天然的能够洞察人的敏锐。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/27/2024, 2:13:10 AM</code>
+<code  align="right">update: 3/27/2024, 8:49:25 AM</code>
