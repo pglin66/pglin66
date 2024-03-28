@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生活会让人变得愚蠢、做作，越来越模棱两可，越来越失去形状。而每一个小孩都有着玲珑的形状，有一份天然的能够洞察人的敏锐。
+- ✨ “如果你运气好，人们会以自己知道的方式爱你；如果你真的非常幸运，人们爱你的方式刚好是你所期望的。”
+“如果不是我期望的呢？”
+“我想你得知足，被爱已经是很幸运的了。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/28/2024, 2:14:21 AM</code>
+<code  align="right">update: 3/28/2024, 8:49:55 AM</code>
