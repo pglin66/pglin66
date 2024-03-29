@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “如果你运气好，人们会以自己知道的方式爱你；如果你真的非常幸运，人们爱你的方式刚好是你所期望的。”
-“如果不是我期望的呢？”
-“我想你得知足，被爱已经是很幸运的了。”
+- ✨ 有意思呵，每当你觉得人生不可能更糟糕的时候，它忽然就又会给你点儿颜色看看。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/29/2024, 2:13:30 AM</code>
+<code  align="right">update: 3/29/2024, 8:50:00 AM</code>
