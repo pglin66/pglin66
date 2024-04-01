@@ -2,11 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 说话可以是变魔术，颠倒是非，制造幻象。
-
-这世界有真实缔造的谎言，也有谎言缔造的真实，说谎在所难免，不过有善意与恶意之分，能够骗过我们的往往是身边人。花非花，雾非雾，人看不见人心所以难辨真假。
-
-本周日，ONE邀你拆穿谎言背后的秘密。
+- ✨ 人生嘛，有时候试着停下来也是很重要的，就当是人生这场漫长旅途中的短暂休息。这里是码头，你这条船只是暂时在这里下锚停泊，等休息好了，再次扬帆出发就是了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -34,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/1/2024, 2:12:28 AM</code>
+<code  align="right">update: 4/1/2024, 8:54:49 AM</code>
