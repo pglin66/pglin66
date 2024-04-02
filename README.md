@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人生嘛，有时候试着停下来也是很重要的，就当是人生这场漫长旅途中的短暂休息。这里是码头，你这条船只是暂时在这里下锚停泊，等休息好了，再次扬帆出发就是了。
+- ✨ 世界越来越美了。我独自一人，却很自在。我别无所求，只想被阳光晒透。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/2/2024, 2:13:08 AM</code>
+<code  align="right">update: 4/2/2024, 8:52:18 AM</code>
