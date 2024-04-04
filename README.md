@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 未知是人生最大的魅力，最让我感到慌乱的，就是被剧透的人生。
+- ✨ 除了熟睡的小孩子，似乎并没有多少东西逃脱得了真实世界的摧残。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/4/2024, 2:13:31 AM</code>
+<code  align="right">update: 4/4/2024, 8:51:14 AM</code>
