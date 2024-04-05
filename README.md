@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 除了熟睡的小孩子，似乎并没有多少东西逃脱得了真实世界的摧残。
+- ✨ 我很想歇一歇，但却总有一种不可理喻的紧迫感，总觉得这条单行道上的汽车都开向奇妙的终点，我怕我只要停下片刻脚步，去买个汉堡什么的，就会错过那辆值得我搭乘的车。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/5/2024, 2:14:12 AM</code>
+<code  align="right">update: 4/5/2024, 8:50:28 AM</code>
