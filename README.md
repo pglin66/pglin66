@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 孤独是不得已的。如果执着于人，心就会受伤、崩溃和扭曲。与其成为龌龊而扭曲的人，我宁愿选择超然和孤独。
+- ✨ 我生来就懒，连人际关系都懒得处理：宁可别人离开我，我也懒得离开别人。所以该来的事就让它来，等着看吧，随遇而安。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/7/2024, 2:12:22 AM</code>
+<code  align="right">update: 4/7/2024, 8:54:47 AM</code>
