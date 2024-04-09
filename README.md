@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人生崩塌起来真简单。为了一个普通人的头衔，我慢慢积累了十年二十年的人生，谁用指尖轻轻戳一下，就崩塌了。塌掉后，我就只剩逃跑这一条路了。
+- ✨ 我毕竟有我的具体情况。我活着的目的并非为了向别人出示一张好看的脸。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/9/2024, 2:14:46 AM</code>
+<code  align="right">update: 4/9/2024, 8:50:19 AM</code>
