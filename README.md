@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我毕竟有我的具体情况。我活着的目的并非为了向别人出示一张好看的脸。
+- ✨ 你听得见所有事物进入心里的声音，非常地清晰，知道什么时候进来，什么时候离开，但从来无法阻止。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/10/2024, 2:13:00 AM</code>
+<code  align="right">update: 4/10/2024, 8:50:06 AM</code>
