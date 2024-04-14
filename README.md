@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 有光，便有阴翳。法治社会，总有凶徒想躲进法外之地，认可丛林法则，伺机杀戮，狩猎被害者。自认为是猎人的罪犯，又是警方的猎物，没有一桩密谋可以完美无缺，没有一起罪案能够天衣无缝。
-
-本周日，循着小说的线索，ONE和你追寻罪案背后的真相。
+- ✨ 我一路过来，也学到了些事情。我学到的其中一件事是，我必须弯曲，不然便会折断。我还学到，弯曲的同时也有可能折断。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/14/2024, 10:40:06 PM</code>
+<code  align="right">update: 4/15/2024, 6:53:24 AM</code>
