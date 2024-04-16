@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我一路过来，也学到了些事情。我学到的其中一件事是，我必须弯曲，不然便会折断。我还学到，弯曲的同时也有可能折断。
+- ✨ 生命中只会有寥寥几个这样珍贵的片刻。你撞上了一桩什么物事，足以改变你和这个世界的相处方式。就在那个瞬间，你永远告别了懵然的旧时光。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/16/2024, 2:13:44 AM</code>
+<code  align="right">update: 4/16/2024, 8:50:11 AM</code>
