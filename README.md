@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生命中只会有寥寥几个这样珍贵的片刻。你撞上了一桩什么物事，足以改变你和这个世界的相处方式。就在那个瞬间，你永远告别了懵然的旧时光。
+- ✨ 有时我们弄不清楚，进屋后的拥抱，是习惯，是喜欢，是补偿，还是一种有效关系的证明。我们也不想弄清楚。所以，有些时候我们在忍受，有时候在承受，有些时候，也肯定是在享受。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/17/2024, 2:13:27 AM</code>
+<code  align="right">update: 4/17/2024, 8:51:08 AM</code>
