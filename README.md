@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 有时我们弄不清楚，进屋后的拥抱，是习惯，是喜欢，是补偿，还是一种有效关系的证明。我们也不想弄清楚。所以，有些时候我们在忍受，有时候在承受，有些时候，也肯定是在享受。
+- ✨ 明天要等到今天结束了才会到来，你的任务是把今天完整地过好。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/18/2024, 2:13:53 AM</code>
+<code  align="right">update: 4/18/2024, 8:49:57 AM</code>
