@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 善良的人，甚至在狗的面前也会感到害羞。
+- ✨ 都市，好事、坏事，喜事、惨事，故事每天都在发生，人宛若滴水跌落海洋，稀释在繁华浪潮中。都市是一面放大镜，放大了梦想、迷惘或绝望。阶层分明的土著也罢，际遇不一的异乡客也罢，人来人往，都市的变迁太快，总是还来不及记住，便被遗忘了。
+
+本周日，ONE和你走进流动的都市。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/21/2024, 2:13:57 AM</code>
+<code  align="right">update: 4/21/2024, 8:54:37 AM</code>
