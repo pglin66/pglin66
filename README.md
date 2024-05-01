@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 不错，我们有书，但它跟生动的谈话和交际不同，完全不同。如果打一个不很中肯的比方，那么书是歌谱，而交谈则是歌唱。
+- ✨ 我二十岁就开始回忆以往。普遍的说法是，谁总在回忆，就是老了。我同意。在这种人人怕老的时代，真诚不易。不少人对记忆力很自信，我是这之外的，只记得气氛。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/1/2024, 2:16:10 AM</code>
+<code  align="right">update: 5/1/2024, 8:55:15 AM</code>
