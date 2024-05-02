@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我二十岁就开始回忆以往。普遍的说法是，谁总在回忆，就是老了。我同意。在这种人人怕老的时代，真诚不易。不少人对记忆力很自信，我是这之外的，只记得气氛。
+- ✨ 人类真是荒谬，喜欢把东西弄湿再弄干，谓之清洁，爱另一个人之后恨他，谓之爱情。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/2/2024, 2:14:21 AM</code>
+<code  align="right">update: 5/2/2024, 8:51:06 AM</code>
