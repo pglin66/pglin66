@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人类真是荒谬，喜欢把东西弄湿再弄干，谓之清洁，爱另一个人之后恨他，谓之爱情。
+- ✨ 饱经世故的人们常说，“不会回头的东西有四件：说出口的话、离弦的箭、逝去的生活和失去的机会。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/3/2024, 2:14:16 AM</code>
+<code  align="right">update: 5/3/2024, 8:54:14 AM</code>
