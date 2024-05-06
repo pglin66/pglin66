@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 季节改换，从不打招呼说要来要走。阳光凶猛，恍惚间闯进夏天，雪糕、西瓜和电风扇，天气越热人越贪凉，人们除去外套，袒露情绪，而夏天的故事像野草那样在不经意间疯长。
-
-这个周末，ONE和你一起过夏天。
+- ✨ 我的生活基本就只有工作、学习和阅读。我不需要更多。我感到孤独，但跟我的追求相比，孤独并不算太高的代价。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/6/2024, 2:13:13 AM</code>
+<code  align="right">update: 5/6/2024, 8:52:55 AM</code>
