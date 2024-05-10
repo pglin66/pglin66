@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你不能只追求温饱，还得活得快乐，活得有质量。
+- ✨ 在日复一日如川剧“变脸”般不停转换的角色扮演中，“自己”这个角色反而少有上戏的机会，除了午夜场。而在几乎无声也无观众的演出过程里，和“自己”对戏的另一个唯一的角色就叫“回忆”。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/10/2024, 2:13:48 AM</code>
+<code  align="right">update: 5/10/2024, 8:52:18 AM</code>
