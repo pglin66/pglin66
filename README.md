@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 在日复一日如川剧“变脸”般不停转换的角色扮演中，“自己”这个角色反而少有上戏的机会，除了午夜场。而在几乎无声也无观众的演出过程里，和“自己”对戏的另一个唯一的角色就叫“回忆”。
+- ✨ 一味沉湎于过去是毫无意义的。一直看着后视镜是很危险的，会出交通事故哦。已经走过的路，只要时不时地回顾一下就可以了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/11/2024, 2:14:39 AM</code>
+<code  align="right">update: 5/11/2024, 8:51:29 AM</code>
