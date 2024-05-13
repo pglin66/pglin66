@@ -2,9 +2,11 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 妈妈看着我们渐渐长大，奔向前程；我们却得看着妈妈缓缓老去，走近垂暮。同样的岁月却有不同的滋味。孩子在最懵懂的时光里得到最多的呵护，把陪伴视作理所当然，等到了懂得珍惜的年纪，总是懊恼错过了许多时光。
+- ✨ 绿色的时间，绽放
+在鲸鱼所能碰触的天空，
 
-本周末的故事，献给所有的母亲。
+人世，不过是一次漫长的呼吸罢了，
+随后我们便要回到各自的深海。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/13/2024, 2:15:14 AM</code>
+<code  align="right">update: 5/13/2024, 8:53:55 AM</code>
