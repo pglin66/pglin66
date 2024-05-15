@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 幸福与满足很难得到共鸣，失败与伤痛却轻而易举。真假并不重要，人们是依靠疤痕、伤口，以及血的腥味去辨识同类的。
+- ✨ 我们大多数人骨子里头都有一种刚愎任性的意气，尤其是在少不更事和坠入爱河之时。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/15/2024, 2:14:20 AM</code>
+<code  align="right">update: 5/15/2024, 8:52:53 AM</code>
