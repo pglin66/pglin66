@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你是这样的人啊，是时间难以名状的淡痕，是艰难发光的细小水流，是柔软的鱼群。是错置。是边界。是沙粒。是森林。
+- ✨ 人生并非二进制，无法用0和1概括，当命运系统出错，陷入难以摆脱的低谷，没有天才程序员来帮忙修补生活。苦难的引力扭曲人心，遇到漫长的极夜，许多人在太阳出来之前放弃，不是谁都能等到黎明。
+本周日的故事，关注小人物的苦难。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/19/2024, 2:14:28 AM</code>
+<code  align="right">update: 5/19/2024, 8:56:49 AM</code>
