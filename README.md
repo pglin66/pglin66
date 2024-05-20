@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人生并非二进制，无法用0和1概括，当命运系统出错，陷入难以摆脱的低谷，没有天才程序员来帮忙修补生活。苦难的引力扭曲人心，遇到漫长的极夜，许多人在太阳出来之前放弃，不是谁都能等到黎明。
-本周日的故事，关注小人物的苦难。
+- ✨ 在青年和壮年时期，我常常沉浸在伤春悲秋的散文和诗歌里。我是孤独的，无人作伴。算了，也就如此罢。毕竟，我还有大量的时间和精力来读书、思考、反省，和做白日梦。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/20/2024, 2:14:04 AM</code>
+<code  align="right">update: 5/20/2024, 8:53:35 AM</code>
