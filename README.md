@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 世界上大约有一些缘分，使你在第一次相遇即敢于倾诉心中最深的感觉。
+- ✨ 晚上，我像一条熄灯的游船
+躺着，与现实保持
+适当的距离。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/22/2024, 2:14:46 AM</code>
+<code  align="right">update: 5/22/2024, 8:53:28 AM</code>
