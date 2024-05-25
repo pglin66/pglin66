@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我是那个过去常常大笑如今却不再发笑的人。我是那个哭泣的人。
+- ✨ 你还年轻，只会想到自己。你不会留意发生在你周遭其他人身上的苦难。别抗议，这是真的。我不是在责备你。我在你这个年纪，也像你一样自私。自私是年轻人的习惯。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/25/2024, 2:15:19 AM</code>
+<code  align="right">update: 5/25/2024, 8:52:16 AM</code>
