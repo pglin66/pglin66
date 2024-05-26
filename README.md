@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你还年轻，只会想到自己。你不会留意发生在你周遭其他人身上的苦难。别抗议，这是真的。我不是在责备你。我在你这个年纪，也像你一样自私。自私是年轻人的习惯。
+- ✨ 都说人生苦短，那猫狗这些动物的一生呢？凡是生命皆有自己的感受，人有悲欢离合，动物也有喜怒哀乐。它们的心意无法直接与人相通，陪伴人一段时光，这段时光是人生的一段插曲，却也是它们此生的全部。
+
+本周日，ONE和你走近动物的故事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/26/2024, 2:13:59 AM</code>
+<code  align="right">update: 5/26/2024, 8:57:30 AM</code>
