@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 其实每个人都需要一个属于自己的角落，避一避楼宇之间的风。我们管那叫寻找温暖。
+- ✨ 任何时候，任何地点，都少不了操心的人。
+把别人的生活指指点点说上一番，但提供不了任何解决方案，不过是过过嘴瘾罢了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 5/28/2024, 2:15:05 AM</code>
+<code  align="right">update: 5/28/2024, 8:53:39 AM</code>
