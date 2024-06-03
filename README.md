@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们习惯了故事有终结，谜题有答案。而开放式结局打开了故事封闭的魔盒，小说人物的归宿不再是命中注定，还某种意义上打破了“第四堵墙”，读者不仅仅是读者，而是能按自己意愿创作结局的作者。
-
-留白意味着无限可能，本周末的故事向读者开放，请创作你所憧憬的结局。
+- ✨ 每个人的一生都是在走自己的剧本，所以我们只能把自己当作问题，把自己当作答案。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/3/2024, 2:15:21 AM</code>
+<code  align="right">update: 6/3/2024, 8:55:20 AM</code>
