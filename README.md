@@ -2,7 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 每个人的一生都是在走自己的剧本，所以我们只能把自己当作问题，把自己当作答案。
+- ✨ 童稚的爱遵循这一原则：“我因被爱而爱。”
+成熟的爱遵循“我因爱而被爱”这一原则。
+不成熟的爱宣称：“我爱你，因为我需要你。”
+成熟的爱是：“我需要你，因为我爱你。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/4/2024, 2:15:57 AM</code>
+<code  align="right">update: 6/4/2024, 8:55:01 AM</code>
