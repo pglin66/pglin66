@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 法律定义了未成年与成年界限，可恶并不分年纪。十七岁或十九岁犯罪，给人带来的伤害并无区别。恶意一旦突破道德，罪与罚的天平便开始摇晃，最终停在审判的平衡点，年少轻狂的借口并不适用在所有事上。
-
-本周日，ONE和你观察犯罪少年的世界。
+- ✨ 永远别回头。无论是为了找借口、为自己辩解还是找乐子，永远都不要回头。你现在是什么人，就是什么人，世界眼下是什么样，就是什么样。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/10/2024, 2:14:32 AM</code>
+<code  align="right">update: 6/10/2024, 8:56:47 AM</code>
