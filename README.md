@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 永远别回头。无论是为了找借口、为自己辩解还是找乐子，永远都不要回头。你现在是什么人，就是什么人，世界眼下是什么样，就是什么样。
+- ✨ 在这儿，城市里，我们都过着违反本性的生活.…人不是为了生活在办公室的废纸堆里而生下来的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/11/2024, 2:15:49 AM</code>
+<code  align="right">update: 6/11/2024, 8:55:30 AM</code>
