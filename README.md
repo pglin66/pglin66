@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 在这儿，城市里，我们都过着违反本性的生活.…人不是为了生活在办公室的废纸堆里而生下来的。
+- ✨ 生命没有高贵的出身，腐烂便是生命的母亲。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/12/2024, 2:16:45 AM</code>
+<code  align="right">update: 6/12/2024, 8:55:43 AM</code>
