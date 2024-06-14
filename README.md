@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 希望就像一棵植物，它会发芽会生长，让人有活下去的动力。但它也可能是一道伤口，永远也不肯愈合。
+- ✨ 我的确可以满心愉悦。我可以是亲切的，亲和的，亲善的。但别以为我是个好人。我跟好人可没关系。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/14/2024, 2:16:21 AM</code>
+<code  align="right">update: 6/14/2024, 8:55:12 AM</code>
