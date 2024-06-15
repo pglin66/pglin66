@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我的确可以满心愉悦。我可以是亲切的，亲和的，亲善的。但别以为我是个好人。我跟好人可没关系。
+- ✨ 世上善的增长，一部分也依赖于那些微不足道的行为，而你我遭遇之所以不致如此悲惨，一般也归功于那些不求闻达、忠诚度过自己的一生，然后安息在无人凭吊的坟墓中的人们。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/15/2024, 2:16:20 AM</code>
+<code  align="right">update: 6/15/2024, 8:55:07 AM</code>
