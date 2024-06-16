@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 世上善的增长，一部分也依赖于那些微不足道的行为，而你我遭遇之所以不致如此悲惨，一般也归功于那些不求闻达、忠诚度过自己的一生，然后安息在无人凭吊的坟墓中的人们。
+- ✨ 我们自出生起便认识了父亲，可在成长中却未必能互相理解。似乎所有父亲都不擅长用语言表达爱，不擅长沟通，总把爱藏进看似漫不经心的叮嘱或直截了当的行动中。
+
+方式不同，但父母的爱是一样的。本周日，ONE走进父亲们的故事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/16/2024, 2:15:30 AM</code>
+<code  align="right">update: 6/16/2024, 8:59:42 AM</code>
