@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我已经习惯于讨得所有人的喜欢，别人对我的喜欢，对我来说是一层亮闪闪的盔甲。
+- ✨ 流浪的人是没有冬天和夏天的，每天都一样冷。奇怪吧？阳光明明照在身上，可体感还是冷。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/18/2024, 2:15:46 AM</code>
+<code  align="right">update: 6/18/2024, 8:55:54 AM</code>
