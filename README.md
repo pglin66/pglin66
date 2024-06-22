@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 在这个世界上你会遇上一个人，你无法用一种具体的言语去描述，不用语言，只用感觉，就在漆黑中撞进了通向这个人的窄道。一旦进了这个窄道，不管情愿不情愿，一种力量狠狠地吸着你走，跌跌撞撞，既害怕又兴奋。
+- ✨ 当人不能改变世界，而为世界所改变时，便不知道自己还能做些什么。消沉是难免的，接下来便是奋起自救。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/22/2024, 2:16:19 AM</code>
+<code  align="right">update: 6/22/2024, 8:54:26 AM</code>
