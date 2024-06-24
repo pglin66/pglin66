@@ -2,10 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你有多久没寄出或收到书信了？
-科技不断迭代，生活的节奏也越来越快。太匆匆。从前的日子过得缓慢，也过得简单，一封寄托思绪的信要很久才到。
-或许人生的路上没必要着急抵达，慢下来才不会错过风景。
-本周日，ONE和你回顾书信的故事。
+- ✨ 生活的要义，就是满怀兴趣地活在这个世界上。睁大你的眼睛，从你所遇到的每一个人身上看到各种可能性——看到人性。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -33,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/24/2024, 2:14:34 AM</code>
+<code  align="right">update: 6/24/2024, 8:56:50 AM</code>
