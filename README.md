@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 坚持，必须坚持，无论多么艰难，流光了泪就喝一杯水，再流一会儿泪，然后坚持下去。我们看不见的前方，也许有个拐弯，拐过去就能看到其他的风景。
+- ✨ 说话前先停一下。当情绪激动想说什么的时候，就先深呼吸一次，稍作停顿再开口。小时候爸妈曾教我：“生气的时候，等数到十再开口。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/26/2024, 2:16:44 AM</code>
+<code  align="right">update: 6/26/2024, 8:55:40 AM</code>
