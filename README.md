@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 悲伤的时候不要强忍，就应该好好哭一场。泪水是必需的。今后的人生中一定还有许多悲伤的事情，免不了要在其中摸爬滚打。所以不要逃避，悲伤的时候就痛快地哭出来，然后和悲伤一起前进。人生就是这么回事。
+- ✨ 做过。错过。错后重来。我早习惯了，这辈子就是这么过来的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/28/2024, 2:14:15 AM</code>
+<code  align="right">update: 6/28/2024, 8:55:42 AM</code>
