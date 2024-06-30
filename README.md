@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 慢慢来，有点耐心，生活会给答案的。
+- ✨ 家乡太小，年少的人难免渴望外出闯荡，做不了水手，也要浪迹天涯，漂泊的游子以四海为家。但同一片天底下人的际遇不同，人生的小船驶过命运的汪洋，有的偏了航向，有的沉于深渊，不是所有的船都能抵达期待的彼岸。
+
+本周日，ONE和你一起关注远行的人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 6/30/2024, 2:14:30 AM</code>
+<code  align="right">update: 6/30/2024, 9:00:22 AM</code>
