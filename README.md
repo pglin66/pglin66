@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 每个人都是这样，我们必须先释放暗藏在心底的悲伤，才能够释放内心的爱。
+- ✨ 我太害怕最后被伤害了——倒不是怕受折磨，我知道我可以承受，怕的是在折磨中失去尊严，将自己袒露无遗。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/2/2024, 2:16:11 AM</code>
+<code  align="right">update: 7/2/2024, 8:56:09 AM</code>
