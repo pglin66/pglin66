@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我太害怕最后被伤害了——倒不是怕受折磨，我知道我可以承受，怕的是在折磨中失去尊严，将自己袒露无遗。
+- ✨ 你是一个极富激情的人，一个饥饿却不是很清楚想要吃什么的人，一个饱经挫折却拼命在牢不可破的世俗中寻求自己生存空间的人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/3/2024, 2:16:12 AM</code>
+<code  align="right">update: 7/3/2024, 8:55:55 AM</code>
