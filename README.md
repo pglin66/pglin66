@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你是一个极富激情的人，一个饥饿却不是很清楚想要吃什么的人，一个饱经挫折却拼命在牢不可破的世俗中寻求自己生存空间的人。
+- ✨ 如果这世界上不存在那个真正温暖可靠的人，那么人生中就只有自己是最重要的。不把自己交出去，是对的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/4/2024, 2:15:37 AM</code>
+<code  align="right">update: 7/4/2024, 8:56:06 AM</code>
