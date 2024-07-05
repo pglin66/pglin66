@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 如果这世界上不存在那个真正温暖可靠的人，那么人生中就只有自己是最重要的。不把自己交出去，是对的。
+- ✨ 人们为何离开？有多少人离开，有多少人把自己的生活与另一个人的生活切断，就有多少个答案。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/5/2024, 2:15:42 AM</code>
+<code  align="right">update: 7/5/2024, 8:55:41 AM</code>
