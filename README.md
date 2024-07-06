@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人们为何离开？有多少人离开，有多少人把自己的生活与另一个人的生活切断，就有多少个答案。
+- ✨ 人，真是奇怪，没有外人来证明你，就往往看不出自己的价值。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/6/2024, 2:15:50 AM</code>
+<code  align="right">update: 7/6/2024, 8:54:36 AM</code>
