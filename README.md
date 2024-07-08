@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人有时候只想独自静静地待一会儿。悲伤也成享受。
+- ✨ 原来想要活着就要挣钱。本来挣钱是一件很枯燥的事，我偏把它想得很浪漫。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/8/2024, 2:14:50 AM</code>
+<code  align="right">update: 7/8/2024, 8:57:53 AM</code>
