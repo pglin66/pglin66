@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 成年人也不大好意思再追问了，追问显得狼狈、急于求成、不知进退。
-沉默就是拒绝。
+- ✨ 会有一天我将坦然接受，被人群、城市、四季、亲人、过去的爱人遗忘。而最后一桩遗忘，应该是遗忘自己曾经为一些幻想努力过。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/10/2024, 2:16:21 AM</code>
+<code  align="right">update: 7/10/2024, 8:57:29 AM</code>
