@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 会有一天我将坦然接受，被人群、城市、四季、亲人、过去的爱人遗忘。而最后一桩遗忘，应该是遗忘自己曾经为一些幻想努力过。
+- ✨ 不要自己还是春天，却忙得像秋天，想要结果。现在的年轻人首要考虑如何开出自己的花来，哪怕是一朵小蓓蕾，足矣。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/11/2024, 2:18:07 AM</code>
+<code  align="right">update: 7/11/2024, 8:57:22 AM</code>
