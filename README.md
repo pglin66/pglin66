@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 不要自己还是春天，却忙得像秋天，想要结果。现在的年轻人首要考虑如何开出自己的花来，哪怕是一朵小蓓蕾，足矣。
+- ✨ 人生不必有什么意义。不能因为我们想问什么，人生就必须有什么。追问人生意义通常是一件非常自大的事，无非是要证明自己是配享生活的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/12/2024, 2:16:06 AM</code>
+<code  align="right">update: 7/12/2024, 8:56:23 AM</code>
