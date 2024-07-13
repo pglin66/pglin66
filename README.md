@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人生不必有什么意义。不能因为我们想问什么，人生就必须有什么。追问人生意义通常是一件非常自大的事，无非是要证明自己是配享生活的。
+- ✨ 别人看着一般的东西，你却看着好，再敢于说好，这很难。在世俗常规中，我们往往被虚名所误。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/13/2024, 2:16:56 AM</code>
+<code  align="right">update: 7/13/2024, 8:57:08 AM</code>
