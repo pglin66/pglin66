@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 仰望星空，想象力先于侦测卫星，替人类探索了未知领域。科幻小说可以从内心世界出发，穿越虫洞抵达宇宙的边界，等返回原处时看待世界的方式已然改变。科幻并非缥缈的臆想，和现实之间只隔着浪漫的薄纱。
-
-本周日，ONE和你一起探索科幻时空。
+- ✨ 自己选择的人生路，不需要别人的理解，因为别人所谓的理解其实是最摇摆的风。一旦我们有了坚定的目标，剩下的就是乘风破浪。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/15/2024, 2:23:39 AM</code>
+<code  align="right">update: 7/15/2024, 8:58:51 AM</code>
