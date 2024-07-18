@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我还年轻，我还要活下去，我还要征服生活。我知道生活的激流是不会停止的，且看它把我载到什么地方去！
+- ✨ 人不需要为了担忧未来，就牺牲掉眼前确知的快乐，毕竟，如果现在太不开心，哪有力气关心以后开不开心？
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/18/2024, 2:16:10 AM</code>
+<code  align="right">update: 7/18/2024, 8:56:31 AM</code>
