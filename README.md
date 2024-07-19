@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人不需要为了担忧未来，就牺牲掉眼前确知的快乐，毕竟，如果现在太不开心，哪有力气关心以后开不开心？
+- ✨ 我和时间都马不停蹄地奔波着。它是因为使命，我是因为生活。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/19/2024, 2:17:00 AM</code>
+<code  align="right">update: 7/19/2024, 2:17:22 PM</code>
