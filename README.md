@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人们大部分的不快乐，却都起源于过去和未来：无法接受过去、不断担忧未来。
+- ✨ 爱就是爱，它是人类的天性，人间最美好的情感，我因为爱你才爱你，此外没有任何目的！
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/23/2024, 2:16:15 AM</code>
+<code  align="right">update: 7/23/2024, 8:57:41 AM</code>
