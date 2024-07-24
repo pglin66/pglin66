@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 爱就是爱，它是人类的天性，人间最美好的情感，我因为爱你才爱你，此外没有任何目的！
+- ✨ 唉，一路都是落不定的尘埃。你是谁？你看，一柱光线穿过那些寂静而幽暗的空间，便照见了许多细小的微尘飘浮，像茫茫宇宙中那些星球在运转。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/24/2024, 2:16:19 AM</code>
+<code  align="right">update: 7/24/2024, 8:58:07 AM</code>
