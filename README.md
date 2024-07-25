@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 唉，一路都是落不定的尘埃。你是谁？你看，一柱光线穿过那些寂静而幽暗的空间，便照见了许多细小的微尘飘浮，像茫茫宇宙中那些星球在运转。
+- ✨ 假如生活欺骗了你，那么当个摔得带响的破罐子也比窝窝囊囊地憋闷着强。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/25/2024, 2:15:49 AM</code>
+<code  align="right">update: 7/25/2024, 8:57:38 AM</code>
