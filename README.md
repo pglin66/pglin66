@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 四年一届的奥运会开幕了，世界的目光聚焦于巴黎，这个夏季注定精彩纷呈。文学和体育的血脉隐秘相连，运动不仅能锻造人的身体，也能锻造人的精神意志，不同的体育项目激发出不同的热血故事。
-
-这个周末，ONE和你欣赏与运动相关的故事。
+- ✨ 每一颗不快乐的灵魂都渴望远方。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 7/29/2024, 2:16:06 AM</code>
+<code  align="right">update: 7/29/2024, 8:59:11 AM</code>
