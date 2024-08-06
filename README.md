@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 琐碎而无聊的日子一天天积累下来成为四季，四季积累下来就是人生。
+- ✨ 度过漫漫长夜的唯一办法是看书、听音乐、吃饼干、喝矿泉水。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/6/2024, 2:17:08 AM</code>
+<code  align="right">update: 8/6/2024, 8:57:53 AM</code>
