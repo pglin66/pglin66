@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 说出想说的话，不是指大声说话，而是指你觉得自己有资格说出内心的愿望。我们心怀期盼的时候总会犹豫不决。
+- ✨ 人们所希望的，无非是最后一刻能待在自己家中，身边陪伴着自己爱和信任的人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/10/2024, 2:16:36 AM</code>
+<code  align="right">update: 8/10/2024, 8:58:33 AM</code>
