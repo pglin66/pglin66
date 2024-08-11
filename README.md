@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人们所希望的，无非是最后一刻能待在自己家中，身边陪伴着自己爱和信任的人。
+- ✨ 我们所处的时代，异国他乡不再是海角天涯，科技压缩了距离，国人的足迹从非洲的沙漠延伸至大洋洲的群岛，有人的地方就有故事。当东亚思维与世界各地的文化环境碰撞，之间的化学反应酝酿出鸡尾酒般口味繁复的故事。
+
+本周末，ONE和你关注异国他乡的故事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/11/2024, 2:15:10 AM</code>
+<code  align="right">update: 8/11/2024, 9:03:12 AM</code>
