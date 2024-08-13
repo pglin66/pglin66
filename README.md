@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们被踢出了自己的生活。生活就像一阵疾风，一场永不停歇的派对。接着，我们一早晨起来发现身边是一片空地。
+- ✨ 如果你想生活得幸福，就别对外人推心置腹。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/13/2024, 2:17:43 AM</code>
+<code  align="right">update: 8/13/2024, 8:59:44 AM</code>
