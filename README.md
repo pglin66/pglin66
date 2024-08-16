@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 别太急着长大。好好珍惜你的少年时光，因为有一天，当你失去了那种神秘的力量，下半辈子，你会每天都渴望把它找回来。
+- ✨ “你觉得你幸福吗？”
+“我自己认为很幸福。我从没问过自己这个问题。一个幸福的人会这样问自己吗？我只不过一天一天地活下去。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/16/2024, 2:17:04 AM</code>
+<code  align="right">update: 8/16/2024, 8:58:11 AM</code>
