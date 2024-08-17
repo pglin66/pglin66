@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “你觉得你幸福吗？”
-“我自己认为很幸福。我从没问过自己这个问题。一个幸福的人会这样问自己吗？我只不过一天一天地活下去。”
+- ✨ 普通之中存在着更大的奇迹。过着普通的生活，死于普通的年纪，我总相信这就是奇迹。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/17/2024, 2:16:48 AM</code>
+<code  align="right">update: 8/17/2024, 8:56:43 AM</code>
