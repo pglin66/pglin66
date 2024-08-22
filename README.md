@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人不能总跟自己玩。必先将自己置于广阔、错综、复杂的人群里，去感知，去体悟，才能获得参照系，找到自己的位子。
+- ✨ 我这一生为了不埋没于芸芸众生而挺胸抬头地走了过来，到头来自己其实早已淹没在了人海当中。真让人头疼。我完全败给了生活。我低着头，走在路上。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/22/2024, 2:16:32 AM</code>
+<code  align="right">update: 8/22/2024, 8:59:42 AM</code>
