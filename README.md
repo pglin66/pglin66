@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 辛苦的具体内容其实无关紧要。世人皆苦，所以不管遇到何种情况，说一句安慰对方的话总是不会错的。
+- ✨ 味觉与记忆相连，因为同一道美食，往昔的事能与当下重叠，故人、故乡、故事，皆在酸甜苦辣的滋味中重现。下筷之前，我们该明白美食与美景不可辜负，品咂美味的同时，也是在品咂未经料理的人生。
+
+本周末，ONE和你关注饮食男女。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/25/2024, 2:15:12 AM</code>
+<code  align="right">update: 8/25/2024, 9:03:40 AM</code>
