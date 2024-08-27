@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 二十多岁的我其实错了，我要做的，并不是客观去认清自己，而是要主观去爱自己。因为我就是个值得被喜欢的人，哪怕没有理由。
+- ✨ 无论什么时候，人都要靠实力说话。成长是最好的复仇。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/27/2024, 2:16:59 AM</code>
+<code  align="right">update: 8/27/2024, 8:59:49 AM</code>
