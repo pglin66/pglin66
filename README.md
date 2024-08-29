@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 女王不会哭哭啼啼，因为懊悔是蠢事一桩。
+- ✨ 哭是没用的。你的眼泪并不能洗尽你的悲伤，反而喂养了别人的欢乐，所以，你必须学会吞下自己的眼泪。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 8/29/2024, 2:16:35 AM</code>
+<code  align="right">update: 8/29/2024, 9:00:48 AM</code>
