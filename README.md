@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人们说没什么能持续到永远，但其实他们只是害怕，怕某样东西持续的时间，要比他们爱它的时间更长久。
+- ✨ 是的，我们就是这样。即使长大成人，也会想象，也会做很多没有意义的事，为了快乐，或是因为崩溃。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/2/2024, 2:15:52 AM</code>
+<code  align="right">update: 9/2/2024, 9:02:26 AM</code>
