@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 是的，我们就是这样。即使长大成人，也会想象，也会做很多没有意义的事，为了快乐，或是因为崩溃。
+- ✨ 人最可怕的是贫穷却不自救，懒惰而急功近利，行动力差，害怕这个担心那个，好不容易开始了，又没有坚持的勇气，付出一点就想马上看到收获……这些都是精神贫困的外在表现。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/3/2024, 2:17:00 AM</code>
+<code  align="right">update: 9/3/2024, 9:00:29 AM</code>
