@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 不是会照顾别人的人才能称之为大人，懂得照顾自己情绪的人才是真的大人。
+- ✨ 《现代汉语词典》对“教师”的解释为：担任教学工作的专业人员。不只句读、道德与观念，学生时代的幸福感也在其辐射范围内。职业滤镜带来的崇敬、畏惧，偶尔也会使心与心隔上远远的距离。
+教师节临近，本周日ONE和你走进教师们的世界。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/8/2024, 2:15:51 AM</code>
+<code  align="right">update: 9/8/2024, 9:06:32 AM</code>
