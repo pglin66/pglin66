@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 与其做到最好，不如说，下一次我也会尽自己所能地干好。不要试图追求完美，适当地干好就已经了不起了。下一次还能做，这比做到最好更加重要。
+- ✨ 而我，我爱钱，我承认我爱钱，因为钱让我有安全感。只要我是财富的主人，你们就拿我没办法。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/13/2024, 2:18:26 AM</code>
+<code  align="right">update: 9/13/2024, 9:01:55 AM</code>
