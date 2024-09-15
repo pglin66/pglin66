@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 小时候的梦想哪怕不是成为“优秀的人”，恐怕也不会想要成为“休息日还要上班的人”。
+- ✨ 生存还是毁灭。这是个问题。是问题，但不是选择。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/15/2024, 2:16:21 AM</code>
+<code  align="right">update: 9/15/2024, 9:09:01 AM</code>
