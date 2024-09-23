@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 季节变换本是常理，不过人以自身的情感渲染四季，春未必伤秋未必悲，我们变幻的心境决定了这个秋天的色彩。夏已远，冬未至，在气候的间歇里，生活的步调也能悠闲散漫。
-本周日，ONE和你一起欣赏秋天的故事。
+- ✨ 没有人可以真正地、实际地对你进行干涉和控制，除非你给予他们干涉和控制你的权利，不要用“没办法”来掩盖自己的懦弱。记住，你是有选择的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/23/2024, 2:16:30 AM</code>
+<code  align="right">update: 9/23/2024, 9:04:54 AM</code>
