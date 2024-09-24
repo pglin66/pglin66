@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 没有人可以真正地、实际地对你进行干涉和控制，除非你给予他们干涉和控制你的权利，不要用“没办法”来掩盖自己的懦弱。记住，你是有选择的。
+- ✨ 实践证明，咱们真的不会是一个很优秀的人，那么我就真的希望你可以做一个相对快乐的人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/24/2024, 2:18:12 AM</code>
+<code  align="right">update: 9/24/2024, 9:05:07 AM</code>
