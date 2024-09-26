@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 当我沉默着的时候，我觉得充实；我将开口，同时感到空虚。
+- ✨ 我确立了一些生活的准则，但同时也清楚，它们单纯到毫无用处。不过这是我最喜欢做的事之一。它让我感觉良好，我相信，通过它，自己内心的一些东西会变得更有秩序。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/26/2024, 2:18:13 AM</code>
+<code  align="right">update: 9/26/2024, 9:04:13 AM</code>
