@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “你知道精神失常的定义吗？”
-“是什么？”
-“就是一再重复做同样的事，却期望有不同的结果。”
+- ✨ 我们不知道好的爱情是什么样的，但是我们的爱情模板里有太多“不好”的标签，这些“不好”或“不爱”的标签越多，你就越难拥有一份好的爱情。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 9/30/2024, 2:16:41 AM</code>
+<code  align="right">update: 9/30/2024, 9:07:14 AM</code>
