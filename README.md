@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们不知道好的爱情是什么样的，但是我们的爱情模板里有太多“不好”的标签，这些“不好”或“不爱”的标签越多，你就越难拥有一份好的爱情。
+- ✨ 这个世界是神奇的，有很多神奇的事情、神奇的道理，它们藏在空气里，或者藏在脚底下，如果我们走路的时候留一份心，低一寸头，也许会看到一寸神奇。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/1/2024, 2:18:14 AM</code>
+<code  align="right">update: 10/1/2024, 9:11:11 AM</code>
