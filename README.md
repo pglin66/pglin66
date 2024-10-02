@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 这个世界是神奇的，有很多神奇的事情、神奇的道理，它们藏在空气里，或者藏在脚底下，如果我们走路的时候留一份心，低一寸头，也许会看到一寸神奇。
+- ✨ 我发现一个人要想见到一个人，先前有多容易，眼下就会有多难。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/2/2024, 2:18:23 AM</code>
+<code  align="right">update: 10/2/2024, 9:04:51 AM</code>
