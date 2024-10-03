@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我发现一个人要想见到一个人，先前有多容易，眼下就会有多难。
+- ✨ 内心话是不能说出来的，你不说出来，就是那些话的主人，你说出来，就是那些话的奴隶。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/3/2024, 2:19:07 AM</code>
+<code  align="right">update: 10/3/2024, 9:04:58 AM</code>
