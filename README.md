@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 内心话是不能说出来的，你不说出来，就是那些话的主人，你说出来，就是那些话的奴隶。
+- ✨ 年轻时，我们觉得对整个地球和上面的所有生命都有职责。如今我们能做的只有尽量不让我们爱的人失望，不要使用太多塑料。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/4/2024, 2:18:22 AM</code>
+<code  align="right">update: 10/4/2024, 9:04:53 AM</code>
