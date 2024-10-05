@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 年轻时，我们觉得对整个地球和上面的所有生命都有职责。如今我们能做的只有尽量不让我们爱的人失望，不要使用太多塑料。
+- ✨ 生活不是舞台剧，追光灯不会打在你身上，没有那么多人看你，大家都在忙自己的事，别人花五分钟笑话你，你花一年来受煎熬，不值当。太在意别人怎么看你，纯属折磨自己。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/5/2024, 2:18:09 AM</code>
+<code  align="right">update: 10/5/2024, 9:04:02 AM</code>
