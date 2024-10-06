@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生活不是舞台剧，追光灯不会打在你身上，没有那么多人看你，大家都在忙自己的事，别人花五分钟笑话你，你花一年来受煎熬，不值当。太在意别人怎么看你，纯属折磨自己。
+- ✨ 我们难以同时拥有青春和对青春的感受，年少时代，懵懂莽撞，长大再回首或许会觉得许多伤痛不过尔尔。然而岁月留痕，曾经破碎的心经过缝补也会有疤，感觉难以消失，只是沉淀在回忆深处。
+本周日，ONE和你在故事中回首那些成长中的阵痛。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/6/2024, 2:16:33 AM</code>
+<code  align="right">update: 10/6/2024, 9:09:55 AM</code>
