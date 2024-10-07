@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们难以同时拥有青春和对青春的感受，年少时代，懵懂莽撞，长大再回首或许会觉得许多伤痛不过尔尔。然而岁月留痕，曾经破碎的心经过缝补也会有疤，感觉难以消失，只是沉淀在回忆深处。
-本周日，ONE和你在故事中回首那些成长中的阵痛。
+- ✨ 每个人都有自己的失败史，它只适合被束之高阁，永不想起。我们已经生活在这些失败带来的后果里，不需再时时温习这些不堪回首的来时路。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/7/2024, 2:16:26 AM</code>
+<code  align="right">update: 10/7/2024, 9:07:01 AM</code>
