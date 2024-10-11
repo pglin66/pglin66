@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们和某个人一定会相遇两次，一次是彼此年龄相同的时候，另一次是当我到达对方年龄的时候。
+- ✨ 我写我自己，是因为我觉得自己太渺小，如果我不写我自己，我可能会消失不见，被那些庞大的、宏大的、伟大的事物消化得连渣都不剩。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/11/2024, 2:18:16 AM</code>
+<code  align="right">update: 10/11/2024, 9:04:40 AM</code>
