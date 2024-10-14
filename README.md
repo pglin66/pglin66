@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你并未过上自己的生活，你过的是父母的生活，因为你害怕被抛弃。但实际上，不正常的家庭中出的那个“逆子”，往往才是家中唯一一个看穿了所有把戏的人。
+- ✨ 所有的成年人都是可以替代的；爱是反复无常的；与人产生依恋关系是非常危险的投资；为了生存，应该把爱储存在自己身上。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/14/2024, 2:17:04 AM</code>
+<code  align="right">update: 10/14/2024, 9:06:53 AM</code>
