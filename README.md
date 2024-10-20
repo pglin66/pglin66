@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人类好像确实天真，过不了几年，走出了青涩时期，他们就会羞于面对曾经的自己。
+- ✨ 有人生在起点，有人生在终点，我们没有提前看过剧本便匆匆来到世上，若长于草根难免会埋怨角色。无钱、无背景、无特长，一无所有的少年都是白纸，可以涂抹阴郁的黑，也可以书写自由的蓝，注定要顽强才能生长。
+本周日，ONE和你一起关注“三无少年”的故事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/20/2024, 2:16:51 AM</code>
+<code  align="right">update: 10/20/2024, 9:11:00 AM</code>
