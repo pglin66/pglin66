@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 您可以试着去爱。相信我的这句话：仇恨会以毁灭性的方式摧毁人类身体里的灵魂。要干脆地爱一切。
+- ✨ 我们在表达恨的时候是天才，而到了爱面前我们就如此平庸。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/23/2024, 2:18:27 AM</code>
+<code  align="right">update: 10/23/2024, 9:04:47 AM</code>
