@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们已经丧失了感受快乐的能力，要慢慢地重新培养这种能力。
+- ✨ 年轻不过是人生的一段过程，切忌在这个过程之中乱认了归宿，不管是事业的归宿，还是感情的归宿。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/25/2024, 2:18:42 AM</code>
+<code  align="right">update: 10/25/2024, 9:05:43 AM</code>
