@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我爱过，却不被爱，这是我最终预见的唯一结局，
-因为人并非一生下来就被爱，而是可能碰巧被爱。
+- ✨ 这个世界永远不会是你想要的那个世界，在这种割裂中找到你的立足之地，才是乐趣之所在。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/28/2024, 2:16:44 AM</code>
+<code  align="right">update: 10/28/2024, 9:08:24 AM</code>
