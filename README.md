@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 这个世界永远不会是你想要的那个世界，在这种割裂中找到你的立足之地，才是乐趣之所在。
+- ✨ 生命其实很公道，有三分之一都会在睡眠中流逝，用一小时香甜的睡眠来补偿两个小时的辛劳和误解，这也是一个不错的交易。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/29/2024, 2:18:59 AM</code>
+<code  align="right">update: 10/29/2024, 9:07:01 AM</code>
