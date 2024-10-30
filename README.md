@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生命其实很公道，有三分之一都会在睡眠中流逝，用一小时香甜的睡眠来补偿两个小时的辛劳和误解，这也是一个不错的交易。
+- ✨ 爱情是季节性的。秋天的到来结束了公园里的这一切。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 10/30/2024, 2:19:01 AM</code>
+<code  align="right">update: 10/30/2024, 9:06:00 AM</code>
