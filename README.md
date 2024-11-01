@@ -2,8 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人要是活了好多年，就会对开门关门习以为常。对房子习以为常，对花园习以为常，对天空和海洋习以为常，甚至对挂在夜空中在屋顶上闪耀的月亮，也都习以为常了。
-世界会为自己开口宣言，但我们听不见。
+- ✨ 难道每个人都想停留在七岁？
+是的，不是，也许。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/1/2024, 2:18:42 AM</code>
+<code  align="right">update: 11/1/2024, 9:11:03 AM</code>
