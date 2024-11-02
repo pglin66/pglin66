@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 难道每个人都想停留在七岁？
-是的，不是，也许。
+- ✨ 真正能够长久的关系，不在于得到的一些如梦如幻的短暂快乐。而取决于接受关系里最黑暗部分的承受力。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/2/2024, 2:18:28 AM</code>
+<code  align="right">update: 11/2/2024, 9:04:31 AM</code>
