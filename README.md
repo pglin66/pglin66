@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 真正能够长久的关系，不在于得到的一些如梦如幻的短暂快乐。而取决于接受关系里最黑暗部分的承受力。
+- ✨ 人间潜藏着许多神秘，难以描述，人心滋生畏惧与好奇，那便是幽冥志怪生长的土壤，所以古代会有《聊斋》，当代会有形形色色的都市传说。生活中见不到怪力乱神，但小说可以虚构鬼神。
+本周日，ONE和你在志怪奇谭中遨游。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/3/2024, 2:16:52 AM</code>
+<code  align="right">update: 11/3/2024, 9:10:17 AM</code>
