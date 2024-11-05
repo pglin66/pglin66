@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 世上所有人忙忙碌碌都只是为了抛弃自己的角色，攫取他人的身份，为了遗忘自我，埋葬过去。所有人都厌倦当下的和过去的自己，只是难以启齿明说罢了。
+- ✨ 年轻人那种生命力太有锋芒，太有杀伤力。年轻就像一把刀，闪闪的很有力量，但你也会不小心被他们伤着。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/5/2024, 2:18:07 AM</code>
+<code  align="right">update: 11/5/2024, 9:04:08 AM</code>
