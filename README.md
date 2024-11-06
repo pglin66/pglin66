@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 年轻人那种生命力太有锋芒，太有杀伤力。年轻就像一把刀，闪闪的很有力量，但你也会不小心被他们伤着。
+- ✨ 自己大部分时候都只是一个配角，是来给别人的人生做铺垫的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/6/2024, 2:18:10 AM</code>
+<code  align="right">update: 11/6/2024, 9:04:07 AM</code>
