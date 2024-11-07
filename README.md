@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 自己大部分时候都只是一个配角，是来给别人的人生做铺垫的。
+- ✨ 你知道我是怎么看待生活的吗？
+在这个难题和下一个难题之间的空白时间，我将它称之为生活。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/7/2024, 2:18:24 AM</code>
+<code  align="right">update: 11/7/2024, 9:04:29 AM</code>
