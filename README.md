@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你知道我是怎么看待生活的吗？
-在这个难题和下一个难题之间的空白时间，我将它称之为生活。
+- ✨ 看不到细节的人，什么都不知道。而什么都不知道的人，会无意识地变得冷酷。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/8/2024, 2:17:53 AM</code>
+<code  align="right">update: 11/8/2024, 9:04:15 AM</code>
