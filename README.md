@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生命本没有意义，你要能给它什么意义，它就有什么意义。与其终日冥想人生有何意义，不如试用此生做点儿有意义的事。
+- ✨ 一个青年，如果没有一点儿不自量力的精神，不做一点儿让人发笑的傻事，那生活还有什么意外和创造呢？青春之所以值得怀念，就在于不成熟中的勇气，在于不知天高地厚的行动力。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/12/2024, 2:17:57 AM</code>
+<code  align="right">update: 11/12/2024, 9:03:46 AM</code>
