@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 一个青年，如果没有一点儿不自量力的精神，不做一点儿让人发笑的傻事，那生活还有什么意外和创造呢？青春之所以值得怀念，就在于不成熟中的勇气，在于不知天高地厚的行动力。
+- ✨ 人有时要任性，任性，任性。如今，已太少人任性了。一点也不任性的人，随时都在妥协、随时在抑制自己，其不快或隐忍究竟能支撑多久？
+自己要做得了主。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/13/2024, 2:18:13 AM</code>
+<code  align="right">update: 11/13/2024, 9:04:55 AM</code>
