@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人有时要任性，任性，任性。如今，已太少人任性了。一点也不任性的人，随时都在妥协、随时在抑制自己，其不快或隐忍究竟能支撑多久？
-自己要做得了主。
+- ✨ 为人的悲哀，就像漂泊无依的浮云。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/14/2024, 2:18:10 AM</code>
+<code  align="right">update: 11/14/2024, 9:04:49 AM</code>
