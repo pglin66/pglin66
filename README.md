@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们都是落在时代夹缝里的人。
+- ✨ 有光就有影，有相遇就有离别。没有谁可以永远停留，和人、和事、和物，我们的一生在不断离别，却往往不懂如何告别，徒增无必要的摇摆。告别是一件需要学习的事，如一支怅然的圆舞曲。
+本周日，ONE和你关注离别的故事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/17/2024, 2:17:18 AM</code>
+<code  align="right">update: 11/17/2024, 9:12:39 AM</code>
