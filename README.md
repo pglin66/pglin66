@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 早上起来的时候，还在苦恼该如何度过漫长的一天；到了入睡时，又苦恼起为何一天转瞬即逝。每天的时光看不见、抓不着，悄无声息地顺着掌纹刺溜而过。
+- ✨ 到处都有痛苦。而，比痛苦更为持久且尖利伤人的是，到处都有抱有期望的等待。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/23/2024, 2:19:02 AM</code>
+<code  align="right">update: 11/23/2024, 9:06:20 AM</code>
