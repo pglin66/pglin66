@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 活着的意义就在于知道人必有一死，奋斗的意义就在于奋斗可以证明人也可以不奋斗。
+- ✨ 我太过情绪化，为了不让自己被情绪吞没，只好变得无情。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/26/2024, 2:19:15 AM</code>
+<code  align="right">update: 11/26/2024, 9:09:27 AM</code>
