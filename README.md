@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我太过情绪化，为了不让自己被情绪吞没，只好变得无情。
+- ✨ 在人生的每一个转折点，我都会反复告诉自己：“好吧，如果是山就翻过去，如果是江就渡过去。总有一天会看到结果。”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/27/2024, 2:20:04 AM</code>
+<code  align="right">update: 11/27/2024, 9:10:55 AM</code>
