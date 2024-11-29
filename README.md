@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 作为一个人，首先应该是一个能照顾自己的感受并且爱护自己的人，而不是一个牺牲自己的感受去满足别人的人。
+- ✨ 年纪越大，越要了解三件事：一是我擅长做什么，二是我想做什么，最后是我要做什么。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 11/29/2024, 2:19:18 AM</code>
+<code  align="right">update: 11/29/2024, 9:10:15 AM</code>
