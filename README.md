@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 宇宙茫茫，连我们所在的星球都不能确定自己的确切坐标，因为群星正在不断迁徙。我们的生活也难以恒定不变，人生无法彩排，剧本草稿不经修改直接上演，难免状况百出。也许曾经相信的如今怀疑，也许今日相聚，明日便会离散，一切变幻无常，无常才是常态。
-本周日，ONE和你关注那些意料之外的故事。
+- ✨ 人生就像一条单向快车道，被裹挟着全速奔跑，当你试图停下脚步去回顾过往的时候，才意识到，自己已经跑出了很远。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/2/2024, 2:18:12 AM</code>
+<code  align="right">update: 12/2/2024, 9:12:55 AM</code>
