@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人生就像一条单向快车道，被裹挟着全速奔跑，当你试图停下脚步去回顾过往的时候，才意识到，自己已经跑出了很远。
+- ✨ 我觉得人活着吧，有些事儿就得逼着自己不去想。因为想了，你就感觉没法活；想活，你就不能想。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/3/2024, 2:19:58 AM</code>
+<code  align="right">update: 12/3/2024, 9:12:00 AM</code>
