@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我觉得人活着吧，有些事儿就得逼着自己不去想。因为想了，你就感觉没法活；想活，你就不能想。
+- ✨ 每个人心头都有一把火，我们却时常将自己隐藏得连烟都不让别人瞧见。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/4/2024, 2:18:33 AM</code>
+<code  align="right">update: 12/4/2024, 9:11:59 AM</code>
