@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 日子过得很快，我现在不想考虑太多的东西我只想发呆。多幸福！
+- ✨ 真诚这张牌，配合别的牌一起出是王牌，唯独单独出时，是张烂牌。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/8/2024, 2:18:19 AM</code>
+<code  align="right">update: 12/8/2024, 9:16:42 AM</code>
