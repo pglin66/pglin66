@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我不想再和任何人产生关联。我这样渴求着，愿望也的确实现了，但是，我仍然希冀着温暖。我好孤单啊。
+- ✨ 我就是不喜欢听到别人把所有人都称为自己的“朋友”。我似乎很珍视这个词。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/10/2024, 2:20:48 AM</code>
+<code  align="right">update: 12/10/2024, 9:12:46 AM</code>
