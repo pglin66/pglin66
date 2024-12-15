@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 每一个人的生活，各有各的隐情，各有各的来由，各有各的寂寞，也最终各有各的前程。
+- ✨ 食物滋养口腹，也滋养身心，灵魂随味蕾的跳动而愉悦。四季皆有应季的食材，当下筷时，我们尝到晚春的清爽，盛夏的火辣，初秋的甘醇，隆冬的肥满，也尝到散落于四季的往事。
+本周日，ONE和你关注舌尖上的故事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/15/2024, 2:18:14 AM</code>
+<code  align="right">update: 12/15/2024, 9:16:47 AM</code>
