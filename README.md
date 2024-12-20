@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 活着本身需要付出的巨大努力。
+- ✨ 事情总是这样。一个人竭尽全力想要置身事外，但忽然有一天，不知道为什么，却发现自己身处某个故事之中，一路奔向结局。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/20/2024, 2:18:49 AM</code>
+<code  align="right">update: 12/20/2024, 9:05:47 AM</code>
