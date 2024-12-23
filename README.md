@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 记住，只有软弱的人才从他人身上寻求回报。我们的回报是我们自己。
+- ✨ 回想过去的时光，总是模模糊糊，没什么特别值得记忆的事情。该死，怎么忽然就老了呢。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/23/2024, 2:16:46 AM</code>
+<code  align="right">update: 12/23/2024, 9:07:21 AM</code>
