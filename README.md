@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 情缘是一根美丽的丝线，太平年月里可以绣成花存上一辈子，却经不起乱世里轻轻一阵风吹雨打。
+- ✨ 你其实不是废物——先给你贴上“废物”的标签，再把它撕下来，你便觉得自己得到了救赎。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/26/2024, 2:17:52 AM</code>
+<code  align="right">update: 12/26/2024, 9:05:05 AM</code>
