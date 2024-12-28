@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 成长，让我们说过的每一句大话，都蒙上了一层羞耻的灰。
+- ✨ 世界上并不存在“理解”这样一回事。所谓理解，不过是一种被动接受罢了，而所谓的不理解，无非就是某种程度上的对抗。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/28/2024, 2:18:12 AM</code>
+<code  align="right">update: 12/28/2024, 9:04:11 AM</code>
