@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 艺术近似魔术，被神秘的烟雾笼罩，总被误解为超凡脱俗，远在云端，和普通人相距太远。然而艺术家和我们一样，走过红尘俗世，在七情六欲间辗转，不论哪种艺术形式，都得从花花世界汲取养料，再提炼出作品。
-本周日，ONE和你关注艺术家的故事。
+- ✨ 我们有时像过客，有时像主人翁，有时又像城市的孤儿。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/30/2024, 2:16:49 AM</code>
+<code  align="right">update: 12/30/2024, 9:07:58 AM</code>
