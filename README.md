@@ -2,7 +2,10 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们有时像过客，有时像主人翁，有时又像城市的孤儿。
+- ✨ 渡口旁找不到一朵可以相送的花
+就把祝福别在襟上吧
+而明日
+明日又隔天涯
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 12/31/2024, 2:18:32 AM</code>
+<code  align="right">update: 12/31/2024, 9:05:04 AM</code>
