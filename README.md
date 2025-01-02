@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们不会完蛋的。人会走下去的——也许会有改变，但会一直走下去。
+- ✨ 能自己处理的事尽量自己处理，能自己撑过去的难关最好不要麻烦别人，我一直都是这么过来的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/2/2025, 2:17:49 AM</code>
+<code  align="right">update: 1/2/2025, 9:04:55 AM</code>
