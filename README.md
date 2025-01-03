@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 能自己处理的事尽量自己处理，能自己撑过去的难关最好不要麻烦别人，我一直都是这么过来的。
+- ✨ 人更像一台机器，被安装在什么地方，你就得按什么地方的步调运转。小齿轮并不因对大齿轮抱有想法，就不跟它同转。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/3/2025, 2:18:40 AM</code>
+<code  align="right">update: 1/3/2025, 9:05:42 AM</code>
