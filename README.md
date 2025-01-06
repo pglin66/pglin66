@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 既然是梦想不妨就让它完美些罢。何必连梦想也那么拘谨那么谦虚呢？我便如醉如痴并且极端自私自利地梦想下去。
+- ✨ 我想，生活的意义或许就是不让自己的人生页面留下一页空白。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/6/2025, 2:16:58 AM</code>
+<code  align="right">update: 1/6/2025, 9:08:51 AM</code>
