@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 这世上根本就不存在什么快乐的平衡，你只能凭借强大的意志熬过难关。
+- ✨ 路的尽头什么都没有。
+但在路上遇见的不起眼的瞬间和记忆，最终会成就我们。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/8/2025, 2:18:58 AM</code>
+<code  align="right">update: 1/8/2025, 9:06:04 AM</code>
