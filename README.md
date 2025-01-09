@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 路的尽头什么都没有。
-但在路上遇见的不起眼的瞬间和记忆，最终会成就我们。
+- ✨ 我在城市找不到存在感，每天不知道太阳从何方升起，又落向哪里，四季跟我的生活没有关系。我只看到树叶青了又黄了，春天来了，又去了。我在一岁岁地长年纪，一道道地长皱纹。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/9/2025, 2:18:44 AM</code>
+<code  align="right">update: 1/9/2025, 9:05:32 AM</code>
