@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 可人生就是要不断地做选择啊。总不能因为怕选择，就永远停留在原地吧。
+- ✨ 一个经过独立思考却得出错误答案的人和随波逐流地得到正确答案的人相比，前者能走得更远。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/11/2025, 2:18:50 AM</code>
+<code  align="right">update: 1/11/2025, 9:06:14 AM</code>
