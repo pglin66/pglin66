@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 一个经过独立思考却得出错误答案的人和随波逐流地得到正确答案的人相比，前者能走得更远。
+- ✨ 不知你是否发觉，2024比前后的年份都多了一天。我们因此多一日的幸福，多一日的烦忧，也多了一日ONE的陪伴。
+相等的时间，有人把同样的日子过了366遍，有人过了366个不一样的日子。想跳出循环往复的轮回，把生活过出不一样的滋味，ONE便是打开不同世界的时光隧道，每个读者都是文字上的旅行家。
+我们从2024年的作品中选出6篇年度文章，与你一同回顾那些奇妙旅程。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/12/2025, 2:17:06 AM</code>
+<code  align="right">update: 1/12/2025, 9:12:19 AM</code>
