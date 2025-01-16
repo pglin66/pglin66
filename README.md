@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 独自一人走在自己选择的路上，不知道是因为强大才不需要陪伴，还是因为没有人陪伴才不得不变得强大。
+- ✨ 人是记忆的奴隶？不，人都选择自己想记得的。逝去的永远是最好的。纵有千般不是，旧爱是难忘的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/16/2025, 2:18:02 AM</code>
+<code  align="right">update: 1/16/2025, 9:03:44 AM</code>
