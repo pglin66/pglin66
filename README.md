@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人是记忆的奴隶？不，人都选择自己想记得的。逝去的永远是最好的。纵有千般不是，旧爱是难忘的。
+- ✨ 我是时间唯一的主人。成为自己的时间的主人是一种奢侈。我认为这是人类能够送给自己的最奢侈的东西之一。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/17/2025, 2:17:52 AM</code>
+<code  align="right">update: 1/17/2025, 9:03:31 AM</code>
