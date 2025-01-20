@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 凡人就是这么一回事。经历着酸甜苦辣，年复一年过着安稳的生活。
-反正，这就是人生嘛。
+- ✨ 不论流落到何种糟糕的境地，人总会想方设法去找一棵救命稻草，抓着它，总会好过些。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/20/2025, 2:16:23 AM</code>
+<code  align="right">update: 1/20/2025, 9:05:01 AM</code>
