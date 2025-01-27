@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 遗憾是未竟的夙愿，留给人无限遐想，会觉得如果当初改变抉择，当下就能生活得更加美满。可人生是条单行道，无法像科幻故事拥有无数平行世界，实现无数种可能。每当回首遗憾的曾经，无法自拔，我们都是在错过当下的风景。
-本周日，ONE和你一起关注那些有遗憾的人、有遗憾的事。
+- ✨ 和许多同代人一样，我早就习惯了心里一套嘴上一套，以维持一种健康的精神分裂状态。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/27/2025, 2:17:01 AM</code>
+<code  align="right">update: 1/27/2025, 9:05:17 AM</code>
