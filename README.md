@@ -2,7 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我也祝您新年快乐，祝愿您在生活的主要方面保持原样，而在生活的细节上随您所愿地花样翻新。
+- ✨ 人被思念时
+知或不知
+已在思念者的怀里
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/29/2025, 2:18:13 AM</code>
+<code  align="right">update: 1/29/2025, 9:03:58 AM</code>
