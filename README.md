@@ -2,7 +2,13 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 除非临到了别离的时候，爱永远不会知道自己的深浅。
+- ✨ 光明就是
+当你快乐
+允许他人悲伤
+当你悲伤
+允许他人快乐
+不以自身处境
+规范另一种心声
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +36,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 1/31/2025, 2:18:10 AM</code>
+<code  align="right">update: 1/31/2025, 9:04:19 AM</code>
