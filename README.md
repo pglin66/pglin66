@@ -2,8 +2,9 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 你是万千星球的星球！
-你是沸腾的准则！你是精心保存的潜伏的萌芽！你是核心！
+- ✨ 突然羡慕一只鸟
+除了去人间觅食
+一辈子都在天空写诗
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/4/2025, 2:18:15 AM</code>
+<code  align="right">update: 2/4/2025, 9:04:18 AM</code>
