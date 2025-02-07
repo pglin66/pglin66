@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 世界的发展趋势就是，机器越来越像人，人越来越像机器，连轴转不停。
+- ✨ 人与人之间就是这样的，很少有人愿意花时间知道你的跌宕起伏、起承转合，只在看见的瞬间即决定了印象。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/7/2025, 2:18:26 AM</code>
+<code  align="right">update: 2/7/2025, 9:05:29 AM</code>
