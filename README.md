@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人生并不复杂，百分百地投入一件自己喜欢、又有时代价值的事，就很完美。
+- ✨ 在北京，人来，人往，故事的舞台就有了。北京上演过无数故事，同一座城，千千万万人眼里有千千万万个北京，悲欢并不相通。每个人既是自己的主角，也是别人的配角，带着奔波的迷惘，寻找一份独有的答案。
+本周日，ONE和你一起关注那些北京故事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/9/2025, 2:16:27 AM</code>
+<code  align="right">update: 2/9/2025, 9:08:46 AM</code>
