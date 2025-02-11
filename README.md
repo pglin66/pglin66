@@ -2,10 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 不要担心接下来会发生什么。
-预设你的四周都是好人
-除非确实没有，
-若果真如此，你就做那个好人。
+- ✨ 可你从来都不会赏脸看看自己，聆听自己的内心。因此，你没有理由要求任何人的关注，因为你看起来并不是缺少他人的陪伴，而是无法忍受自己的陪伴。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -33,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/11/2025, 2:19:02 AM</code>
+<code  align="right">update: 2/11/2025, 9:05:05 AM</code>
