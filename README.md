@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 可你从来都不会赏脸看看自己，聆听自己的内心。因此，你没有理由要求任何人的关注，因为你看起来并不是缺少他人的陪伴，而是无法忍受自己的陪伴。
+- ✨ 原来幸福不是什么宏大的概念，幸福是每个能感受到自我的渺小瞬间。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/12/2025, 2:17:26 AM</code>
+<code  align="right">update: 2/12/2025, 9:05:14 AM</code>
