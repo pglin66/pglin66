@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我只懂得一种活法，那就是找一件事坚持下去，以战胜生命的虚无。
+- ✨ 人生就是这样，不经历鲜血淋漓的疼痛，就不会明白那些曾经让我们厌烦的说教其实是受用一生的信条。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/16/2025, 2:16:27 AM</code>
+<code  align="right">update: 2/16/2025, 9:10:52 AM</code>
