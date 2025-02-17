@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人生就是这样，不经历鲜血淋漓的疼痛，就不会明白那些曾经让我们厌烦的说教其实是受用一生的信条。
+- ✨ 我希望永远不要有人对难过的人说，不要难过。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/17/2025, 2:17:07 AM</code>
+<code  align="right">update: 2/17/2025, 9:08:18 AM</code>
