@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人，不是什么事都可以干的。很多时候，欲望自缚，即精神自救。
+- ✨ 如果你的灵魂黯淡，正为光明所烦扰，请勿从事文学。你什么都无法留下，除了几声能被人听懂的叹息，以及关于您拒绝成为自己的可怜碎片。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 2/27/2025, 2:19:29 AM</code>
+<code  align="right">update: 2/27/2025, 9:07:17 AM</code>
