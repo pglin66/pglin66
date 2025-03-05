@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人可以生存在任意的空间里，却不可以生存在任意的时间里。时间的霸道与冷漠，令人绝望和悲伤。
+- ✨ 就算跌倒受伤，但过段时间痊愈后就必须重新站起来，这就是人类。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/5/2025, 2:19:46 AM</code>
+<code  align="right">update: 3/5/2025, 9:08:40 AM</code>
