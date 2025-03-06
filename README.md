@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 就算跌倒受伤，但过段时间痊愈后就必须重新站起来，这就是人类。
+- ✨ 人变老，只是一种身体上外表的现象，丝毫不能改变我们内心深处的、经历了几十年仍始终保持不变的愚蠢的自我。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/6/2025, 2:20:30 AM</code>
+<code  align="right">update: 3/6/2025, 9:08:31 AM</code>
