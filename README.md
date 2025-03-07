@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人变老，只是一种身体上外表的现象，丝毫不能改变我们内心深处的、经历了几十年仍始终保持不变的愚蠢的自我。
+- ✨ 我所渴望的，不过是过上一种发自本心的生活，为什么竟会如此困难？
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/7/2025, 2:19:24 AM</code>
+<code  align="right">update: 3/7/2025, 9:09:15 AM</code>
