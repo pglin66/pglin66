@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 成长必然会伴随疼痛，也许出现在发育的骨骼间，也许在内心里。为了适应这个现实的世界，我们得割舍天真的过往，磨平个性，把自己打磨为符合外界期待的大人。成长，其实是一场没有麻醉药的手术。
-
-本周日，ONE和一起关注“生长痛”的故事。
+- ✨ 有舞台就好好演一个角色，没舞台也别只当一个看客。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/10/2025, 2:14:19 AM</code>
+<code  align="right">update: 3/10/2025, 8:58:14 AM</code>
