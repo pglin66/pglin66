@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我的掌上捧了一颗光明，
-我想不到这个光明又给了我一个黑暗，——
-从此我才忠实于人间的光阴
+- ✨ 我没办法一边生活，一边蔑视生活。我得为自己找到一种全新的生活，即便这种找寻最后成了生活的唯一支撑。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/12/2025, 2:20:13 AM</code>
+<code  align="right">update: 3/12/2025, 9:08:16 AM</code>
