@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人群一旦喧闹起来
-我总觉得与他们
-隔着很远的东西
+- ✨ 我慢慢才发现，我好会盯着外面的世界，却无法好好看见自己。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/19/2025, 2:20:40 AM</code>
+<code  align="right">update: 3/19/2025, 9:10:17 AM</code>
