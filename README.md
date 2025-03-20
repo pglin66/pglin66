@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我慢慢才发现，我好会盯着外面的世界，却无法好好看见自己。
+- ✨ 其实我早就发现，人世间最劳心的事，莫过于人与人相互间的伪装和不真诚。人人都戴着面具生活，所以社会生活才会让人这样心力交瘁。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/20/2025, 2:20:37 AM</code>
+<code  align="right">update: 3/20/2025, 9:08:53 AM</code>
