@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人嘛，反正就是这样。表面上做的跟心里想的，完全是两码事。表里不一，这很正常。
+- ✨ 在这个世界上，你做了什么不重要，重要的是让别人知道你做了什么。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/22/2025, 2:19:38 AM</code>
+<code  align="right">update: 3/22/2025, 9:08:46 AM</code>
