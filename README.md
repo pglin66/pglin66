@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 天南地北，各地有各地的风貌，或许每片土地都有性格，雨雪霜雾便是一片土地的情绪。近江，也近海，江浙沪不仅是包邮区，南方烟雨笼罩无数过客，人和土地的情绪相融，演绎许多故事。
-
-本周日，ONE和你一起关注江浙沪的故事。
+- ✨ 我不理人，人不理我，啊，太好了，喜欢人与人之间真诚的冷漠。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 3/24/2025, 2:17:58 AM</code>
+<code  align="right">update: 3/24/2025, 9:12:12 AM</code>
