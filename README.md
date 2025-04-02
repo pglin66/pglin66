@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 四月清和雨乍晴，南山当户转分明。
-更无柳絮因风起，惟有葵花向日倾。
+- ✨ 伤疤就像岁月一样，一个接着一个，一年又一年，所有的这些一起造就了一个人。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/1/2025, 8:31:23 PM</code>
+<code  align="right">update: 4/2/2025, 9:11:43 AM</code>
