@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 伤疤就像岁月一样，一个接着一个，一年又一年，所有的这些一起造就了一个人。
+- ✨ 我不想在所有人面前当好人。如果我的内心足够平静，就不会在意别人的评价。过度看别人眼色、修复破碎的自尊心已经花费了我人生的大部分时间，余生我不想再这样下去了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/3/2025, 2:20:28 AM</code>
+<code  align="right">update: 4/3/2025, 9:10:56 AM</code>
