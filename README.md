@@ -2,7 +2,11 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我不想在所有人面前当好人。如果我的内心足够平静，就不会在意别人的评价。过度看别人眼色、修复破碎的自尊心已经花费了我人生的大部分时间，余生我不想再这样下去了。
+- ✨ 没有人十分爱我 
+我也不十分爱谁 
+想要的也不多 
+实在是没有 
+奋力生活的理由
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/4/2025, 2:19:58 AM</code>
+<code  align="right">update: 4/4/2025, 9:10:44 AM</code>
