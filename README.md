@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 故事口口相传，等到了自己耳中，早已经过许多加工，我们知道的，相较事情最初的样貌已然改变。讲故事的人选择性地叙述，剪辑出一种版本，真与假在迷离中失去辨别的意义，而雾里看花的朦胧正是故事的魅力所在。
-
-本周日，ONE和你关注讲故事的人。
+- ✨ 请好好培养你的缺点：那或许是你身上最有趣的东西。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -32,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/7/2025, 2:18:16 AM</code>
+<code  align="right">update: 4/7/2025, 9:13:18 AM</code>
