@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 当一个人必须做出重大决定时，最危险的事情莫过于征询他人意见，因为除了个别失心疯，没有人真心为我们好。
+- ✨ 当然你应该努力争取，最好还要充满斗志。但你要记住：没有，没有什么东西值得为之奋斗，这样你就永远不会太过迫切。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/10/2025, 2:20:59 AM</code>
+<code  align="right">update: 4/10/2025, 9:11:19 AM</code>
