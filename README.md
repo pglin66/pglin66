@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名新农民，各种技术的菜鸟。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 当然你应该努力争取，最好还要充满斗志。但你要记住：没有，没有什么东西值得为之奋斗，这样你就永远不会太过迫切。
+- ✨ 我知道自己想要的是什么了——一杯冰啤酒，和看云彩的自由时间！从过去到现在，我想要的仅此而已。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pglin66&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglin66&layout=compact)](https://github.com/pglin66/vue-cli-plugin-synciconfont)
 
-<code  align="right">update: 4/11/2025, 2:19:33 AM</code>
+<code  align="right">update: 4/11/2025, 9:11:52 AM</code>
